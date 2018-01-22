@@ -3,13 +3,12 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Matthew Guay <matthew.guay@nih.gov>
 
 # THANKS
 
-    <name>
+    Richard Leapman
 
 # TECHNOLOGY COLOPHON
 
-    CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    CSS3, HTML5, jQuery, Modernizr, Normalize.css
