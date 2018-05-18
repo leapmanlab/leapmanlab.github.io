@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+python3.6 python/rebuild_index.py snapshots
+git add .
+git commit -m "Rebuilt docs"
+git push origin HEAD:master

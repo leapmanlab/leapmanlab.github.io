@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+img { background: transparent; }
+img.mini { }
+.inner {
+  width: 67%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+div.thumbnail { }
+
+.thumbnail p {
+  width: 100%;
+  text-align: center;
+}
