@@ -18,11 +18,11 @@
   - Even incremental progress has brought great gains to many fields of science and technology, and our ability to fully exploit high-throughput imaging tools is tied to that progress. 
   - I don't think anybody in computer vision believes image understanding will be completely solved in the next 5-10 years. In the meantime progress is being made, and I believe the NIH should be producers, not just consumers, of that progress.
 * Restricting ourselves to the vision problems relevant to biomedicine, there are several domains where the NIH may have a comparative advantage, assuming we can get enough of a team together:
-  (1) "Universal" biomedical segmentation algorithms.
-  (2) "Universal" computer assisted diagnostic algorithms.
-  (3) "Universal" cell tracking and labeling algorithms.
-  (4) [_What else?_]
-  - "Universality": Algorithms which work across different problem instances without extensive retraining/supervised data generation. By problem instances, I mean different biological specimen type, different preparation conditions, different image acquisition methods, [_anything else?_].
+  - "Universal" biomedical segmentation algorithms.
+  - "Universal" computer assisted diagnostic algorithms.
+  - "Universal" cell tracking and labeling algorithms.
+  - [_What else?_]
+* "Universality": Algorithms which work across different problem instances without extensive retraining/supervised data generation. By problem instances, I mean different biological specimen type, different preparation conditions, different image acquisition methods, [_anything else?_].
   - A trans-institute machine learning team could greatly benefit from the data available across the spectra of imaging modalities and biological structure types.
 * Even partial solutions have direct benefits for labs here and elsewhere.
 * Even ignoring machine learning, labs at the NIH would benefit from better support for data science and scientific computing. Putting together and scaling an effective analysis pipeline for a high-throughput imaging device requires specialized scientific computing support, even when individual pipeline elements are addressing solved problems.
