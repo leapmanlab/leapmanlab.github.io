@@ -1,269 +1,269 @@
-<div class="thumbnail"><a href="Unet0523BiggerResblocks_-3"><h2>Unet0523BiggerResblocks_-3</h2></a><p>(23 May 2018, 19:21:34)
-</p><a href="Unet0523BiggerResblocks_-3"><img src="Unet0523BiggerResblocks_-3/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0523BiggerResblocks_-5"><h2>Unet0523BiggerResblocks_-5</h2></a><p>(23 May 2018, 18:58:09)
-</p><a href="Unet0523BiggerResblocks_-5"><img src="Unet0523BiggerResblocks_-5/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0523BiggerResblocks_-7"><h2>Unet0523BiggerResblocks_-7</h2></a><p>(23 May 2018, 18:11:08)
-</p><a href="Unet0523BiggerResblocks_-7"><img src="Unet0523BiggerResblocks_-7/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0523BiggerResblocks_-9"><h2>Unet0523BiggerResblocks_-9</h2></a><p>(23 May 2018, 17:24:23)
-</p><a href="Unet0523BiggerResblocks_-9"><img src="Unet0523BiggerResblocks_-9/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0523BiggerResblocks_-11"><h2>Unet0523BiggerResblocks_-11</h2></a><p>(23 May 2018, 16:38:08)
-</p><a href="Unet0523BiggerResblocks_-11"><img src="Unet0523BiggerResblocks_-11/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0523Resblock_-3"><h2>Unet0523Resblock_-3</h2></a><p>(23 May 2018, 13:42:02)
-</p><a href="Unet0523Resblock_-3"><img src="Unet0523Resblock_-3/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0523Resblock_-2"><h2>Unet0523Resblock_-2</h2></a><p>(23 May 2018, 13:42:02)
-</p><a href="Unet0523Resblock_-2"><img src="Unet0523Resblock_-2/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0523Resblock_-1"><h2>Unet0523Resblock_-1</h2></a><p>(23 May 2018, 13:42:02)
-</p><a href="Unet0523Resblock_-1"><img src="Unet0523Resblock_-1/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0523Resblock_0"><h2>Unet0523Resblock_0</h2></a><p>(23 May 2018, 13:42:02)
-</p><a href="Unet0523Resblock_0"><img src="Unet0523Resblock_0/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0523Resblock_-4"><h2>Unet0523Resblock_-4</h2></a><p>(23 May 2018, 13:37:32)
-</p><a href="Unet0523Resblock_-4"><img src="Unet0523Resblock_-4/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0523Resblock_-5"><h2>Unet0523Resblock_-5</h2></a><p>(23 May 2018, 13:37:25)
-</p><a href="Unet0523Resblock_-5"><img src="Unet0523Resblock_-5/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0514LogL2Kernel_-11"><h2>Unet0514LogL2Kernel_-11</h2></a><p>(22 May 2018, 15:24:15)
-</p><a href="Unet0514LogL2Kernel_-11"><img src="Unet0514LogL2Kernel_-11/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="UnetLog0514L1Kernel_-6"><h2>UnetLog0514L1Kernel_-6</h2></a><p>(22 May 2018, 15:20:27)
-</p><a href="UnetLog0514L1Kernel_-6"><img src="UnetLog0514L1Kernel_-6/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="UnetLog0514L1Kernel_-5"><h2>UnetLog0514L1Kernel_-5</h2></a><p>(22 May 2018, 15:20:27)
-</p><a href="UnetLog0514L1Kernel_-5"><img src="UnetLog0514L1Kernel_-5/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0514LogL2Kernel_-9"><h2>Unet0514LogL2Kernel_-9</h2></a><p>(22 May 2018, 15:20:27)
-</p><a href="Unet0514LogL2Kernel_-9"><img src="Unet0514LogL2Kernel_-9/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0514LogL2Kernel_-7"><h2>Unet0514LogL2Kernel_-7</h2></a><p>(22 May 2018, 15:20:27)
-</p><a href="Unet0514LogL2Kernel_-7"><img src="Unet0514LogL2Kernel_-7/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0514LogL2Kernel_-5"><h2>Unet0514LogL2Kernel_-5</h2></a><p>(22 May 2018, 15:20:27)
-</p><a href="Unet0514LogL2Kernel_-5"><img src="Unet0514LogL2Kernel_-5/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0514LogL2Kernel_-3"><h2>Unet0514LogL2Kernel_-3</h2></a><p>(22 May 2018, 15:20:27)
-</p><a href="Unet0514LogL2Kernel_-3"><img src="Unet0514LogL2Kernel_-3/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="WeightFloor_0.0001"><h2>WeightFloor_0.0001</h2></a><p>(22 May 2018, 15:04:56)
-</p><a href="WeightFloor_0.0001"><img src="WeightFloor_0.0001/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0518LogL2_-11"><h2>Unet0518LogL2_-11</h2></a><p>(22 May 2018, 14:56:14)
-</p><a href="Unet0518LogL2_-11"><img src="Unet0518LogL2_-11/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="WeightFloor_0.001"><h2>WeightFloor_0.001</h2></a><p>(22 May 2018, 14:56:14)
-</p><a href="WeightFloor_0.001"><img src="WeightFloor_0.001/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="WeightFloor_0.01"><h2>WeightFloor_0.01</h2></a><p>(22 May 2018, 14:54:13)
-</p><a href="WeightFloor_0.01"><img src="WeightFloor_0.01/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="UnetLog0514L1_-7"><h2>UnetLog0514L1_-7</h2></a><p>(22 May 2018, 14:54:13)
-</p><a href="UnetLog0514L1_-7"><img src="UnetLog0514L1_-7/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="UnetLog0514L1_-6"><h2>UnetLog0514L1_-6</h2></a><p>(22 May 2018, 14:54:13)
-</p><a href="UnetLog0514L1_-6"><img src="UnetLog0514L1_-6/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="UnetLog0514L1_-5"><h2>UnetLog0514L1_-5</h2></a><p>(22 May 2018, 14:54:13)
-</p><a href="UnetLog0514L1_-5"><img src="UnetLog0514L1_-5/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="UnetLog0514L1_-4"><h2>UnetLog0514L1_-4</h2></a><p>(22 May 2018, 14:54:13)
-</p><a href="UnetLog0514L1_-4"><img src="UnetLog0514L1_-4/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="UnetLog0514L1_-3"><h2>UnetLog0514L1_-3</h2></a><p>(22 May 2018, 14:54:13)
-</p><a href="UnetLog0514L1_-3"><img src="UnetLog0514L1_-3/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0514LogL2_-9"><h2>Unet0514LogL2_-9</h2></a><p>(22 May 2018, 14:54:13)
-</p><a href="Unet0514LogL2_-9"><img src="Unet0514LogL2_-9/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0514LogL2_-7"><h2>Unet0514LogL2_-7</h2></a><p>(22 May 2018, 14:54:13)
-</p><a href="Unet0514LogL2_-7"><img src="Unet0514LogL2_-7/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0514LogL2_-5"><h2>Unet0514LogL2_-5</h2></a><p>(22 May 2018, 14:54:13)
-</p><a href="Unet0514LogL2_-5"><img src="Unet0514LogL2_-5/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0513LogL2_-9"><h2>Unet0513LogL2_-9</h2></a><p>(22 May 2018, 14:54:13)
-</p><a href="Unet0513LogL2_-9"><img src="Unet0513LogL2_-9/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0513LogL2_-7"><h2>Unet0513LogL2_-7</h2></a><p>(22 May 2018, 14:54:13)
-</p><a href="Unet0513LogL2_-7"><img src="Unet0513LogL2_-7/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0514LogL2_-11"><h2>Unet0514LogL2_-11</h2></a><p>(18 May 2018, 19:42:16)
-</p><a href="Unet0514LogL2_-11"><img src="Unet0514LogL2_-11/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="Unet0513LogL2_-11"><h2>Unet0513LogL2_-11</h2></a><p>(18 May 2018, 19:42:16)
-</p><a href="Unet0513LogL2_-11"><img src="Unet0513LogL2_-11/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="WeightFloor_0.1"><h2>WeightFloor_0.1</h2></a><p>(18 May 2018, 19:09:27)
-</p><a href="WeightFloor_0.1"><img src="WeightFloor_0.1/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="UnetLogL1L2_-7"><h2>UnetLogL1L2_-7</h2></a><p>(18 May 2018, 19:00:48)
-</p><a href="UnetLogL1L2_-7"><img src="UnetLogL1L2_-7/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="UnetLogL1L2_-6"><h2>UnetLogL1L2_-6</h2></a><p>(18 May 2018, 19:00:48)
-</p><a href="UnetLogL1L2_-6"><img src="UnetLogL1L2_-6/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="UnetLogL1L2_-5"><h2>UnetLogL1L2_-5</h2></a><p>(18 May 2018, 19:00:48)
-</p><a href="UnetLogL1L2_-5"><img src="UnetLogL1L2_-5/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="UnetLogL1L2_-4"><h2>UnetLogL1L2_-4</h2></a><p>(18 May 2018, 19:00:48)
-</p><a href="UnetLogL1L2_-4"><img src="UnetLogL1L2_-4/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="UnetLogL1L2_-3"><h2>UnetLogL1L2_-3</h2></a><p>(18 May 2018, 19:00:48)
-</p><a href="UnetLogL1L2_-3"><img src="UnetLogL1L2_-3/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="UnetLogL1L2_-2"><h2>UnetLogL1L2_-2</h2></a><p>(18 May 2018, 19:00:48)
-</p><a href="UnetLogL1L2_-2"><img src="UnetLogL1L2_-2/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
-
----
-
-<div class="thumbnail"><a href="WeightFloor_1"><h2>WeightFloor_1</h2></a><p>(18 May 2018, 18:54:28)
+<div class="thumbnail"><a href="WeightFloor_1"><h2>WeightFloor_1</h2></a><p>(24 May 2018, 17:24:23)
 </p><a href="WeightFloor_1"><img src="WeightFloor_1/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
 
 ---
 
-<div class="thumbnail"><a href="UnetLogL2_-7"><h2>UnetLogL2_-7</h2></a><p>(18 May 2018, 18:41:29)
+<div class="thumbnail"><a href="WeightFloor_0.1"><h2>WeightFloor_0.1</h2></a><p>(24 May 2018, 17:24:23)
+</p><a href="WeightFloor_0.1"><img src="WeightFloor_0.1/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="WeightFloor_0.01"><h2>WeightFloor_0.01</h2></a><p>(24 May 2018, 17:24:23)
+</p><a href="WeightFloor_0.01"><img src="WeightFloor_0.01/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="WeightFloor_0.001"><h2>WeightFloor_0.001</h2></a><p>(24 May 2018, 17:24:23)
+</p><a href="WeightFloor_0.001"><img src="WeightFloor_0.001/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="WeightFloor_0.0001"><h2>WeightFloor_0.0001</h2></a><p>(24 May 2018, 17:24:23)
+</p><a href="WeightFloor_0.0001"><img src="WeightFloor_0.0001/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="UnetLogL2_-7"><h2>UnetLogL2_-7</h2></a><p>(24 May 2018, 17:24:23)
 </p><a href="UnetLogL2_-7"><img src="UnetLogL2_-7/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
 
 ---
 
-<div class="thumbnail"><a href="UnetLogL2_-6"><h2>UnetLogL2_-6</h2></a><p>(18 May 2018, 18:41:29)
+<div class="thumbnail"><a href="UnetLogL2_-6"><h2>UnetLogL2_-6</h2></a><p>(24 May 2018, 17:24:23)
 </p><a href="UnetLogL2_-6"><img src="UnetLogL2_-6/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
 
 ---
 
-<div class="thumbnail"><a href="UnetLogL2_-5"><h2>UnetLogL2_-5</h2></a><p>(18 May 2018, 18:41:29)
+<div class="thumbnail"><a href="UnetLogL2_-5"><h2>UnetLogL2_-5</h2></a><p>(24 May 2018, 17:24:23)
 </p><a href="UnetLogL2_-5"><img src="UnetLogL2_-5/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
 
 ---
 
-<div class="thumbnail"><a href="UnetLogL2_-4"><h2>UnetLogL2_-4</h2></a><p>(18 May 2018, 18:41:29)
+<div class="thumbnail"><a href="UnetLogL2_-4"><h2>UnetLogL2_-4</h2></a><p>(24 May 2018, 17:24:23)
 </p><a href="UnetLogL2_-4"><img src="UnetLogL2_-4/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
 
 ---
 
-<div class="thumbnail"><a href="UnetLogL2_-3"><h2>UnetLogL2_-3</h2></a><p>(18 May 2018, 18:41:29)
+<div class="thumbnail"><a href="UnetLogL2_-3"><h2>UnetLogL2_-3</h2></a><p>(24 May 2018, 17:24:23)
 </p><a href="UnetLogL2_-3"><img src="UnetLogL2_-3/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
 
 ---
 
-<div class="thumbnail"><a href="UnetLogL2_-2"><h2>UnetLogL2_-2</h2></a><p>(18 May 2018, 18:41:29)
+<div class="thumbnail"><a href="UnetLogL2_-2"><h2>UnetLogL2_-2</h2></a><p>(24 May 2018, 17:24:23)
 </p><a href="UnetLogL2_-2"><img src="UnetLogL2_-2/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
 
 ---
 
-<div class="thumbnail"><a href="UnetLogL1_-7"><h2>UnetLogL1_-7</h2></a><p>(18 May 2018, 18:41:29)
+<div class="thumbnail"><a href="UnetLogL1_-7"><h2>UnetLogL1_-7</h2></a><p>(24 May 2018, 17:24:23)
 </p><a href="UnetLogL1_-7"><img src="UnetLogL1_-7/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
 
 ---
 
-<div class="thumbnail"><a href="UnetLogL1_-6"><h2>UnetLogL1_-6</h2></a><p>(18 May 2018, 18:41:29)
+<div class="thumbnail"><a href="UnetLogL1_-6"><h2>UnetLogL1_-6</h2></a><p>(24 May 2018, 17:24:23)
 </p><a href="UnetLogL1_-6"><img src="UnetLogL1_-6/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
 
 ---
 
-<div class="thumbnail"><a href="UnetLogL1_-5"><h2>UnetLogL1_-5</h2></a><p>(18 May 2018, 18:41:29)
+<div class="thumbnail"><a href="UnetLogL1_-5"><h2>UnetLogL1_-5</h2></a><p>(24 May 2018, 17:24:23)
 </p><a href="UnetLogL1_-5"><img src="UnetLogL1_-5/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
 
 ---
 
-<div class="thumbnail"><a href="UnetLogL1_-4"><h2>UnetLogL1_-4</h2></a><p>(18 May 2018, 18:41:29)
+<div class="thumbnail"><a href="UnetLogL1_-4"><h2>UnetLogL1_-4</h2></a><p>(24 May 2018, 17:24:23)
 </p><a href="UnetLogL1_-4"><img src="UnetLogL1_-4/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
 
 ---
 
-<div class="thumbnail"><a href="UnetLogL1_-3"><h2>UnetLogL1_-3</h2></a><p>(18 May 2018, 18:41:29)
+<div class="thumbnail"><a href="UnetLogL1_-3"><h2>UnetLogL1_-3</h2></a><p>(24 May 2018, 17:24:23)
 </p><a href="UnetLogL1_-3"><img src="UnetLogL1_-3/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
 
 ---
 
-<div class="thumbnail"><a href="UnetLogL1_-2"><h2>UnetLogL1_-2</h2></a><p>(18 May 2018, 18:41:29)
+<div class="thumbnail"><a href="UnetLogL1_-2"><h2>UnetLogL1_-2</h2></a><p>(24 May 2018, 17:24:23)
 </p><a href="UnetLogL1_-2"><img src="UnetLogL1_-2/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="UnetLogL1L2_-7"><h2>UnetLogL1L2_-7</h2></a><p>(24 May 2018, 17:24:22)
+</p><a href="UnetLogL1L2_-7"><img src="UnetLogL1L2_-7/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="UnetLogL1L2_-6"><h2>UnetLogL1L2_-6</h2></a><p>(24 May 2018, 17:24:22)
+</p><a href="UnetLogL1L2_-6"><img src="UnetLogL1L2_-6/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="UnetLogL1L2_-5"><h2>UnetLogL1L2_-5</h2></a><p>(24 May 2018, 17:24:22)
+</p><a href="UnetLogL1L2_-5"><img src="UnetLogL1L2_-5/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="UnetLogL1L2_-4"><h2>UnetLogL1L2_-4</h2></a><p>(24 May 2018, 17:24:22)
+</p><a href="UnetLogL1L2_-4"><img src="UnetLogL1L2_-4/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="UnetLogL1L2_-3"><h2>UnetLogL1L2_-3</h2></a><p>(24 May 2018, 17:24:22)
+</p><a href="UnetLogL1L2_-3"><img src="UnetLogL1L2_-3/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="UnetLogL1L2_-2"><h2>UnetLogL1L2_-2</h2></a><p>(24 May 2018, 17:24:22)
+</p><a href="UnetLogL1L2_-2"><img src="UnetLogL1L2_-2/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="UnetLog0514L1_-7"><h2>UnetLog0514L1_-7</h2></a><p>(24 May 2018, 17:24:22)
+</p><a href="UnetLog0514L1_-7"><img src="UnetLog0514L1_-7/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="UnetLog0514L1_-6"><h2>UnetLog0514L1_-6</h2></a><p>(24 May 2018, 17:24:22)
+</p><a href="UnetLog0514L1_-6"><img src="UnetLog0514L1_-6/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="UnetLog0514L1_-5"><h2>UnetLog0514L1_-5</h2></a><p>(24 May 2018, 17:24:22)
+</p><a href="UnetLog0514L1_-5"><img src="UnetLog0514L1_-5/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="UnetLog0514L1_-4"><h2>UnetLog0514L1_-4</h2></a><p>(24 May 2018, 17:24:22)
+</p><a href="UnetLog0514L1_-4"><img src="UnetLog0514L1_-4/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="UnetLog0514L1_-3"><h2>UnetLog0514L1_-3</h2></a><p>(24 May 2018, 17:24:21)
+</p><a href="UnetLog0514L1_-3"><img src="UnetLog0514L1_-3/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="UnetLog0514L1Kernel_-6"><h2>UnetLog0514L1Kernel_-6</h2></a><p>(24 May 2018, 17:24:21)
+</p><a href="UnetLog0514L1Kernel_-6"><img src="UnetLog0514L1Kernel_-6/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="UnetLog0514L1Kernel_-5"><h2>UnetLog0514L1Kernel_-5</h2></a><p>(24 May 2018, 17:24:21)
+</p><a href="UnetLog0514L1Kernel_-5"><img src="UnetLog0514L1Kernel_-5/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0523Resblock_0"><h2>Unet0523Resblock_0</h2></a><p>(24 May 2018, 17:24:21)
+</p><a href="Unet0523Resblock_0"><img src="Unet0523Resblock_0/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0523Resblock_-5"><h2>Unet0523Resblock_-5</h2></a><p>(24 May 2018, 17:24:21)
+</p><a href="Unet0523Resblock_-5"><img src="Unet0523Resblock_-5/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0523Resblock_-4"><h2>Unet0523Resblock_-4</h2></a><p>(24 May 2018, 17:24:21)
+</p><a href="Unet0523Resblock_-4"><img src="Unet0523Resblock_-4/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0523Resblock_-3"><h2>Unet0523Resblock_-3</h2></a><p>(24 May 2018, 17:24:21)
+</p><a href="Unet0523Resblock_-3"><img src="Unet0523Resblock_-3/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0523Resblock_-2"><h2>Unet0523Resblock_-2</h2></a><p>(24 May 2018, 17:24:21)
+</p><a href="Unet0523Resblock_-2"><img src="Unet0523Resblock_-2/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0523Resblock_-1"><h2>Unet0523Resblock_-1</h2></a><p>(24 May 2018, 17:24:21)
+</p><a href="Unet0523Resblock_-1"><img src="Unet0523Resblock_-1/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0523BiggerResblocks_-9"><h2>Unet0523BiggerResblocks_-9</h2></a><p>(24 May 2018, 17:24:21)
+</p><a href="Unet0523BiggerResblocks_-9"><img src="Unet0523BiggerResblocks_-9/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0523BiggerResblocks_-7"><h2>Unet0523BiggerResblocks_-7</h2></a><p>(24 May 2018, 17:24:20)
+</p><a href="Unet0523BiggerResblocks_-7"><img src="Unet0523BiggerResblocks_-7/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0523BiggerResblocks_-5"><h2>Unet0523BiggerResblocks_-5</h2></a><p>(24 May 2018, 17:24:20)
+</p><a href="Unet0523BiggerResblocks_-5"><img src="Unet0523BiggerResblocks_-5/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0523BiggerResblocks_-3"><h2>Unet0523BiggerResblocks_-3</h2></a><p>(24 May 2018, 17:24:20)
+</p><a href="Unet0523BiggerResblocks_-3"><img src="Unet0523BiggerResblocks_-3/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0523BiggerResblocks_-11"><h2>Unet0523BiggerResblocks_-11</h2></a><p>(24 May 2018, 17:24:20)
+</p><a href="Unet0523BiggerResblocks_-11"><img src="Unet0523BiggerResblocks_-11/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0518LogL2_-11"><h2>Unet0518LogL2_-11</h2></a><p>(24 May 2018, 17:24:20)
+</p><a href="Unet0518LogL2_-11"><img src="Unet0518LogL2_-11/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0514LogL2_-9"><h2>Unet0514LogL2_-9</h2></a><p>(24 May 2018, 17:24:20)
+</p><a href="Unet0514LogL2_-9"><img src="Unet0514LogL2_-9/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0514LogL2_-7"><h2>Unet0514LogL2_-7</h2></a><p>(24 May 2018, 17:24:20)
+</p><a href="Unet0514LogL2_-7"><img src="Unet0514LogL2_-7/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0514LogL2_-5"><h2>Unet0514LogL2_-5</h2></a><p>(24 May 2018, 17:24:20)
+</p><a href="Unet0514LogL2_-5"><img src="Unet0514LogL2_-5/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0514LogL2_-11"><h2>Unet0514LogL2_-11</h2></a><p>(24 May 2018, 17:24:20)
+</p><a href="Unet0514LogL2_-11"><img src="Unet0514LogL2_-11/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0514LogL2Kernel_-9"><h2>Unet0514LogL2Kernel_-9</h2></a><p>(24 May 2018, 17:24:20)
+</p><a href="Unet0514LogL2Kernel_-9"><img src="Unet0514LogL2Kernel_-9/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0514LogL2Kernel_-7"><h2>Unet0514LogL2Kernel_-7</h2></a><p>(24 May 2018, 17:24:20)
+</p><a href="Unet0514LogL2Kernel_-7"><img src="Unet0514LogL2Kernel_-7/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0514LogL2Kernel_-5"><h2>Unet0514LogL2Kernel_-5</h2></a><p>(24 May 2018, 17:24:20)
+</p><a href="Unet0514LogL2Kernel_-5"><img src="Unet0514LogL2Kernel_-5/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0514LogL2Kernel_-3"><h2>Unet0514LogL2Kernel_-3</h2></a><p>(24 May 2018, 17:24:20)
+</p><a href="Unet0514LogL2Kernel_-3"><img src="Unet0514LogL2Kernel_-3/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0514LogL2Kernel_-11"><h2>Unet0514LogL2Kernel_-11</h2></a><p>(24 May 2018, 17:24:20)
+</p><a href="Unet0514LogL2Kernel_-11"><img src="Unet0514LogL2Kernel_-11/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0513LogL2_-9"><h2>Unet0513LogL2_-9</h2></a><p>(24 May 2018, 17:24:20)
+</p><a href="Unet0513LogL2_-9"><img src="Unet0513LogL2_-9/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0513LogL2_-7"><h2>Unet0513LogL2_-7</h2></a><p>(24 May 2018, 17:24:20)
+</p><a href="Unet0513LogL2_-7"><img src="Unet0513LogL2_-7/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
+
+---
+
+<div class="thumbnail"><a href="Unet0513LogL2_-11"><h2>Unet0513LogL2_-11</h2></a><p>(24 May 2018, 17:24:20)
+</p><a href="Unet0513LogL2_-11"><img src="Unet0513LogL2_-11/media/thumbnail.png" align="center"></a><p><i>Click for more details</i></p></div>
 
 ---
