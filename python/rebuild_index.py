@@ -74,7 +74,7 @@ def gen_thumbnail_text(root_dir: str,
         return ('<div class="thumbnail"><a href="{0}">'.format(d_name) +
                '<h2>{0}</h2></a><p>({1})\n</p>'.format(d_name, d_mtime) +
                '<a href="{0}"><img src="{1}"'.format(d_name, thumb) +
-               'align="center">' +
+               ' align="center">' +
                '</a><p><i>Click for more details</i></p></div>\n\n' +
                '---')
     else:
