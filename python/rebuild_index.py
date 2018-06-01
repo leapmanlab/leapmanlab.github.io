@@ -72,7 +72,7 @@ def gen_thumbnail_text(root_dir: str,
     if os.path.isfile(os.path.join(root_dir, thumb)):
         # Return an image link if the thumbnail exists
         return '<div class="thumbnail"><a href="{0}">'.format(d_name) \
-               '<h2>{0}</h2></a><p>({1})\n</p>'.format_(d_name, d_mtime) \
+               '<h2>{0}</h2></a><p>({1})\n</p>'.format(d_name, d_mtime) \
                '<a href="{0}"><img src="{1}"'.format(d_name, thumb) \  
                'align="center">' \
                '</a><p><i>Click for more details</i></p></div>\n\n' \
