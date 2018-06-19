@@ -16,7 +16,27 @@ All taken from the main paper.
 
 <div class="images"><a href="figs/1%20segmentation%20evolution.png"><img  src="figs/1%20segmentation%20evolution.png" align="center"></a></div>
 
-Evolution of CNN + CRF segmentation algorithms.
+**1**. Evolution of CNN + CRF segmentation algorithms.
+
+<div class="images"><a href="figs/2%20pascal%20voc.png"><img  src="figs/2%20pascal%20voc.png" align="center"></a></div>
+
+**2**. Pascal VOC 2012 leaderboard (as of January 2018).
+
+<div class="images"><a href="figs/3%20mean-field%20update.png"><img  src="figs/3%20mean-field%20update.png" align="center"></a></div>
+
+**3**. The relationship between CRF pairwise potential choice and the CRF-as-RNN mean-field update equation.
+
+<div class="images"><a href="figs/4%20mean-field%20algorithm.png"><img  src="figs/4%20mean-field%20algorithm.png" align="center"></a></div>
+
+**4**. The CRF-as-RNN mean-field update equation as a neural network module.
+
+<div class="images"><a href="figs/5%20crf%20as%20rnn.png"><img  src="figs/5%20crf%20as%20rnn.png" align="center"></a></div>
+
+**5**. _Top_: High-level schematic of the CRF-as-RNN network. _Bottom_: Comparison of CRF+CNN approaches for a complex segmentation problem.
+
+<div class="images"><a href="figs/6%20mean%20field%20convergence.png"><img  src="figs/6%20mean%20field%20convergence.png" align="center"></a></div>
+
+**6**. Demonstration of the iterative mean field approximation algorithm's convergence.
 
 ---
 
