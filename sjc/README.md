@@ -2,4 +2,4 @@
 
 ## Resources
 
-June 19, 2018: [Conditional Random Fields and Convolutional Neural Networks](cnncrf)
+Week 2 (6/19/18): [Conditional Random Fields and Convolutional Neural Networks](2_cnncrf)
