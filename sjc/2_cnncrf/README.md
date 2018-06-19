@@ -6,6 +6,15 @@ Here are some resources from the segmentation journal club's June 19, 2018 meeti
 
 [Conditional Random Fields Meet Deep Neural Networks for Semantic Segmentation](http://www.robots.ox.ac.uk/~tvg/publications/2017/CRFMeetCNN4SemanticSegmentation.pdf) \[PDF\]
 
+## Presentation figures
+
+All taken from the main paper.
+
+<div class="images"><a href="figs/1%20segmentation%20evolution.png"><img  src="figs/1%20segmentation%20evolution.png" align="center"></a></div>
+
+Evolution of CNN + CRF segmentation algorithms.
+
+
 ## Important papers
 
 [Efficient inference in fully connected crfs with gaussian edge potentials](http://papers.nips.cc/paper/4296-efficient-inference-in-fully-connected-crfs-with-gaussian-edge-potentials.pdf) \[PDF\]
