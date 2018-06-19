@@ -73,7 +73,7 @@ Free Python libraries that should at least work on Linux and OSX.
 
 [Deeplabv2-TensorFlow](https://github.com/zhengyang-wang/Deeplab-v2--ResNet-101--Tensorflow). TensorFlow implementation of DeepLabv2.
 
-[tf.contrib.cf](https://www.tensorflow.org/api_docs/python/tf/contrib/crf). Exists, but looks geared toward CRF usage in NLP, not image processing.
+[tf.contrib.crf](https://www.tensorflow.org/api_docs/python/tf/contrib/crf). Exists, but looks geared toward CRF usage in NLP, not image processing.
 
 #### Caffe
 
