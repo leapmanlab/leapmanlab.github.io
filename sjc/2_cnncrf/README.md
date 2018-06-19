@@ -2,9 +2,13 @@
 
 Here are some resources from the segmentation journal club's June 19, 2018 meeting.
 
+---
+
 ## Main paper
 
 [Conditional Random Fields Meet Deep Neural Networks for Semantic Segmentation](http://www.robots.ox.ac.uk/~tvg/publications/2017/CRFMeetCNN4SemanticSegmentation.pdf) \[PDF\]
+
+---
 
 ## Presentation figures
 
@@ -13,6 +17,8 @@ All taken from the main paper.
 <div class="images"><a href="figs/1%20segmentation%20evolution.png"><img  src="figs/1%20segmentation%20evolution.png" align="center"></a></div>
 
 Evolution of CNN + CRF segmentation algorithms.
+
+---
 
 
 ## Important papers
@@ -33,11 +39,11 @@ One of the first two papers to introduce CRF approximation as neural network mod
 
 Forming higher-order CRF potentials using object detection and superpixel algorithms.
 
+---
+
 ## CRF Implementations
 
-Free software that should at least work on Linux and OSX.
-
-### Python 
+Free Python libraries that should at least work on Linux and OSX.
 
 [pydensecrf](https://github.com/lucasb-eyer/pydensecrf). DenseCRF using Cython. No GPU acceleration, can't learn end-to-end with a neural network module.
 
