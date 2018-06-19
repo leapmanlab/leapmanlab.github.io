@@ -71,14 +71,15 @@ def gen_thumbnail_text(root_dir: str,
 
     if os.path.isfile(os.path.join(root_dir, thumb)):
         # Return an image link if the thumbnail exists
-        return f'<div class="thumbnail"><a href="{d_name}">' \
-               f'<h2>{d_name}</h2></a><p>({d_mtime})\n</p>' \
-               f'<a href="{d_name}"><img src="{thumb}" align="center">' \
-               f'</a><p><i>Click for more details</i></p></div>\n\n' \
-               f'---'
+        return ('<div class="thumbnail"><a href="{0}">'.format(d_name) +
+               '<h2>{0}</h2></a><p>({1})\n</p>'.format(d_name, d_mtime) +
+               '<a href="{0}"><img src="{1}"'.format(d_name, thumb) +
+               ' align="center">' +
+               '</a><p><i>Click for more details</i></p></div>\n\n' +
+               '---')
     else:
         # Return a text link
-        return f'[{d_name}]({d_name}) ({d_mtime})'
+        return '[{0}]({1}) ({2})'.format(d_name, d_name, d_mtime)
 
 
 if __name__ == '__main__':
