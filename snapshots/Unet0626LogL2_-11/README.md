@@ -1,6 +1,6 @@
-# WeightFloor_1
+# Unet0626LogL2_-11
 
-### Step 100 (June 26 2018, 00:37:01)
+### Step 100 (June 26 2018, 00:32:20)
 
 [_Back_](..)
 
