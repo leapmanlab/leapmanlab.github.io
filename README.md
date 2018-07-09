@@ -8,6 +8,12 @@ An overview of the networks we're currently training as part of our electron mic
 
 [View here](snapshots)
 
+## Segmentation journal club
+
+Started Summer 2018 to keep abreast of the rapidly-changing image segmentation research.
+
+[Segmentation Journal Club](sjc)
+
 ## Resources
 
 Documents put together by LCIMB in the course of research.
