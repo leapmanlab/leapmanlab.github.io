@@ -11,9 +11,9 @@ Labs across the National Institutes of Health (NIH) are looking for students and
 
 The only trainee program with a hard yearly deadline. Open to students enrolled in a high school, undergraduate, or graduate program. USA citizenship or permanent residency required.
 
-_Application_ (high school): [https://www.training.nih.gov/programs/hs-sip](https://www.training.nih.gov/programs/hs-sip)
+**Application** (high school): [https://www.training.nih.gov/programs/hs-sip](https://www.training.nih.gov/programs/hs-sip)
 
-_Application_ (all others): [https://www.training.nih.gov/programs/sip](https://www.training.nih.gov/programs/sip)
+**Application** (all others): [https://www.training.nih.gov/programs/sip](https://www.training.nih.gov/programs/sip)
 
 **Deadline**: March 1, 2019
 
@@ -23,7 +23,7 @@ _Application_ (all others): [https://www.training.nih.gov/programs/sip](https://
 
 Open to recent bachelor’s degree recipients who intend to go on to graduate or professional school. USA citizenship or permanent residency required.
 
-_Application_: [https://www.training.nih.gov/programs/postbac_irta](https://www.training.nih.gov/programs/postbac_irta)
+**Application**: [https://www.training.nih.gov/programs/postbac_irta](https://www.training.nih.gov/programs/postbac_irta)
 
 ---
 
@@ -31,7 +31,7 @@ _Application_: [https://www.training.nih.gov/programs/postbac_irta](https://www.
 
 Many universities, including UMD, have partnership programs that allow graduate students to work with NIH labs on research projects. Open to students applying to graduate school, as well as students already in graduate school.
 
-_Application_: [https://www.training.nih.gov/programs/gpp](https://www.training.nih.gov/programs/gpp)
+**Application**: [https://www.training.nih.gov/programs/gpp](https://www.training.nih.gov/programs/gpp)
 
 ---
 
@@ -39,7 +39,7 @@ _Application_: [https://www.training.nih.gov/programs/gpp](https://www.training.
 
 After completing a PhD, individuals interested in continuing a research career may join the NIH as a postdoctoral fellow. Apply directly to prospective labs, see reverse for contact information.
 
-_More information_: [https://www.training.nih.gov/programs/postdoc_irp](https://www.training.nih.gov/programs/postdoc_irp)
+**More information**: [https://www.training.nih.gov/programs/postdoc_irp](https://www.training.nih.gov/programs/postdoc_irp)
 
 ---
 
@@ -62,9 +62,9 @@ Below are some of the groups working on computational projects at NIH. Applicati
 
 Help microscopy imaging labs across the NIH solve image analysis and machine learning problems.
 
-Seeking: Intern, postbac, scientific computing specialist (BS/MS).
+**Seeking**: Intern, postbac, scientific computing specialist (BS/MS).
 
-Contact: Dr. Hari Shroff <hari.shroff@nih.gov>
+**Contact**: Dr. Hari Shroff <hari.shroff@nih.gov>
 
 ---
 
@@ -72,9 +72,9 @@ Contact: Dr. Hari Shroff <hari.shroff@nih.gov>
 
 Research ways to collect, analyze, interpret, and share MRI datasets in support of the NIMH.
 
-Seeking: Intern, postbac, postdoc
+**Seeking**: Intern, postbac, postdoc
 
-Contact: Dr. Peter Bandettini <BandettiniLabJobs@mail.nih.gov>
+**Contact**: Dr. Peter Bandettini <BandettiniLabJobs@mail.nih.gov>
 
 ---
 
@@ -82,9 +82,9 @@ Contact: Dr. Peter Bandettini <BandettiniLabJobs@mail.nih.gov>
 
 Build an online portal to browse, visualize, and share genome sequencing data across populations.
 
-_Seeking_: Intern, postbac, postdoc
+**Seeking**: Intern, postbac, postdoc
 
-_Contact_: Dr. Andrew Singleton <singleta@mail.nih.gov>
+**Contact**: Dr. Andrew Singleton <singleta@mail.nih.gov>
 
 ---
 
@@ -92,9 +92,9 @@ _Contact_: Dr. Andrew Singleton <singleta@mail.nih.gov>
 
 Use machine learning to solve image and natural language processing problems for biomedicine.
 
-_Seeking_: Intern, postbac
+**Seeking**: Intern, postbac
 
-_Contact_: Dr. Stefan Jaeger <stefan.jaeger@nih.gov>
+**Contact**: Dr. Stefan Jaeger <stefan.jaeger@nih.gov>
 
 ---
 
@@ -102,9 +102,9 @@ _Contact_: Dr. Stefan Jaeger <stefan.jaeger@nih.gov>
 
 Research and develop 3D image analysis and computer vision tools for biological electron microscopy.
 
-Seeking: Intern, machine learning for imaging specialist (BS/MS)
+**Seeking**: Intern, machine learning for imaging specialist (BS/MS)
 
-Contact: Dr. Kedar Narayan <kedar.narayan@nih.gov>
+**Contact**: Dr. Kedar Narayan <kedar.narayan@nih.gov>
 
 ---
 
@@ -112,9 +112,9 @@ Contact: Dr. Kedar Narayan <kedar.narayan@nih.gov>
 
 Develop machine learning tools for computer-aided diagnosis of disease from radiology images and text.
 
-Seeking: Intern, postbac, graduate student
+**Seeking**: Intern, postbac, graduate student
 
-Contact: Dr. Ronald Summers <rsummers@cc.nih.gov>
+**Contact**: Dr. Ronald Summers <rsummers@cc.nih.gov>
 
 ---
 
@@ -122,9 +122,9 @@ Contact: Dr. Ronald Summers <rsummers@cc.nih.gov>
 
 Research and develop 3D image analysis and computer vision tools for biological electron microscopy.
 
-Seeking: Intern, postbac, scientific computing specialist (BS/MS)
+**Seeking**: Intern, postbac, scientific computing specialist (BS/MS)
 
-Contact: Dr. Matthew Guay <matthew.guay@nih.gov>
+**Contact**: Dr. Matthew Guay <matthew.guay@nih.gov>
 
 ---
 
@@ -132,9 +132,9 @@ Contact: Dr. Matthew Guay <matthew.guay@nih.gov>
 
 Use experimental data, modelling, and machine learning to study how brains process information.
 
-Seeking: Intern, postbac, graduate student, postdoc
+**Seeking**: Intern, postbac, graduate student, postdoc
 
-Contact: Dr. Mark Histed <mark.histed@nih.gov>
+**Contact**: Dr. Mark Histed <mark.histed@nih.gov>
 
 ---
 
