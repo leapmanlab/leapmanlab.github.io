@@ -42,7 +42,7 @@ def summarize_dir(root_dir: str):
     #
     def media_check(d):
         files = os.listdir(d)
-        return any(['summary.png' in fl for fl in files])
+        return any(['.png' in fl for fl in files])
 
     child_dirs = [os.path.join(root_dir, d) for d in os.listdir(root_dir)
                   if os.path.isdir(os.path.join(root_dir, d))
@@ -142,7 +142,7 @@ def build_index(root_dir: str,
               '---']
     index_parts = bumper[:]
     # Get a list of child dirs and their creation and last-modified times
-    dirs_info = [(d, os.path.getctime(d), os.path.getmtime(d), i)
+    dirs_info = [(d, os.path.getctime(d),  i)
                  for i, d in enumerate(child_dirs)]
     # Sort dirs by creation time, most-recent first
     dirs_info = sorted(dirs_info, reverse=True, key=lambda d: d[1])
@@ -172,22 +172,19 @@ def gen_summary_text(root_dir: str,
     d_name = child_dir_info[0].replace('snapshots/', '')
     d_ctime = datetime.fromtimestamp(child_dir_info[1]).strftime(
         'Created %d %b %Y, %H:%M:%S')
-    d_mtime = datetime.fromtimestamp(child_dir_info[2]).strftime(
-        'Modified %d %b %Y, %H:%M:%S')
 
     child_link = os.path.basename(d_name)
     disp_n = d_name.replace('/', ' / ')
 
     if stats['leaf']:
         # Leaf directories have simpler stats
-
         summary_image = os.path.join(child_link,
                                      'media',
                                      'summary.png')
 
         # Summary image links to the child_dir's README.md
         image_text = f'<div class="summary"><a href="{child_link}">' \
-                     f'<h2>{disp_n}</h2></a><p>({d_ctime}. {d_mtime})\n</p>' \
+                     f'<h2>{disp_n}</h2></a><p>{d_ctime}\n</p>' \
                      f'<a href="{child_link}"><img src="{summary_image}"' \
                      f' align="center">' \
                      f'</a><p>\n<i>Click for more details</i>\n</p></div>'
@@ -206,7 +203,7 @@ def gen_summary_text(root_dir: str,
 
         # Summary image links to the child_dir's README.md
         image_text = f'<div class="summary"><a href="{child_link}">' \
-                     f'<h2>{disp_n}</h2></a><p>({d_ctime}. {d_mtime})\n</p>' \
+                     f'<h2>{disp_n}</h2></a><p>{d_ctime}\n</p>' \
                      f'<a href="{child_link}"><img src="{summary_image}"' \
                      f' align="center">' \
                      f'</a><p><i>Click image for more details</i>\n</p></div>'

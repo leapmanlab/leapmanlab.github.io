@@ -3,12 +3,12 @@
 
 ---
 
-<div class="summary"><a href="0"><h2>unet / 1212 / 0</h2></a><p>Created 13 Dec 2018, 09:43:01
+<div class="summary"><a href="0"><h2>random_2d_ed / 1210 / 30 / 0</h2></a><p>Created 13 Dec 2018, 09:43:01
 </p><a href="0"><img src="0/media/summary.png" align="center"></a><p>
 <i>Click for more details</i>
 </p></div>
 
-**ari**: 0.7698. **miou**: 0.4304. **accuracy**: 0.9063. **n_params**: 31030983.0000. 
+**ari**: 0.6325. **miou**: 0.2337. **accuracy**: 0.8601. **n_params**: 456204.0000. 
 
 ---
 
