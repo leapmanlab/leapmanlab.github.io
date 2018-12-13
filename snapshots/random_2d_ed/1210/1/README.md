@@ -3,7 +3,16 @@
 
 ---
 
-<div class="summary"><a href="3"><h2>random_2d_ed / 1210 / 1 / 3</h2></a><p>(Created 13 Dec 2018, 09:21:56. Modified 13 Dec 2018, 09:21:56)
+<div class="summary"><a href="5"><h2>random_2d_ed / 1210 / 1 / 5</h2></a><p>(Created 13 Dec 2018, 16:39:45. Modified 13 Dec 2018, 16:39:45)
+</p><a href="5"><img src="5/media/summary.png" align="center"></a><p>
+<i>Click for more details</i>
+</p></div>
+
+**ari**: 0.7873. **miou**: 0.4845. **accuracy**: 0.9131. **n_params**: 6273536.0000. 
+
+---
+
+<div class="summary"><a href="3"><h2>random_2d_ed / 1210 / 1 / 3</h2></a><p>(Created 13 Dec 2018, 16:39:45. Modified 13 Dec 2018, 16:39:45)
 </p><a href="3"><img src="3/media/summary.png" align="center"></a><p>
 <i>Click for more details</i>
 </p></div>
@@ -12,7 +21,7 @@
 
 ---
 
-<div class="summary"><a href="2"><h2>random_2d_ed / 1210 / 1 / 2</h2></a><p>(Created 13 Dec 2018, 09:21:56. Modified 13 Dec 2018, 09:21:56)
+<div class="summary"><a href="2"><h2>random_2d_ed / 1210 / 1 / 2</h2></a><p>(Created 13 Dec 2018, 16:39:45. Modified 13 Dec 2018, 16:39:45)
 </p><a href="2"><img src="2/media/summary.png" align="center"></a><p>
 <i>Click for more details</i>
 </p></div>
@@ -21,7 +30,7 @@
 
 ---
 
-<div class="summary"><a href="0"><h2>random_2d_ed / 1210 / 1 / 0</h2></a><p>(Created 13 Dec 2018, 09:21:56. Modified 13 Dec 2018, 09:21:56)
+<div class="summary"><a href="0"><h2>random_2d_ed / 1210 / 1 / 0</h2></a><p>(Created 13 Dec 2018, 16:39:45. Modified 13 Dec 2018, 16:39:45)
 </p><a href="0"><img src="0/media/summary.png" align="center"></a><p>
 <i>Click for more details</i>
 </p></div>
@@ -30,7 +39,7 @@
 
 ---
 
-<div class="summary"><a href="1"><h2>random_2d_ed / 1210 / 1 / 1</h2></a><p>(Created 13 Dec 2018, 09:21:56. Modified 13 Dec 2018, 09:21:56)
+<div class="summary"><a href="1"><h2>random_2d_ed / 1210 / 1 / 1</h2></a><p>(Created 13 Dec 2018, 16:39:45. Modified 13 Dec 2018, 16:39:45)
 </p><a href="1"><img src="1/media/summary.png" align="center"></a><p>
 <i>Click for more details</i>
 </p></div>
