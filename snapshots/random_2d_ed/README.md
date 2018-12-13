@@ -3,13 +3,13 @@
 
 ---
 
-<div class="summary"><a href="1210"><h2>random_2d_ed / 1210</h2></a><p>(Created 13 Dec 2018, 16:44:48. Modified 13 Dec 2018, 16:44:48)
+<div class="summary"><a href="1210"><h2>random_2d_ed / 1210</h2></a><p>Created 13 Dec 2018, 16:45:49
 </p><a href="1210"><img src="1210/1/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
 228 nets
 
-**ari**: min -0.0000. max 0.8241. mean 0.7037.  ([best net](1210/31/0))
+**ari**: min -0.0000. max 0.8241. mean 0.7038.  ([best net](1210/31/0))
 
 **miou**: min 0.0663. max 0.5853. mean 0.3692.  ([best net](1210/1/0))
 
