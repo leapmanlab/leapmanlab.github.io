@@ -3,7 +3,7 @@
 
 ---
 
-<div class="summary"><a href="1210"><h2>weight_volume / 1210</h2></a><p>(Created 12 Dec 2018, 22:07:56. Modified 12 Dec 2018, 22:07:56)
+<div class="summary"><a href="1210"><h2>weight_volume / 1210</h2></a><p>Created 13 Dec 2018, 10:03:55
 </p><a href="1210"><img src="1210/001/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
