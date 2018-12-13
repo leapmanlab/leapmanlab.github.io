@@ -187,7 +187,7 @@ def gen_summary_text(root_dir: str,
                      f'<h2>{disp_n}</h2></a><p>({d_ctime}. {d_mtime})\n</p>' \
                      f'<a href="{child_link}"><img src="{summary_image}"' \
                      f' align="center">' \
-                     f'</a><p><i>Click for more details</i>\n</p></div>'
+                     f'</a><p>\n<i>Click for more details</i>\n</p></div>'
 
         stat_text_parts = [f'**{m}**: {stats[m][0]:.4f}. ' for m in METRICS]
         stat_text = ''.join(stat_text_parts)
@@ -212,7 +212,7 @@ def gen_summary_text(root_dir: str,
         stat_text_parts = [f'**{m}**: min {stats[m]["min"]:.4f}. '
                            f'max {stats[m]["max"]:.4f}. '
                            f'mean {stats[m]["mean"]:.4f}.  '
-                           f'([best net]({stats[m]["dir"]}))'
+                           f'([best net]({os.path.relpath(stats[m]["dir"], root_dir)}))'
                            for m in METRICS]
         stat_text = '\n\n'.join([f'{stats["n_nets"]} nets'] + stat_text_parts)
         summary_text = '\n\n'.join([image_text, stat_text, '---'])
