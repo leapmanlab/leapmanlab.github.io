@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-python3 rebuild_index.py
+python3.6 rebuild_index.py
 git add --all .
 git commit -m "Rebuilt docs"
 git push origin HEAD:master
