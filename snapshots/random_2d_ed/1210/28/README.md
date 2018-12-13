@@ -1,0 +1,53 @@
+
+[Back](..)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home](https://leapmanlab.github.io/snapshots)
+
+---
+
+<div class="summary"><a href="4"><h2>random_2d_ed / 1210 / 28 / 4</h2></a><p>(Created 13 Dec 2018, 09:21:58. Modified 13 Dec 2018, 09:21:58)
+</p><a href="4"><img src="4/media/summary.png" align="center"></a><p>
+<i>Click for more details</i>
+</p></div>
+
+**ari**: 0.6685. **miou**: 0.2402. **accuracy**: 0.8814. **n_params**: 21265141.0000. 
+
+---
+
+<div class="summary"><a href="2"><h2>random_2d_ed / 1210 / 28 / 2</h2></a><p>(Created 13 Dec 2018, 09:21:58. Modified 13 Dec 2018, 09:21:58)
+</p><a href="2"><img src="2/media/summary.png" align="center"></a><p>
+<i>Click for more details</i>
+</p></div>
+
+**ari**: 0.7647. **miou**: 0.4255. **accuracy**: 0.9111. **n_params**: 21265141.0000. 
+
+---
+
+<div class="summary"><a href="3"><h2>random_2d_ed / 1210 / 28 / 3</h2></a><p>(Created 13 Dec 2018, 09:21:58. Modified 13 Dec 2018, 09:21:58)
+</p><a href="3"><img src="3/media/summary.png" align="center"></a><p>
+<i>Click for more details</i>
+</p></div>
+
+**ari**: 0.7875. **miou**: 0.3972. **accuracy**: 0.9136. **n_params**: 21265141.0000. 
+
+---
+
+<div class="summary"><a href="1"><h2>random_2d_ed / 1210 / 28 / 1</h2></a><p>(Created 13 Dec 2018, 09:21:58. Modified 13 Dec 2018, 09:21:58)
+</p><a href="1"><img src="1/media/summary.png" align="center"></a><p>
+<i>Click for more details</i>
+</p></div>
+
+**ari**: 0.7895. **miou**: 0.3879. **accuracy**: 0.9169. **n_params**: 21265141.0000. 
+
+---
+
+<div class="summary"><a href="0"><h2>random_2d_ed / 1210 / 28 / 0</h2></a><p>(Created 13 Dec 2018, 09:21:58. Modified 13 Dec 2018, 09:21:58)
+</p><a href="0"><img src="0/media/summary.png" align="center"></a><p>
+<i>Click for more details</i>
+</p></div>
+
+**ari**: 0.7877. **miou**: 0.4325. **accuracy**: 0.9155. **n_params**: 21265141.0000. 
+
+---
+
+[Back](..)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home](https://leapmanlab.github.io/snapshots)
+
+---
