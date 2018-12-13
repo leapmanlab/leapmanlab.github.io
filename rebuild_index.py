@@ -186,7 +186,7 @@ def gen_summary_text(root_dir: str,
                                      'summary.png')
 
         # Summary image links to the child_dir's README.md
-        image_text = f'<div class="thumbnail"><a href="{child_link}">' \
+        image_text = f'<div class="summary"><a href="{child_link}">' \
                      f'<h2>{disp_n}</h2></a><p>({d_ctime}. {d_mtime})\n</p>' \
                      f'<a href="{child_link}"><img src="{summary_image}"' \
                      f' align="center">' \
@@ -205,7 +205,7 @@ def gen_summary_text(root_dir: str,
                                         root_dir)
 
         # Summary image links to the child_dir's README.md
-        image_text = f'<div class="thumbnail"><a href="{child_link}">' \
+        image_text = f'<div class="summary"><a href="{child_link}">' \
                      f'<h2>{disp_n}</h2></a><p>({d_ctime}. {d_mtime})\n</p>' \
                      f'<a href="{child_link}"><img src="{summary_image}"' \
                      f' align="center">' \
