@@ -138,7 +138,7 @@ def build_index(root_dir: str,
     """
     # Build the index file as a sequence of summary divs
     bumper = ['[Back](..)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'
-              '[Home](leapmanlab.github.io/snapshots)',
+              '[Home](www.leapmanlab.github.io/snapshots)',
               '---']
     index_parts = bumper[:]
     # Get a list of child dirs and their creation and last-modified times

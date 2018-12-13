@@ -1,9 +1,9 @@
 
-[Back](..)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home](leapmanlab.github.io/snapshots)
+[Back](..)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home](www.leapmanlab.github.io/snapshots)
 
 ---
 
-<div class="summary"><a href="weight_volume"><h2>weight_volume</h2></a><p>(Created 12 Dec 2018, 22:03:10. Modified 12 Dec 2018, 22:03:10)
+<div class="summary"><a href="weight_volume"><h2>weight_volume</h2></a><p>(Created 12 Dec 2018, 22:05:52. Modified 12 Dec 2018, 22:05:52)
 </p><a href="weight_volume"><img src="weight_volume/1210/001/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -19,7 +19,7 @@
 
 ---
 
-<div class="summary"><a href="unet"><h2>unet</h2></a><p>(Created 12 Dec 2018, 22:03:10. Modified 12 Dec 2018, 22:03:10)
+<div class="summary"><a href="unet"><h2>unet</h2></a><p>(Created 12 Dec 2018, 22:05:52. Modified 12 Dec 2018, 22:05:52)
 </p><a href="unet"><img src="unet/1212/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -35,6 +35,6 @@
 
 ---
 
-[Back](..)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home](leapmanlab.github.io/snapshots)
+[Back](..)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home](www.leapmanlab.github.io/snapshots)
 
 ---
