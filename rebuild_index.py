@@ -140,7 +140,7 @@ def build_index(root_dir: str,
     bumper = ['[Back](..)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'
               '[Home](leapmanlab.github.io/snapshots)',
               '---']
-    index_parts = ['\n'] + bumper
+    index_parts = bumper[:]
     # Get a list of child dirs and their creation and last-modified times
     dirs_info = [(d, os.path.getctime(d), os.path.getmtime(d), i)
                  for i, d in enumerate(child_dirs)]
@@ -151,7 +151,7 @@ def build_index(root_dir: str,
                                             d_info[:-1],
                                             child_stats[d_info[-1]]))
 
-    return '\n\n'.join(index_parts + bumper)
+    return '\n' + '\n\n'.join(index_parts + bumper)
 
 
 def gen_summary_text(root_dir: str,
