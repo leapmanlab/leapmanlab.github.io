@@ -1,9 +1,9 @@
 
-[Back](..)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home](www.leapmanlab.github.io/snapshots)
+[Back](..)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home](https://leapmanlab.github.io/snapshots)
 
 ---
 
-<div class="summary"><a href="1212"><h2>unet / 1212</h2></a><p>(Created 12 Dec 2018, 22:05:52. Modified 12 Dec 2018, 22:05:52)
+<div class="summary"><a href="1212"><h2>unet / 1212</h2></a><p>(Created 12 Dec 2018, 22:07:56. Modified 12 Dec 2018, 22:07:56)
 </p><a href="1212"><img src="1212/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -19,6 +19,6 @@
 
 ---
 
-[Back](..)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home](www.leapmanlab.github.io/snapshots)
+[Back](..)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home](https://leapmanlab.github.io/snapshots)
 
 ---
