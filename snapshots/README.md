@@ -1,7 +1,4 @@
-
-## snapshots
-
-<div class="thumbnail"><a href="weight_volume"><h2>weight_volume</h2></a><p>(Created 12 Dec 2018, 21:11:42. Modified 12 Dec 2018, 21:11:42)
+<div class="thumbnail"><a href="weight_volume"><h2>weight_volume</h2></a><p>(Created 12 Dec 2018, 21:16:09. Modified 12 Dec 2018, 21:16:09)
 </p><a href="weight_volume"><img src="weight_volume/1210/001/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 

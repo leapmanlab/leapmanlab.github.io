@@ -136,8 +136,8 @@ def build_index(root_dir: str,
         (str):
 
     """
-    # Build the index file as a header and sequence of summary divs
-    index_parts = [f'\n## {root_dir.replace("snapshots/", "")}']
+    # Build the index file as a sequence of summary divs
+    index_parts = []
     # Get a list of child dirs and their creation and last-modified times
     dirs_info = [(d, os.path.getctime(d), os.path.getmtime(d), i)
                  for i, d in enumerate(child_dirs)]
