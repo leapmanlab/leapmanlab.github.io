@@ -3,7 +3,7 @@
 
 ---
 
-<div class="summary"><a href="4"><h2>random_2d_ed / 1216 / 7 / 4</h2></a><p>Created 16 Dec 2018, 15:39:22
+<div class="summary"><a href="4"><h2>random_2d_ed / 1216 / 7 / 4</h2></a><p>Created 17 Dec 2018, 02:57:37
 </p><a href="4"><img src="4/media/summary.png" align="center"></a><p>
 <i>Click for more details</i>
 </p></div>
@@ -12,7 +12,7 @@
 
 ---
 
-<div class="summary"><a href="1"><h2>random_2d_ed / 1216 / 7 / 1</h2></a><p>Created 16 Dec 2018, 15:39:22
+<div class="summary"><a href="1"><h2>random_2d_ed / 1216 / 7 / 1</h2></a><p>Created 17 Dec 2018, 02:57:37
 </p><a href="1"><img src="1/media/summary.png" align="center"></a><p>
 <i>Click for more details</i>
 </p></div>
@@ -21,16 +21,16 @@
 
 ---
 
-<div class="summary"><a href="3"><h2>random_2d_ed / 1216 / 7 / 3</h2></a><p>Created 16 Dec 2018, 15:39:22
+<div class="summary"><a href="3"><h2>random_2d_ed / 1216 / 7 / 3</h2></a><p>Created 17 Dec 2018, 02:57:37
 </p><a href="3"><img src="3/media/summary.png" align="center"></a><p>
 <i>Click for more details</i>
 </p></div>
 
-**ari**: 0.7876. **miou**: 0.4353. **accuracy**: 0.9131. **n_params**: 79725172.0000. 
+**ari**: 0.7890. **miou**: 0.4385. **accuracy**: 0.9144. **n_params**: 79725172.0000. 
 
 ---
 
-<div class="summary"><a href="0"><h2>random_2d_ed / 1216 / 7 / 0</h2></a><p>Created 16 Dec 2018, 15:39:22
+<div class="summary"><a href="0"><h2>random_2d_ed / 1216 / 7 / 0</h2></a><p>Created 17 Dec 2018, 02:57:37
 </p><a href="0"><img src="0/media/summary.png" align="center"></a><p>
 <i>Click for more details</i>
 </p></div>

@@ -1,6 +1,6 @@
 # RandomUnet2D_20_4
 
-### Step 16020 (December 16 2018, 15:33:12)
+### Step 96120 (December 16 2018, 20:41:20)
 
 [_Back_](..)
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Performance statistics, step 16020
+## Performance statistics, step 96120
 
 <div class="images"><a href="media/accuracy.svg"><img class="mini" src="media/accuracy.svg" align="center"></a><p>accuracy.svg. <i>Click to enlarge</i></p></div>
 <div class="images"><a href="media/adj_rand_idx.svg"><img class="mini" src="media/adj_rand_idx.svg" align="center"></a><p>adj_rand_idx.svg. <i>Click to enlarge</i></p></div>
@@ -29,9 +29,9 @@
 
 ## Data, ground truth label, segmentation
 
-<div class="images"><a href="media/16020_data.png"><img class="mini" src="media/16020_data.png" align="center"></a><p>16020_data.png. <i>Click to enlarge</i></p></div>
-<div class="images"><a href="media/16020_label.png"><img class="mini" src="media/16020_label.png" align="center"></a><p>16020_label.png. <i>Click to enlarge</i></p></div>
-<div class="images"><a href="media/16020_segmentation.png"><img class="mini" src="media/16020_segmentation.png" align="center"></a><p>16020_segmentation.png. <i>Click to enlarge</i></p></div>
+<div class="images"><a href="media/96120_data.png"><img class="mini" src="media/96120_data.png" align="center"></a><p>96120_data.png. <i>Click to enlarge</i></p></div>
+<div class="images"><a href="media/96120_label.png"><img class="mini" src="media/96120_label.png" align="center"></a><p>96120_label.png. <i>Click to enlarge</i></p></div>
+<div class="images"><a href="media/96120_segmentation.png"><img class="mini" src="media/96120_segmentation.png" align="center"></a><p>96120_segmentation.png. <i>Click to enlarge</i></p></div>
 
 ---
 

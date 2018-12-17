@@ -3,23 +3,23 @@
 
 ---
 
-<div class="summary"><a href="random_2d_ed"><h2>random_2d_ed</h2></a><p>Created 16 Dec 2018, 15:39:23
+<div class="summary"><a href="random_2d_ed"><h2>random_2d_ed</h2></a><p>Created 17 Dec 2018, 02:57:42
 </p><a href="random_2d_ed"><img src="random_2d_ed/1210/67/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
-597 nets
+784 nets
 
-**ari**: min -0.0000. max 0.8245. mean 0.7090.  ([best net](random_2d_ed/1210/67/4))
+**ari**: min -0.0000. max 0.8251. mean 0.7044.  ([best net](random_2d_ed/1216/39/1))
 
-**miou**: min 0.0656. max 0.5917. mean 0.3616.  ([best net](random_2d_ed/1210/67/1))
+**miou**: min 0.0656. max 0.5917. mean 0.3556.  ([best net](random_2d_ed/1210/67/1))
 
-**accuracy**: min 0.4426. max 0.9338. mean 0.8825.  ([best net](random_2d_ed/1210/31/0))
+**accuracy**: min 0.4426. max 0.9338. mean 0.8794.  ([best net](random_2d_ed/1210/31/0))
 
-**n_params**: min 108011.0000. max 209610976.0000. mean 22275426.6415.  ([best net](random_2d_ed/1210/46/0))
+**n_params**: min 40497.0000. max 209610976.0000. mean 18381876.0931.  ([best net](random_2d_ed/1210/46/0))
 
 ---
 
-<div class="summary"><a href="weight_volume"><h2>weight_volume</h2></a><p>Created 16 Dec 2018, 15:39:16
+<div class="summary"><a href="weight_volume"><h2>weight_volume</h2></a><p>Created 17 Dec 2018, 02:57:32
 </p><a href="weight_volume"><img src="weight_volume/1210/001/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -35,7 +35,7 @@
 
 ---
 
-<div class="summary"><a href="unet"><h2>unet</h2></a><p>Created 16 Dec 2018, 15:39:16
+<div class="summary"><a href="unet"><h2>unet</h2></a><p>Created 17 Dec 2018, 02:57:31
 </p><a href="unet"><img src="unet/1212/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 

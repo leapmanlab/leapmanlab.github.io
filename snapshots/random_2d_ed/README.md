@@ -3,23 +3,23 @@
 
 ---
 
-<div class="summary"><a href="1216"><h2>random_2d_ed / 1216</h2></a><p>Created 16 Dec 2018, 15:39:23
-</p><a href="1216"><img src="1216/16/3/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+<div class="summary"><a href="1216"><h2>random_2d_ed / 1216</h2></a><p>Created 17 Dec 2018, 02:57:42
+</p><a href="1216"><img src="1216/39/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
-103 nets
+290 nets
 
-**ari**: min 0.4985. max 0.8200. mean 0.7001.  ([best net](1216/12/1))
+**ari**: min 0.0692. max 0.8251. mean 0.6936.  ([best net](1216/39/1))
 
-**miou**: min 0.1997. max 0.5632. mean 0.3249.  ([best net](1216/16/3))
+**miou**: min 0.0973. max 0.5730. mean 0.3325.  ([best net](1216/39/1))
 
-**accuracy**: min 0.8295. max 0.9206. mean 0.8800.  ([best net](1216/0/4))
+**accuracy**: min 0.4627. max 0.9241. mean 0.8733.  ([best net](1216/20/3))
 
-**n_params**: min 197039.0000. max 79725172.0000. mean 12013009.8641.  ([best net](1216/7/0))
+**n_params**: min 40497.0000. max 98298755.0000. mean 8104486.7862.  ([best net](1216/53/0))
 
 ---
 
-<div class="summary"><a href="1210"><h2>random_2d_ed / 1210</h2></a><p>Created 16 Dec 2018, 15:39:21
+<div class="summary"><a href="1210"><h2>random_2d_ed / 1210</h2></a><p>Created 17 Dec 2018, 02:57:36
 </p><a href="1210"><img src="1210/67/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
