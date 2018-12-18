@@ -38,7 +38,7 @@ In some areas, ER looks like that.
 
 ![Animation 3](ermito.gif)
 
-However, we've marked it as mitochondria with ER around it. Ignoring other label issues, we can see that here:
+However, we've marked it as mitochondria with ER around it. Ignoring other label issues, we can see that here, with pink ER and cyan mitochondria:
 
 #### Animation 4
 
