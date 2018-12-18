@@ -46,11 +46,11 @@ However, we've marked it as mitochondria with ER around it. Ignoring other label
 
 ## Problems
 
-### ER identification
+#### ER identification
 
 So, is there a similar story for the mass in Animation 1, is it hiding mitochondria? Is the analysis in Animation 4 incorrect? How do we handle the inconsistent labeling of smaller portions?
 
-### Adding new classes to data
+#### Adding new classes to data
 
 In addition to dealing with the one or more structures currently labeled "ER", browsing through the Patient 1 data volume, I am also thinking about how we would go about segmenting the full Patient 1 image volume in the near future. There are additional structures that don't fall into our classification scheme. Dead cells and large borderless cavities inside of cells, to name two. 
 
