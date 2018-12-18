@@ -3,135 +3,679 @@
 
 ---
 
-<div class="summary"><a href="62"><h2>random_2d_ed / 1216 / 62</h2></a><p>Created 17 Dec 2018, 02:57:42
-</p><a href="62"><img src="62/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+<div class="summary"><a href="98"><h2>random_2d_ed / 1216 / 98</h2></a><p>Created 17 Dec 2018, 23:35:16
+</p><a href="98"><img src="98/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
-1 nets
+5 nets
 
-**ari**: min 0.4490. max 0.4490. mean 0.4490.  ([best net](62/0))
+**ari**: min 0.4603. max 0.6610. mean 0.5557.  ([best net](98/2))
 
-**miou**: min 0.1796. max 0.1796. mean 0.1796.  ([best net](62/0))
+**miou**: min 0.1999. max 0.3958. mean 0.2794.  ([best net](98/2))
 
-**accuracy**: min 0.7683. max 0.7683. mean 0.7683.  ([best net](62/0))
+**accuracy**: min 0.8427. max 0.9051. mean 0.8701.  ([best net](98/2))
+
+**n_params**: min 26736133.0000. max 26736133.0000. mean 26736133.0000.  ([best net](98/0))
+
+---
+
+<div class="summary"><a href="97"><h2>random_2d_ed / 1216 / 97</h2></a><p>Created 17 Dec 2018, 23:35:16
+</p><a href="97"><img src="97/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.6074. max 0.7774. mean 0.7041.  ([best net](97/3))
+
+**miou**: min 0.2034. max 0.5137. mean 0.3360.  ([best net](97/1))
+
+**accuracy**: min 0.8402. max 0.8994. mean 0.8726.  ([best net](97/3))
+
+**n_params**: min 2456801.0000. max 2456801.0000. mean 2456801.0000.  ([best net](97/0))
+
+---
+
+<div class="summary"><a href="96"><h2>random_2d_ed / 1216 / 96</h2></a><p>Created 17 Dec 2018, 23:35:16
+</p><a href="96"><img src="96/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+4 nets
+
+**ari**: min 0.6071. max 0.8116. mean 0.7085.  ([best net](96/0))
+
+**miou**: min 0.2002. max 0.5446. mean 0.3636.  ([best net](96/0))
+
+**accuracy**: min 0.8428. max 0.9164. mean 0.8787.  ([best net](96/0))
+
+**n_params**: min 2674582.0000. max 2674582.0000. mean 2674582.0000.  ([best net](96/2))
+
+---
+
+<div class="summary"><a href="95"><h2>random_2d_ed / 1216 / 95</h2></a><p>Created 17 Dec 2018, 23:35:16
+</p><a href="95"><img src="95/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.4684. max 0.8111. mean 0.7332.  ([best net](95/4))
+
+**miou**: min 0.1835. max 0.5442. mean 0.4319.  ([best net](95/2))
+
+**accuracy**: min 0.8087. max 0.9217. mean 0.8925.  ([best net](95/2))
+
+**n_params**: min 2292994.0000. max 2292994.0000. mean 2292994.0000.  ([best net](95/0))
+
+---
+
+<div class="summary"><a href="93"><h2>random_2d_ed / 1216 / 93</h2></a><p>Created 17 Dec 2018, 23:35:16
+</p><a href="93"><img src="93/3/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.5877. max 0.7392. mean 0.6749.  ([best net](93/0))
+
+**miou**: min 0.2009. max 0.4220. mean 0.3239.  ([best net](93/3))
+
+**accuracy**: min 0.8336. max 0.8799. mean 0.8594.  ([best net](93/0))
+
+**n_params**: min 697429.0000. max 697429.0000. mean 697429.0000.  ([best net](93/0))
+
+---
+
+<div class="summary"><a href="92"><h2>random_2d_ed / 1216 / 92</h2></a><p>Created 17 Dec 2018, 23:35:16
+</p><a href="92"><img src="92/3/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.6537. max 0.7863. mean 0.7452.  ([best net](92/1))
+
+**miou**: min 0.2460. max 0.4502. mean 0.3634.  ([best net](92/3))
+
+**accuracy**: min 0.8579. max 0.9073. mean 0.8913.  ([best net](92/1))
+
+**n_params**: min 8234535.0000. max 8234535.0000. mean 8234535.0000.  ([best net](92/1))
+
+---
+
+<div class="summary"><a href="90"><h2>random_2d_ed / 1216 / 90</h2></a><p>Created 17 Dec 2018, 23:35:16
+</p><a href="90"><img src="90/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.6362. max 0.8177. mean 0.7474.  ([best net](90/4))
+
+**miou**: min 0.2058. max 0.5318. mean 0.3857.  ([best net](90/0))
+
+**accuracy**: min 0.8641. max 0.9221. mean 0.9000.  ([best net](90/4))
+
+**n_params**: min 2045334.0000. max 2045334.0000. mean 2045334.0000.  ([best net](90/3))
+
+---
+
+<div class="summary"><a href="89"><h2>random_2d_ed / 1216 / 89</h2></a><p>Created 17 Dec 2018, 23:35:16
+</p><a href="89"><img src="89/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.4647. max 0.7822. mean 0.6591.  ([best net](89/0))
+
+**miou**: min 0.2168. max 0.4726. mean 0.3177.  ([best net](89/0))
+
+**accuracy**: min 0.7911. max 0.9017. mean 0.8544.  ([best net](89/0))
+
+**n_params**: min 2514958.0000. max 2514958.0000. mean 2514958.0000.  ([best net](89/0))
+
+---
+
+<div class="summary"><a href="88"><h2>random_2d_ed / 1216 / 88</h2></a><p>Created 17 Dec 2018, 23:35:15
+</p><a href="88"><img src="88/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.5794. max 0.7543. mean 0.6757.  ([best net](88/2))
+
+**miou**: min 0.1997. max 0.4263. mean 0.2870.  ([best net](88/2))
+
+**accuracy**: min 0.8323. max 0.8866. mean 0.8609.  ([best net](88/2))
+
+**n_params**: min 88439.0000. max 88439.0000. mean 88439.0000.  ([best net](88/0))
+
+---
+
+<div class="summary"><a href="87"><h2>random_2d_ed / 1216 / 87</h2></a><p>Created 17 Dec 2018, 23:35:15
+</p><a href="87"><img src="87/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.7626. max 0.8199. mean 0.7889.  ([best net](87/4))
+
+**miou**: min 0.3681. max 0.5089. mean 0.4286.  ([best net](87/0))
+
+**accuracy**: min 0.8984. max 0.9220. mean 0.9064.  ([best net](87/4))
+
+**n_params**: min 3586068.0000. max 3586068.0000. mean 3586068.0000.  ([best net](87/0))
+
+---
+
+<div class="summary"><a href="86"><h2>random_2d_ed / 1216 / 86</h2></a><p>Created 17 Dec 2018, 23:35:15
+</p><a href="86"><img src="86/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.4830. max 0.7215. mean 0.6532.  ([best net](86/4))
+
+**miou**: min 0.2242. max 0.3783. mean 0.3263.  ([best net](86/0))
+
+**accuracy**: min 0.7920. max 0.8692. mean 0.8414.  ([best net](86/4))
+
+**n_params**: min 752535.0000. max 752535.0000. mean 752535.0000.  ([best net](86/0))
+
+---
+
+<div class="summary"><a href="85"><h2>random_2d_ed / 1216 / 85</h2></a><p>Created 17 Dec 2018, 23:35:15
+</p><a href="85"><img src="85/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.6962. max 0.8017. mean 0.7548.  ([best net](85/1))
+
+**miou**: min 0.2645. max 0.4871. mean 0.3942.  ([best net](85/1))
+
+**accuracy**: min 0.8658. max 0.9119. mean 0.8928.  ([best net](85/1))
+
+**n_params**: min 8768049.0000. max 8768049.0000. mean 8768049.0000.  ([best net](85/0))
+
+---
+
+<div class="summary"><a href="99"><h2>random_2d_ed / 1216 / 99</h2></a><p>Created 17 Dec 2018, 23:35:15
+</p><a href="99"><img src="99/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.6118. max 0.7759. mean 0.7097.  ([best net](99/2))
+
+**miou**: min 0.2045. max 0.4731. mean 0.3476.  ([best net](99/2))
+
+**accuracy**: min 0.8416. max 0.8974. mean 0.8743.  ([best net](99/2))
+
+**n_params**: min 928663.0000. max 928663.0000. mean 928663.0000.  ([best net](99/0))
+
+---
+
+<div class="summary"><a href="83"><h2>random_2d_ed / 1216 / 83</h2></a><p>Created 17 Dec 2018, 23:35:15
+</p><a href="83"><img src="83/3/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.5870. max 0.7261. mean 0.6538.  ([best net](83/3))
+
+**miou**: min 0.2005. max 0.3950. mean 0.2756.  ([best net](83/3))
+
+**accuracy**: min 0.8326. max 0.8729. mean 0.8505.  ([best net](83/3))
+
+**n_params**: min 139843.0000. max 139843.0000. mean 139843.0000.  ([best net](83/0))
+
+---
+
+<div class="summary"><a href="82"><h2>random_2d_ed / 1216 / 82</h2></a><p>Created 17 Dec 2018, 23:35:15
+</p><a href="82"><img src="82/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.5967. max 0.7396. mean 0.6339.  ([best net](82/4))
+
+**miou**: min 0.2019. max 0.4159. mean 0.2517.  ([best net](82/4))
+
+**accuracy**: min 0.8364. max 0.8779. mean 0.8470.  ([best net](82/4))
+
+**n_params**: min 428441.0000. max 428441.0000. mean 428441.0000.  ([best net](82/0))
+
+---
+
+<div class="summary"><a href="81"><h2>random_2d_ed / 1216 / 81</h2></a><p>Created 17 Dec 2018, 23:35:15
+</p><a href="81"><img src="81/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.5978. max 0.6753. mean 0.6411.  ([best net](81/1))
+
+**miou**: min 0.2088. max 0.2635. mean 0.2377.  ([best net](81/2))
+
+**accuracy**: min 0.8332. max 0.8515. mean 0.8432.  ([best net](81/2))
+
+**n_params**: min 699416.0000. max 699416.0000. mean 699416.0000.  ([best net](81/0))
+
+---
+
+<div class="summary"><a href="80"><h2>random_2d_ed / 1216 / 80</h2></a><p>Created 17 Dec 2018, 23:35:15
+</p><a href="80"><img src="80/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.6350. max 0.8069. mean 0.7500.  ([best net](80/0))
+
+**miou**: min 0.2290. max 0.5432. mean 0.4087.  ([best net](80/0))
+
+**accuracy**: min 0.8604. max 0.9206. mean 0.8973.  ([best net](80/0))
+
+**n_params**: min 5283596.0000. max 5283596.0000. mean 5283596.0000.  ([best net](80/0))
+
+---
+
+<div class="summary"><a href="79"><h2>random_2d_ed / 1216 / 79</h2></a><p>Created 17 Dec 2018, 23:35:14
+</p><a href="79"><img src="79/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.2861. max 0.6340. mean 0.5162.  ([best net](79/1))
+
+**miou**: min 0.1284. max 0.2944. mean 0.2237.  ([best net](79/1))
+
+**accuracy**: min 0.4963. max 0.8871. mean 0.7939.  ([best net](79/1))
+
+**n_params**: min 6818564.0000. max 6818564.0000. mean 6818564.0000.  ([best net](79/0))
+
+---
+
+<div class="summary"><a href="94"><h2>random_2d_ed / 1216 / 94</h2></a><p>Created 17 Dec 2018, 23:35:14
+</p><a href="94"><img src="94/3/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.6155. max 0.7889. mean 0.7048.  ([best net](94/0))
+
+**miou**: min 0.2100. max 0.4727. mean 0.3315.  ([best net](94/3))
+
+**accuracy**: min 0.8444. max 0.9049. mean 0.8747.  ([best net](94/0))
+
+**n_params**: min 1601385.0000. max 1601385.0000. mean 1601385.0000.  ([best net](94/0))
+
+---
+
+<div class="summary"><a href="78"><h2>random_2d_ed / 1216 / 78</h2></a><p>Created 17 Dec 2018, 23:35:14
+</p><a href="78"><img src="78/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.5128. max 0.7111. mean 0.5949.  ([best net](78/4))
+
+**miou**: min 0.1995. max 0.3772. mean 0.2638.  ([best net](78/4))
+
+**accuracy**: min 0.8406. max 0.8971. mean 0.8630.  ([best net](78/4))
+
+**n_params**: min 9815751.0000. max 9815751.0000. mean 9815751.0000.  ([best net](78/1))
+
+---
+
+<div class="summary"><a href="91"><h2>random_2d_ed / 1216 / 91</h2></a><p>Created 17 Dec 2018, 23:35:14
+</p><a href="91"><img src="91/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.5867. max 0.6473. mean 0.6300.  ([best net](91/1))
+
+**miou**: min 0.2015. max 0.2587. mean 0.2356.  ([best net](91/1))
+
+**accuracy**: min 0.8322. max 0.8420. mean 0.8390.  ([best net](91/4))
+
+**n_params**: min 230746.0000. max 230746.0000. mean 230746.0000.  ([best net](91/1))
+
+---
+
+<div class="summary"><a href="77"><h2>random_2d_ed / 1216 / 77</h2></a><p>Created 17 Dec 2018, 23:35:14
+</p><a href="77"><img src="77/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.6903. max 0.7828. mean 0.7405.  ([best net](77/0))
+
+**miou**: min 0.2097. max 0.4204. mean 0.3455.  ([best net](77/4))
+
+**accuracy**: min 0.8665. max 0.9030. mean 0.8836.  ([best net](77/2))
+
+**n_params**: min 2911571.0000. max 2911571.0000. mean 2911571.0000.  ([best net](77/0))
+
+---
+
+<div class="summary"><a href="75"><h2>random_2d_ed / 1216 / 75</h2></a><p>Created 17 Dec 2018, 23:35:14
+</p><a href="75"><img src="75/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.5327. max 0.7232. mean 0.6039.  ([best net](75/0))
+
+**miou**: min 0.2060. max 0.3611. mean 0.2750.  ([best net](75/0))
+
+**accuracy**: min 0.8562. max 0.9059. mean 0.8714.  ([best net](75/0))
+
+**n_params**: min 15629314.0000. max 15629314.0000. mean 15629314.0000.  ([best net](75/1))
+
+---
+
+<div class="summary"><a href="76"><h2>random_2d_ed / 1216 / 76</h2></a><p>Created 17 Dec 2018, 23:35:14
+</p><a href="76"><img src="76/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.6721. max 0.8198. mean 0.7803.  ([best net](76/2))
+
+**miou**: min 0.2094. max 0.4949. mean 0.3908.  ([best net](76/2))
+
+**accuracy**: min 0.8675. max 0.9210. mean 0.9056.  ([best net](76/2))
+
+**n_params**: min 2780189.0000. max 2780189.0000. mean 2780189.0000.  ([best net](76/0))
+
+---
+
+<div class="summary"><a href="84"><h2>random_2d_ed / 1216 / 84</h2></a><p>Created 17 Dec 2018, 23:35:14
+</p><a href="84"><img src="84/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.5780. max 0.6212. mean 0.6004.  ([best net](84/4))
+
+**miou**: min 0.2007. max 0.2564. mean 0.2221.  ([best net](84/0))
+
+**accuracy**: min 0.8132. max 0.8405. mean 0.8298.  ([best net](84/4))
+
+**n_params**: min 207581.0000. max 207581.0000. mean 207581.0000.  ([best net](84/0))
+
+---
+
+<div class="summary"><a href="74"><h2>random_2d_ed / 1216 / 74</h2></a><p>Created 17 Dec 2018, 23:35:14
+</p><a href="74"><img src="74/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.6333. max 0.7863. mean 0.6881.  ([best net](74/4))
+
+**miou**: min 0.2060. max 0.3539. mean 0.2593.  ([best net](74/4))
+
+**accuracy**: min 0.8562. max 0.9039. mean 0.8744.  ([best net](74/4))
+
+**n_params**: min 486563.0000. max 486563.0000. mean 486563.0000.  ([best net](74/1))
+
+---
+
+<div class="summary"><a href="72"><h2>random_2d_ed / 1216 / 72</h2></a><p>Created 17 Dec 2018, 23:35:14
+</p><a href="72"><img src="72/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.7060. max 0.7748. mean 0.7368.  ([best net](72/1))
+
+**miou**: min 0.2871. max 0.4586. mean 0.3709.  ([best net](72/1))
+
+**accuracy**: min 0.8704. max 0.8963. mean 0.8805.  ([best net](72/1))
+
+**n_params**: min 1081852.0000. max 1081852.0000. mean 1081852.0000.  ([best net](72/0))
+
+---
+
+<div class="summary"><a href="71"><h2>random_2d_ed / 1216 / 71</h2></a><p>Created 17 Dec 2018, 23:35:13
+</p><a href="71"><img src="71/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.6511. max 0.8048. mean 0.7603.  ([best net](71/1))
+
+**miou**: min 0.2056. max 0.4495. mean 0.3592.  ([best net](71/1))
+
+**accuracy**: min 0.8617. max 0.9151. mean 0.8975.  ([best net](71/3))
+
+**n_params**: min 1227436.0000. max 1227436.0000. mean 1227436.0000.  ([best net](71/0))
+
+---
+
+<div class="summary"><a href="70"><h2>random_2d_ed / 1216 / 70</h2></a><p>Created 17 Dec 2018, 23:35:13
+</p><a href="70"><img src="70/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.6859. max 0.7940. mean 0.7508.  ([best net](70/2))
+
+**miou**: min 0.2764. max 0.5326. mean 0.3718.  ([best net](70/2))
+
+**accuracy**: min 0.8729. max 0.9122. mean 0.8936.  ([best net](70/2))
+
+**n_params**: min 2344844.0000. max 2344844.0000. mean 2344844.0000.  ([best net](70/0))
+
+---
+
+<div class="summary"><a href="73"><h2>random_2d_ed / 1216 / 73</h2></a><p>Created 17 Dec 2018, 23:35:13
+</p><a href="73"><img src="73/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.6037. max 0.7203. mean 0.6783.  ([best net](73/1))
+
+**miou**: min 0.2028. max 0.3411. mean 0.2848.  ([best net](73/1))
+
+**accuracy**: min 0.8370. max 0.8688. mean 0.8550.  ([best net](73/1))
+
+**n_params**: min 784308.0000. max 784308.0000. mean 784308.0000.  ([best net](73/1))
+
+---
+
+<div class="summary"><a href="68"><h2>random_2d_ed / 1216 / 68</h2></a><p>Created 17 Dec 2018, 23:35:13
+</p><a href="68"><img src="68/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.6215. max 0.7545. mean 0.7036.  ([best net](68/1))
+
+**miou**: min 0.2191. max 0.4234. mean 0.3363.  ([best net](68/4))
+
+**accuracy**: min 0.8397. max 0.8857. mean 0.8698.  ([best net](68/1))
+
+**n_params**: min 446595.0000. max 446595.0000. mean 446595.0000.  ([best net](68/0))
+
+---
+
+<div class="summary"><a href="66"><h2>random_2d_ed / 1216 / 66</h2></a><p>Created 17 Dec 2018, 23:35:13
+</p><a href="66"><img src="66/3/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.6753. max 0.7702. mean 0.7261.  ([best net](66/3))
+
+**miou**: min 0.2722. max 0.4405. mean 0.3576.  ([best net](66/3))
+
+**accuracy**: min 0.8520. max 0.8978. mean 0.8768.  ([best net](66/3))
+
+**n_params**: min 383675.0000. max 383675.0000. mean 383675.0000.  ([best net](66/0))
+
+---
+
+<div class="summary"><a href="64"><h2>random_2d_ed / 1216 / 64</h2></a><p>Created 17 Dec 2018, 23:35:13
+</p><a href="64"><img src="64/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.6764. max 0.7731. mean 0.7445.  ([best net](64/1))
+
+**miou**: min 0.2545. max 0.3700. mean 0.3187.  ([best net](64/1))
+
+**accuracy**: min 0.8774. max 0.9056. mean 0.8964.  ([best net](64/1))
+
+**n_params**: min 2988905.0000. max 2988905.0000. mean 2988905.0000.  ([best net](64/1))
+
+---
+
+<div class="summary"><a href="63"><h2>random_2d_ed / 1216 / 63</h2></a><p>Created 17 Dec 2018, 23:35:13
+</p><a href="63"><img src="63/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.6098. max 0.7783. mean 0.6915.  ([best net](63/2))
+
+**miou**: min 0.2068. max 0.4996. mean 0.3369.  ([best net](63/2))
+
+**accuracy**: min 0.8418. max 0.9011. mean 0.8670.  ([best net](63/2))
+
+**n_params**: min 1427077.0000. max 1427077.0000. mean 1427077.0000.  ([best net](63/0))
+
+---
+
+<div class="summary"><a href="62"><h2>random_2d_ed / 1216 / 62</h2></a><p>Created 17 Dec 2018, 23:35:13
+</p><a href="62"><img src="62/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+5 nets
+
+**ari**: min 0.3626. max 0.8208. mean 0.6587.  ([best net](62/4))
+
+**miou**: min 0.1535. max 0.5439. mean 0.3487.  ([best net](62/2))
+
+**accuracy**: min 0.6756. max 0.9223. mean 0.8400.  ([best net](62/4))
 
 **n_params**: min 2830694.0000. max 2830694.0000. mean 2830694.0000.  ([best net](62/0))
 
 ---
 
-<div class="summary"><a href="69"><h2>random_2d_ed / 1216 / 69</h2></a><p>Created 17 Dec 2018, 02:57:42
-</p><a href="69"><img src="69/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+<div class="summary"><a href="69"><h2>random_2d_ed / 1216 / 69</h2></a><p>Created 17 Dec 2018, 23:35:13
+</p><a href="69"><img src="69/3/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
-1 nets
+5 nets
 
-**ari**: min 0.6707. max 0.6707. mean 0.6707.  ([best net](69/0))
+**ari**: min 0.6424. max 0.7974. mean 0.7111.  ([best net](69/3))
 
-**miou**: min 0.2527. max 0.2527. mean 0.2527.  ([best net](69/0))
+**miou**: min 0.2533. max 0.4904. mean 0.3371.  ([best net](69/3))
 
-**accuracy**: min 0.8744. max 0.8744. mean 0.8744.  ([best net](69/0))
+**accuracy**: min 0.8393. max 0.9161. mean 0.8800.  ([best net](69/3))
 
 **n_params**: min 4843704.0000. max 4843704.0000. mean 4843704.0000.  ([best net](69/0))
 
 ---
 
-<div class="summary"><a href="61"><h2>random_2d_ed / 1216 / 61</h2></a><p>Created 17 Dec 2018, 02:57:42
-</p><a href="61"><img src="61/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+<div class="summary"><a href="61"><h2>random_2d_ed / 1216 / 61</h2></a><p>Created 17 Dec 2018, 23:35:12
+</p><a href="61"><img src="61/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
-4 nets
+5 nets
 
-**ari**: min 0.6400. max 0.7748. mean 0.7176.  ([best net](61/1))
+**ari**: min 0.6810. max 0.7972. mean 0.7677.  ([best net](61/4))
 
-**miou**: min 0.2037. max 0.3497. mean 0.2850.  ([best net](61/1))
+**miou**: min 0.2656. max 0.4554. mean 0.3690.  ([best net](61/4))
 
-**accuracy**: min 0.8574. max 0.9033. mean 0.8820.  ([best net](61/1))
+**accuracy**: min 0.8641. max 0.9121. mean 0.8974.  ([best net](61/4))
 
 **n_params**: min 12713131.0000. max 12713131.0000. mean 12713131.0000.  ([best net](61/0))
 
 ---
 
-<div class="summary"><a href="60"><h2>random_2d_ed / 1216 / 60</h2></a><p>Created 17 Dec 2018, 02:57:42
+<div class="summary"><a href="60"><h2>random_2d_ed / 1216 / 60</h2></a><p>Created 17 Dec 2018, 23:35:12
 </p><a href="60"><img src="60/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
 5 nets
 
-**ari**: min 0.5954. max 0.7192. mean 0.6753.  ([best net](60/4))
+**ari**: min 0.5954. max 0.7255. mean 0.6798.  ([best net](60/3))
 
-**miou**: min 0.2019. max 0.4011. mean 0.3171.  ([best net](60/4))
+**miou**: min 0.2019. max 0.3958. mean 0.3193.  ([best net](60/4))
 
-**accuracy**: min 0.8351. max 0.8663. mean 0.8521.  ([best net](60/4))
+**accuracy**: min 0.8351. max 0.8685. mean 0.8550.  ([best net](60/3))
 
 **n_params**: min 585512.0000. max 585512.0000. mean 585512.0000.  ([best net](60/0))
 
 ---
 
-<div class="summary"><a href="58"><h2>random_2d_ed / 1216 / 58</h2></a><p>Created 17 Dec 2018, 02:57:42
+<div class="summary"><a href="58"><h2>random_2d_ed / 1216 / 58</h2></a><p>Created 17 Dec 2018, 23:35:12
 </p><a href="58"><img src="58/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
 5 nets
 
-**ari**: min 0.7587. max 0.8158. mean 0.7781.  ([best net](58/0))
+**ari**: min 0.7619. max 0.8218. mean 0.7905.  ([best net](58/0))
 
-**miou**: min 0.3538. max 0.4913. mean 0.3933.  ([best net](58/0))
+**miou**: min 0.3825. max 0.5645. mean 0.4250.  ([best net](58/0))
 
-**accuracy**: min 0.8960. max 0.9180. mean 0.9021.  ([best net](58/0))
+**accuracy**: min 0.8979. max 0.9240. mean 0.9069.  ([best net](58/0))
 
 **n_params**: min 4069783.0000. max 4069783.0000. mean 4069783.0000.  ([best net](58/0))
 
 ---
 
-<div class="summary"><a href="57"><h2>random_2d_ed / 1216 / 57</h2></a><p>Created 17 Dec 2018, 02:57:42
+<div class="summary"><a href="57"><h2>random_2d_ed / 1216 / 57</h2></a><p>Created 17 Dec 2018, 23:35:12
 </p><a href="57"><img src="57/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
 5 nets
 
-**ari**: min 0.7582. max 0.7993. mean 0.7886.  ([best net](57/2))
+**ari**: min 0.7582. max 0.7999. mean 0.7892.  ([best net](57/2))
 
-**miou**: min 0.2993. max 0.4360. mean 0.3875.  ([best net](57/4))
+**miou**: min 0.2993. max 0.4579. mean 0.3938.  ([best net](57/4))
 
-**accuracy**: min 0.9003. max 0.9147. mean 0.9092.  ([best net](57/4))
+**accuracy**: min 0.9003. max 0.9159. mean 0.9097.  ([best net](57/4))
 
 **n_params**: min 1814012.0000. max 1814012.0000. mean 1814012.0000.  ([best net](57/0))
 
 ---
 
-<div class="summary"><a href="56"><h2>random_2d_ed / 1216 / 56</h2></a><p>Created 17 Dec 2018, 02:57:41
+<div class="summary"><a href="56"><h2>random_2d_ed / 1216 / 56</h2></a><p>Created 17 Dec 2018, 23:35:12
 </p><a href="56"><img src="56/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
 5 nets
 
-**ari**: min 0.6106. max 0.7346. mean 0.6678.  ([best net](56/2))
+**ari**: min 0.6106. max 0.7345. mean 0.6683.  ([best net](56/2))
 
-**miou**: min 0.2222. max 0.3941. mean 0.3106.  ([best net](56/2))
+**miou**: min 0.2222. max 0.3913. mean 0.3097.  ([best net](56/2))
 
-**accuracy**: min 0.8332. max 0.8777. mean 0.8542.  ([best net](56/2))
+**accuracy**: min 0.8332. max 0.8769. mean 0.8541.  ([best net](56/2))
 
 **n_params**: min 1127592.0000. max 1127592.0000. mean 1127592.0000.  ([best net](56/0))
 
 ---
 
-<div class="summary"><a href="54"><h2>random_2d_ed / 1216 / 54</h2></a><p>Created 17 Dec 2018, 02:57:41
+<div class="summary"><a href="54"><h2>random_2d_ed / 1216 / 54</h2></a><p>Created 17 Dec 2018, 23:35:12
 </p><a href="54"><img src="54/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
 5 nets
 
-**ari**: min 0.4919. max 0.5489. mean 0.5246.  ([best net](54/0))
+**ari**: min 0.5082. max 0.5596. mean 0.5461.  ([best net](54/4))
 
-**miou**: min 0.2029. max 0.2708. mean 0.2502.  ([best net](54/4))
+**miou**: min 0.2056. max 0.2765. mean 0.2532.  ([best net](54/4))
 
-**accuracy**: min 0.8494. max 0.8688. mean 0.8623.  ([best net](54/0))
+**accuracy**: min 0.8554. max 0.8733. mean 0.8683.  ([best net](54/4))
 
 **n_params**: min 8115127.0000. max 8115127.0000. mean 8115127.0000.  ([best net](54/0))
 
 ---
 
-<div class="summary"><a href="55"><h2>random_2d_ed / 1216 / 55</h2></a><p>Created 17 Dec 2018, 02:57:41
+<div class="summary"><a href="55"><h2>random_2d_ed / 1216 / 55</h2></a><p>Created 17 Dec 2018, 23:35:12
 </p><a href="55"><img src="55/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -147,39 +691,39 @@
 
 ---
 
-<div class="summary"><a href="53"><h2>random_2d_ed / 1216 / 53</h2></a><p>Created 17 Dec 2018, 02:57:41
+<div class="summary"><a href="53"><h2>random_2d_ed / 1216 / 53</h2></a><p>Created 17 Dec 2018, 23:35:12
 </p><a href="53"><img src="53/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
 5 nets
 
-**ari**: min 0.4750. max 0.6906. mean 0.5867.  ([best net](53/1))
+**ari**: min 0.4887. max 0.7106. mean 0.5961.  ([best net](53/0))
 
-**miou**: min 0.2111. max 0.3893. mean 0.2900.  ([best net](53/0))
+**miou**: min 0.2089. max 0.4396. mean 0.3009.  ([best net](53/0))
 
-**accuracy**: min 0.8426. max 0.9058. mean 0.8760.  ([best net](53/0))
+**accuracy**: min 0.8428. max 0.9160. mean 0.8791.  ([best net](53/0))
 
 **n_params**: min 98298755.0000. max 98298755.0000. mean 98298755.0000.  ([best net](53/0))
 
 ---
 
-<div class="summary"><a href="65"><h2>random_2d_ed / 1216 / 65</h2></a><p>Created 17 Dec 2018, 02:57:41
-</p><a href="65"><img src="65/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+<div class="summary"><a href="65"><h2>random_2d_ed / 1216 / 65</h2></a><p>Created 17 Dec 2018, 23:35:12
+</p><a href="65"><img src="65/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
-1 nets
+5 nets
 
-**ari**: min 0.4784. max 0.4784. mean 0.4784.  ([best net](65/0))
+**ari**: min 0.4844. max 0.5384. mean 0.5154.  ([best net](65/4))
 
-**miou**: min 0.2019. max 0.2019. mean 0.2019.  ([best net](65/0))
+**miou**: min 0.2024. max 0.2474. mean 0.2225.  ([best net](65/4))
 
-**accuracy**: min 0.8460. max 0.8460. mean 0.8460.  ([best net](65/0))
+**accuracy**: min 0.8471. max 0.8659. mean 0.8564.  ([best net](65/4))
 
 **n_params**: min 11451947.0000. max 11451947.0000. mean 11451947.0000.  ([best net](65/0))
 
 ---
 
-<div class="summary"><a href="50"><h2>random_2d_ed / 1216 / 50</h2></a><p>Created 17 Dec 2018, 02:57:41
+<div class="summary"><a href="50"><h2>random_2d_ed / 1216 / 50</h2></a><p>Created 17 Dec 2018, 23:35:11
 </p><a href="50"><img src="50/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -195,7 +739,7 @@
 
 ---
 
-<div class="summary"><a href="49"><h2>random_2d_ed / 1216 / 49</h2></a><p>Created 17 Dec 2018, 02:57:41
+<div class="summary"><a href="49"><h2>random_2d_ed / 1216 / 49</h2></a><p>Created 17 Dec 2018, 23:35:11
 </p><a href="49"><img src="49/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -211,23 +755,23 @@
 
 ---
 
-<div class="summary"><a href="67"><h2>random_2d_ed / 1216 / 67</h2></a><p>Created 17 Dec 2018, 02:57:41
+<div class="summary"><a href="67"><h2>random_2d_ed / 1216 / 67</h2></a><p>Created 17 Dec 2018, 23:35:11
 </p><a href="67"><img src="67/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
-2 nets
+5 nets
 
-**ari**: min 0.7456. max 0.7519. mean 0.7487.  ([best net](67/0))
+**ari**: min 0.6178. max 0.7519. mean 0.6995.  ([best net](67/0))
 
-**miou**: min 0.4179. max 0.4196. mean 0.4188.  ([best net](67/0))
+**miou**: min 0.2164. max 0.4196. mean 0.3131.  ([best net](67/0))
 
-**accuracy**: min 0.8848. max 0.8879. mean 0.8864.  ([best net](67/0))
+**accuracy**: min 0.8425. max 0.8879. mean 0.8670.  ([best net](67/0))
 
 **n_params**: min 1880229.0000. max 1880229.0000. mean 1880229.0000.  ([best net](67/0))
 
 ---
 
-<div class="summary"><a href="48"><h2>random_2d_ed / 1216 / 48</h2></a><p>Created 17 Dec 2018, 02:57:41
+<div class="summary"><a href="48"><h2>random_2d_ed / 1216 / 48</h2></a><p>Created 17 Dec 2018, 23:35:11
 </p><a href="48"><img src="48/3/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -243,23 +787,23 @@
 
 ---
 
-<div class="summary"><a href="45"><h2>random_2d_ed / 1216 / 45</h2></a><p>Created 17 Dec 2018, 02:57:41
+<div class="summary"><a href="45"><h2>random_2d_ed / 1216 / 45</h2></a><p>Created 17 Dec 2018, 23:35:11
 </p><a href="45"><img src="45/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
 5 nets
 
-**ari**: min 0.5610. max 0.6626. mean 0.6027.  ([best net](45/1))
+**ari**: min 0.5610. max 0.6626. mean 0.6081.  ([best net](45/1))
 
-**miou**: min 0.2500. max 0.3079. mean 0.2815.  ([best net](45/2))
+**miou**: min 0.2500. max 0.2975. mean 0.2800.  ([best net](45/2))
 
-**accuracy**: min 0.8659. max 0.8897. mean 0.8741.  ([best net](45/1))
+**accuracy**: min 0.8659. max 0.8897. mean 0.8750.  ([best net](45/1))
 
 **n_params**: min 10932082.0000. max 10932082.0000. mean 10932082.0000.  ([best net](45/0))
 
 ---
 
-<div class="summary"><a href="46"><h2>random_2d_ed / 1216 / 46</h2></a><p>Created 17 Dec 2018, 02:57:41
+<div class="summary"><a href="46"><h2>random_2d_ed / 1216 / 46</h2></a><p>Created 17 Dec 2018, 23:35:11
 </p><a href="46"><img src="46/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -275,7 +819,7 @@
 
 ---
 
-<div class="summary"><a href="44"><h2>random_2d_ed / 1216 / 44</h2></a><p>Created 17 Dec 2018, 02:57:41
+<div class="summary"><a href="44"><h2>random_2d_ed / 1216 / 44</h2></a><p>Created 17 Dec 2018, 23:35:11
 </p><a href="44"><img src="44/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -291,7 +835,7 @@
 
 ---
 
-<div class="summary"><a href="43"><h2>random_2d_ed / 1216 / 43</h2></a><p>Created 17 Dec 2018, 02:57:41
+<div class="summary"><a href="43"><h2>random_2d_ed / 1216 / 43</h2></a><p>Created 17 Dec 2018, 23:35:11
 </p><a href="43"><img src="43/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -307,7 +851,7 @@
 
 ---
 
-<div class="summary"><a href="42"><h2>random_2d_ed / 1216 / 42</h2></a><p>Created 17 Dec 2018, 02:57:41
+<div class="summary"><a href="42"><h2>random_2d_ed / 1216 / 42</h2></a><p>Created 17 Dec 2018, 23:35:11
 </p><a href="42"><img src="42/3/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -323,7 +867,7 @@
 
 ---
 
-<div class="summary"><a href="47"><h2>random_2d_ed / 1216 / 47</h2></a><p>Created 17 Dec 2018, 02:57:41
+<div class="summary"><a href="47"><h2>random_2d_ed / 1216 / 47</h2></a><p>Created 17 Dec 2018, 23:35:10
 </p><a href="47"><img src="47/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -339,7 +883,7 @@
 
 ---
 
-<div class="summary"><a href="41"><h2>random_2d_ed / 1216 / 41</h2></a><p>Created 17 Dec 2018, 02:57:41
+<div class="summary"><a href="41"><h2>random_2d_ed / 1216 / 41</h2></a><p>Created 17 Dec 2018, 23:35:10
 </p><a href="41"><img src="41/3/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -355,7 +899,7 @@
 
 ---
 
-<div class="summary"><a href="40"><h2>random_2d_ed / 1216 / 40</h2></a><p>Created 17 Dec 2018, 02:57:40
+<div class="summary"><a href="40"><h2>random_2d_ed / 1216 / 40</h2></a><p>Created 17 Dec 2018, 23:35:10
 </p><a href="40"><img src="40/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -371,7 +915,7 @@
 
 ---
 
-<div class="summary"><a href="39"><h2>random_2d_ed / 1216 / 39</h2></a><p>Created 17 Dec 2018, 02:57:40
+<div class="summary"><a href="39"><h2>random_2d_ed / 1216 / 39</h2></a><p>Created 17 Dec 2018, 23:35:10
 </p><a href="39"><img src="39/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -387,23 +931,23 @@
 
 ---
 
-<div class="summary"><a href="52"><h2>random_2d_ed / 1216 / 52</h2></a><p>Created 17 Dec 2018, 02:57:40
+<div class="summary"><a href="52"><h2>random_2d_ed / 1216 / 52</h2></a><p>Created 17 Dec 2018, 23:35:10
 </p><a href="52"><img src="52/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
 5 nets
 
-**ari**: min 0.7326. max 0.8160. mean 0.7870.  ([best net](52/4))
+**ari**: min 0.7326. max 0.8172. mean 0.7871.  ([best net](52/4))
 
-**miou**: min 0.3461. max 0.5596. mean 0.4439.  ([best net](52/4))
+**miou**: min 0.3461. max 0.5600. mean 0.4445.  ([best net](52/4))
 
-**accuracy**: min 0.8770. max 0.9216. mean 0.9067.  ([best net](52/4))
+**accuracy**: min 0.8770. max 0.9209. mean 0.9066.  ([best net](52/4))
 
 **n_params**: min 7276783.0000. max 7276783.0000. mean 7276783.0000.  ([best net](52/0))
 
 ---
 
-<div class="summary"><a href="38"><h2>random_2d_ed / 1216 / 38</h2></a><p>Created 17 Dec 2018, 02:57:40
+<div class="summary"><a href="38"><h2>random_2d_ed / 1216 / 38</h2></a><p>Created 17 Dec 2018, 23:35:10
 </p><a href="38"><img src="38/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -419,7 +963,7 @@
 
 ---
 
-<div class="summary"><a href="37"><h2>random_2d_ed / 1216 / 37</h2></a><p>Created 17 Dec 2018, 02:57:40
+<div class="summary"><a href="37"><h2>random_2d_ed / 1216 / 37</h2></a><p>Created 17 Dec 2018, 23:35:10
 </p><a href="37"><img src="37/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -435,7 +979,7 @@
 
 ---
 
-<div class="summary"><a href="51"><h2>random_2d_ed / 1216 / 51</h2></a><p>Created 17 Dec 2018, 02:57:40
+<div class="summary"><a href="51"><h2>random_2d_ed / 1216 / 51</h2></a><p>Created 17 Dec 2018, 23:35:10
 </p><a href="51"><img src="51/3/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -451,7 +995,7 @@
 
 ---
 
-<div class="summary"><a href="36"><h2>random_2d_ed / 1216 / 36</h2></a><p>Created 17 Dec 2018, 02:57:40
+<div class="summary"><a href="36"><h2>random_2d_ed / 1216 / 36</h2></a><p>Created 17 Dec 2018, 23:35:10
 </p><a href="36"><img src="36/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -467,7 +1011,7 @@
 
 ---
 
-<div class="summary"><a href="35"><h2>random_2d_ed / 1216 / 35</h2></a><p>Created 17 Dec 2018, 02:57:40
+<div class="summary"><a href="35"><h2>random_2d_ed / 1216 / 35</h2></a><p>Created 17 Dec 2018, 23:35:10
 </p><a href="35"><img src="35/3/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -483,7 +1027,7 @@
 
 ---
 
-<div class="summary"><a href="34"><h2>random_2d_ed / 1216 / 34</h2></a><p>Created 17 Dec 2018, 02:57:39
+<div class="summary"><a href="34"><h2>random_2d_ed / 1216 / 34</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="34"><img src="34/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -499,7 +1043,7 @@
 
 ---
 
-<div class="summary"><a href="31"><h2>random_2d_ed / 1216 / 31</h2></a><p>Created 17 Dec 2018, 02:57:39
+<div class="summary"><a href="31"><h2>random_2d_ed / 1216 / 31</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="31"><img src="31/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -515,7 +1059,7 @@
 
 ---
 
-<div class="summary"><a href="30"><h2>random_2d_ed / 1216 / 30</h2></a><p>Created 17 Dec 2018, 02:57:39
+<div class="summary"><a href="30"><h2>random_2d_ed / 1216 / 30</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="30"><img src="30/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -531,7 +1075,7 @@
 
 ---
 
-<div class="summary"><a href="29"><h2>random_2d_ed / 1216 / 29</h2></a><p>Created 17 Dec 2018, 02:57:39
+<div class="summary"><a href="29"><h2>random_2d_ed / 1216 / 29</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="29"><img src="29/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -547,7 +1091,7 @@
 
 ---
 
-<div class="summary"><a href="28"><h2>random_2d_ed / 1216 / 28</h2></a><p>Created 17 Dec 2018, 02:57:39
+<div class="summary"><a href="28"><h2>random_2d_ed / 1216 / 28</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="28"><img src="28/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -563,7 +1107,7 @@
 
 ---
 
-<div class="summary"><a href="27"><h2>random_2d_ed / 1216 / 27</h2></a><p>Created 17 Dec 2018, 02:57:39
+<div class="summary"><a href="27"><h2>random_2d_ed / 1216 / 27</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="27"><img src="27/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -579,7 +1123,7 @@
 
 ---
 
-<div class="summary"><a href="26"><h2>random_2d_ed / 1216 / 26</h2></a><p>Created 17 Dec 2018, 02:57:39
+<div class="summary"><a href="26"><h2>random_2d_ed / 1216 / 26</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="26"><img src="26/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -595,7 +1139,7 @@
 
 ---
 
-<div class="summary"><a href="25"><h2>random_2d_ed / 1216 / 25</h2></a><p>Created 17 Dec 2018, 02:57:38
+<div class="summary"><a href="25"><h2>random_2d_ed / 1216 / 25</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="25"><img src="25/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -611,7 +1155,7 @@
 
 ---
 
-<div class="summary"><a href="24"><h2>random_2d_ed / 1216 / 24</h2></a><p>Created 17 Dec 2018, 02:57:38
+<div class="summary"><a href="24"><h2>random_2d_ed / 1216 / 24</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="24"><img src="24/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -627,7 +1171,7 @@
 
 ---
 
-<div class="summary"><a href="33"><h2>random_2d_ed / 1216 / 33</h2></a><p>Created 17 Dec 2018, 02:57:38
+<div class="summary"><a href="33"><h2>random_2d_ed / 1216 / 33</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="33"><img src="33/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -643,7 +1187,7 @@
 
 ---
 
-<div class="summary"><a href="32"><h2>random_2d_ed / 1216 / 32</h2></a><p>Created 17 Dec 2018, 02:57:38
+<div class="summary"><a href="32"><h2>random_2d_ed / 1216 / 32</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="32"><img src="32/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -659,7 +1203,7 @@
 
 ---
 
-<div class="summary"><a href="21"><h2>random_2d_ed / 1216 / 21</h2></a><p>Created 17 Dec 2018, 02:57:38
+<div class="summary"><a href="21"><h2>random_2d_ed / 1216 / 21</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="21"><img src="21/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -675,7 +1219,7 @@
 
 ---
 
-<div class="summary"><a href="19"><h2>random_2d_ed / 1216 / 19</h2></a><p>Created 17 Dec 2018, 02:57:38
+<div class="summary"><a href="19"><h2>random_2d_ed / 1216 / 19</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="19"><img src="19/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -691,7 +1235,7 @@
 
 ---
 
-<div class="summary"><a href="17"><h2>random_2d_ed / 1216 / 17</h2></a><p>Created 17 Dec 2018, 02:57:38
+<div class="summary"><a href="17"><h2>random_2d_ed / 1216 / 17</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="17"><img src="17/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -707,7 +1251,7 @@
 
 ---
 
-<div class="summary"><a href="18"><h2>random_2d_ed / 1216 / 18</h2></a><p>Created 17 Dec 2018, 02:57:38
+<div class="summary"><a href="18"><h2>random_2d_ed / 1216 / 18</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="18"><img src="18/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -723,7 +1267,7 @@
 
 ---
 
-<div class="summary"><a href="20"><h2>random_2d_ed / 1216 / 20</h2></a><p>Created 17 Dec 2018, 02:57:38
+<div class="summary"><a href="20"><h2>random_2d_ed / 1216 / 20</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="20"><img src="20/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -739,7 +1283,7 @@
 
 ---
 
-<div class="summary"><a href="16"><h2>random_2d_ed / 1216 / 16</h2></a><p>Created 17 Dec 2018, 02:57:38
+<div class="summary"><a href="16"><h2>random_2d_ed / 1216 / 16</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="16"><img src="16/3/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -755,7 +1299,7 @@
 
 ---
 
-<div class="summary"><a href="15"><h2>random_2d_ed / 1216 / 15</h2></a><p>Created 17 Dec 2018, 02:57:37
+<div class="summary"><a href="15"><h2>random_2d_ed / 1216 / 15</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="15"><img src="15/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -771,7 +1315,7 @@
 
 ---
 
-<div class="summary"><a href="13"><h2>random_2d_ed / 1216 / 13</h2></a><p>Created 17 Dec 2018, 02:57:37
+<div class="summary"><a href="13"><h2>random_2d_ed / 1216 / 13</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="13"><img src="13/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -787,7 +1331,7 @@
 
 ---
 
-<div class="summary"><a href="14"><h2>random_2d_ed / 1216 / 14</h2></a><p>Created 17 Dec 2018, 02:57:37
+<div class="summary"><a href="14"><h2>random_2d_ed / 1216 / 14</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="14"><img src="14/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -803,7 +1347,7 @@
 
 ---
 
-<div class="summary"><a href="12"><h2>random_2d_ed / 1216 / 12</h2></a><p>Created 17 Dec 2018, 02:57:37
+<div class="summary"><a href="12"><h2>random_2d_ed / 1216 / 12</h2></a><p>Created 17 Dec 2018, 23:35:09
 </p><a href="12"><img src="12/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -819,7 +1363,7 @@
 
 ---
 
-<div class="summary"><a href="22"><h2>random_2d_ed / 1216 / 22</h2></a><p>Created 17 Dec 2018, 02:57:37
+<div class="summary"><a href="22"><h2>random_2d_ed / 1216 / 22</h2></a><p>Created 17 Dec 2018, 23:35:08
 </p><a href="22"><img src="22/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -835,7 +1379,7 @@
 
 ---
 
-<div class="summary"><a href="11"><h2>random_2d_ed / 1216 / 11</h2></a><p>Created 17 Dec 2018, 02:57:37
+<div class="summary"><a href="11"><h2>random_2d_ed / 1216 / 11</h2></a><p>Created 17 Dec 2018, 23:35:08
 </p><a href="11"><img src="11/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -851,7 +1395,7 @@
 
 ---
 
-<div class="summary"><a href="10"><h2>random_2d_ed / 1216 / 10</h2></a><p>Created 17 Dec 2018, 02:57:37
+<div class="summary"><a href="10"><h2>random_2d_ed / 1216 / 10</h2></a><p>Created 17 Dec 2018, 23:35:08
 </p><a href="10"><img src="10/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -867,7 +1411,7 @@
 
 ---
 
-<div class="summary"><a href="1"><h2>random_2d_ed / 1216 / 1</h2></a><p>Created 17 Dec 2018, 02:57:37
+<div class="summary"><a href="1"><h2>random_2d_ed / 1216 / 1</h2></a><p>Created 17 Dec 2018, 23:35:08
 </p><a href="1"><img src="1/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -883,7 +1427,7 @@
 
 ---
 
-<div class="summary"><a href="7"><h2>random_2d_ed / 1216 / 7</h2></a><p>Created 17 Dec 2018, 02:57:37
+<div class="summary"><a href="7"><h2>random_2d_ed / 1216 / 7</h2></a><p>Created 17 Dec 2018, 23:35:08
 </p><a href="7"><img src="7/3/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -899,7 +1443,7 @@
 
 ---
 
-<div class="summary"><a href="2"><h2>random_2d_ed / 1216 / 2</h2></a><p>Created 17 Dec 2018, 02:57:37
+<div class="summary"><a href="2"><h2>random_2d_ed / 1216 / 2</h2></a><p>Created 17 Dec 2018, 23:35:08
 </p><a href="2"><img src="2/3/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -915,7 +1459,7 @@
 
 ---
 
-<div class="summary"><a href="8"><h2>random_2d_ed / 1216 / 8</h2></a><p>Created 17 Dec 2018, 02:57:37
+<div class="summary"><a href="8"><h2>random_2d_ed / 1216 / 8</h2></a><p>Created 17 Dec 2018, 23:35:08
 </p><a href="8"><img src="8/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -931,7 +1475,7 @@
 
 ---
 
-<div class="summary"><a href="4"><h2>random_2d_ed / 1216 / 4</h2></a><p>Created 17 Dec 2018, 02:57:37
+<div class="summary"><a href="4"><h2>random_2d_ed / 1216 / 4</h2></a><p>Created 17 Dec 2018, 23:35:08
 </p><a href="4"><img src="4/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -947,7 +1491,7 @@
 
 ---
 
-<div class="summary"><a href="3"><h2>random_2d_ed / 1216 / 3</h2></a><p>Created 17 Dec 2018, 02:57:37
+<div class="summary"><a href="3"><h2>random_2d_ed / 1216 / 3</h2></a><p>Created 17 Dec 2018, 23:35:08
 </p><a href="3"><img src="3/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -963,7 +1507,7 @@
 
 ---
 
-<div class="summary"><a href="5"><h2>random_2d_ed / 1216 / 5</h2></a><p>Created 17 Dec 2018, 02:57:37
+<div class="summary"><a href="5"><h2>random_2d_ed / 1216 / 5</h2></a><p>Created 17 Dec 2018, 23:35:08
 </p><a href="5"><img src="5/3/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -979,7 +1523,7 @@
 
 ---
 
-<div class="summary"><a href="6"><h2>random_2d_ed / 1216 / 6</h2></a><p>Created 17 Dec 2018, 02:57:37
+<div class="summary"><a href="6"><h2>random_2d_ed / 1216 / 6</h2></a><p>Created 17 Dec 2018, 23:35:08
 </p><a href="6"><img src="6/3/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -995,7 +1539,7 @@
 
 ---
 
-<div class="summary"><a href="0"><h2>random_2d_ed / 1216 / 0</h2></a><p>Created 17 Dec 2018, 02:57:36
+<div class="summary"><a href="0"><h2>random_2d_ed / 1216 / 0</h2></a><p>Created 17 Dec 2018, 23:35:08
 </p><a href="0"><img src="0/4/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 

@@ -1,1 +1,1 @@
-{"leaf": true, "dir": "snapshots/random_2d_ed/1216/53/1", "n_nets": 1, "name": "RandomUnet2D_53_1", "ari": [0.6905989646911621], "miou": [0.35159507393836975], "accuracy": [0.9025779962539673], "n_params": [98298755], "n_iterations": 34176}
+{"leaf": true, "dir": "snapshots/random_2d_ed/1216/53/1", "n_nets": 1, "name": "RandomUnet2D_53_1", "ari": [0.6895111203193665], "miou": [0.35792315006256104], "accuracy": [0.9042865633964539], "n_params": [98298755], "n_iterations": 170880}
