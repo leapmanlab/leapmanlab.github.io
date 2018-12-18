@@ -3,7 +3,7 @@
 
 The _Patient 1_ platelet dataset looks like
 
-![](overview.gif)
+![Animation 1](overview.gif)
 
 Up until recently, we sought to segment portions of this data into 7 classes - background, cytoplasm/membrane, canalicular system, alpha granules, dense granules, and dense granule cores. In the past couple weeks, we've worked with Kenny and Nash to add another class - we're calling it "endoplasmic reticulum".
 
@@ -15,11 +15,11 @@ Over the weekend, we started running network training experiments on the new dat
 
 However, I have a question about this. Are we trying to put multiple distinct structures into this ER class? That big ER mass shares local characteristics with other ER areas - similar intensity, and lack of visible membrane at its boundary.
 
-![Animation 1](ermass.gif)
+![Animation 2](ermass.gif)
 
 
 However, that cell is the only place in the Patient 1 data where "ER" congregates in such a large mass. Everywhere else in the eval and training data, ER seems to form a network of narrow tubes connecting other organelles.
 
-![](ertubes.gif)
+![Animation 3](ertubes.gif)
 
 In some areas, ER has the appearance of congreg
