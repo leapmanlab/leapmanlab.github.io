@@ -142,7 +142,7 @@ def build_index(root_dir: str,
               '---']
     index_parts = bumper[:]
     # Get a list of child dirs and their creation and last-modified times
-    dirs_info = [(d, os.path.getctime(os.path.join(d, HISTORY)),  i)
+    dirs_info = [(d, os.path.getctime(d),  i)
                  for i, d in enumerate(child_dirs)]
     # Sort dirs by creation time, most-recent first
     dirs_info = sorted(dirs_info, reverse=True, key=lambda d: d[1])
