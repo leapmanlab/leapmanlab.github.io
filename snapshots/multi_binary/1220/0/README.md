@@ -3,12 +3,12 @@
 
 ---
 
-<div class="summary"><a href="0"><h2>unet / 1212 / 0</h2></a><p>Created 17 Dec 2018, 23:35:02
+<div class="summary"><a href="0"><h2>multi_binary / 1220 / 0 / 0</h2></a><p>Created 21 Dec 2018, 01:15:55
 </p><a href="0"><img src="0/media/summary.png" align="center"></a><p>
 <i>Click for more details</i>
 </p></div>
 
-**ari**: 0.7698. **miou**: 0.4304. **accuracy**: 0.9063. **n_params**: 31030983.0000. 
+**ari**: -0.0000. **miou**: 0.2369. **accuracy**: 0.4738. **n_params**: 31030658.0000. 
 
 ---
 
