@@ -1,0 +1,1 @@
+[{"accuracy": 0.9726033210754395, "adj_rand_idx": 0.009259259328246117, "loss": 104349.296875, "mean_iou": 0.4863017201423645, "global_step": 3204, "name": "BinaryUnet2D_6_0", "param_seed": 282869758, "last_eval_time": 1545361391.1540468, "n_trainable_params": 31030658}]
