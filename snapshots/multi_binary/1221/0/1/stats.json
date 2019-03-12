@@ -1,0 +1,1 @@
+{"leaf": true, "dir": "snapshots/multi_binary/1221/0/1", "n_nets": 1, "name": "BinaryUnet2D_0_0", "ari": [0.8963413834571838], "miou": [0.9481625556945801], "accuracy": [0.9734900593757629], "n_params": [31030658], "n_iterations": 96120}

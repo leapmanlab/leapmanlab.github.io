@@ -1,1 +1,0 @@
-{"leaf": true, "dir": "snapshots/unet/1212/0", "n_nets": 1, "name": "UnetDec122018_215217", "ari": [0.769815981388092], "miou": [0.4304289221763611], "accuracy": [0.906298816204071], "n_params": [31030983], "n_iterations": 1800}
