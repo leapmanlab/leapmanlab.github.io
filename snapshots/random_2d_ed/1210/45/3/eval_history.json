@@ -1,1 +1,0 @@
-[{"accuracy": 0.7749460339546204, "adj_rand_idx": 0.2556905150413513, "loss": 5251.0732421875, "mean_iou": 0.19044311344623566, "global_step": 3200, "name": "RandomUnet2D_45_2", "param_seed": 1212, "last_eval_time": 1544736912.3294237, "n_trainable_params": 26904529}]

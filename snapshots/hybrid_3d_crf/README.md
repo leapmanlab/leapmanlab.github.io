@@ -1,0 +1,40 @@
+
+[Back](..)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home](https://leapmanlab.github.io/snapshots)
+
+---
+
+<div class="summary"><a href="0316"><h2>hybrid_3d_crf / 0316</h2></a><p>Created 18 Mar 2019, 16:44:14
+</p><a href="0316"><img src="0316/0/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+20 nets
+
+**ari**: min 0.8335. max 0.8368. mean 0.8355.  ([best net](0316/0/8))
+
+**miou**: min 0.6302. max 0.6507. mean 0.6462.  ([best net](0316/0/2))
+
+**accuracy**: min 0.9382. max 0.9398. mean 0.9391.  ([best net](0316/0/8))
+
+**n_params**: min 691951.0000. max 691951.0000. mean 691951.0000.  ([best net](0316/0/2))
+
+---
+
+<div class="summary"><a href="0312"><h2>hybrid_3d_crf / 0312</h2></a><p>Created 18 Mar 2019, 16:44:13
+</p><a href="0312"><img src="0312/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+1 nets
+
+**ari**: min 0.8348. max 0.8348. mean 0.8348.  ([best net](0312/1))
+
+**miou**: min 0.6353. max 0.6353. mean 0.6353.  ([best net](0312/1))
+
+**accuracy**: min 0.9382. max 0.9382. mean 0.9382.  ([best net](0312/1))
+
+**n_params**: min 99439.0000. max 99439.0000. mean 99439.0000.  ([best net](0312/1))
+
+---
+
+[Back](..)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home](https://leapmanlab.github.io/snapshots)
+
+---

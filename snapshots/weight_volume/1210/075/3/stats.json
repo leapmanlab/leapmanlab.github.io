@@ -1,1 +1,0 @@
-{"leaf": true, "dir": "snapshots/weight_volume/1210/075/3", "n_nets": 1, "name": "WeightVolume_075_3", "ari": [0.8313149809837341], "miou": [0.5660824179649353], "accuracy": [0.937614917755127], "n_params": [31030983], "n_iterations": 36000}

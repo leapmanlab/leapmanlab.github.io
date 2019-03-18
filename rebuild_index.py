@@ -42,7 +42,7 @@ def summarize_dir(root_dir: str):
     #
     def media_check(d):
         files = os.listdir(d)
-        return any(['.png' in fl for fl in files])
+        return any(['.svg' in fl.lower() for fl in files])
 
     child_dirs = [os.path.join(root_dir, d) for d in os.listdir(root_dir)
                   if os.path.isdir(os.path.join(root_dir, d))
