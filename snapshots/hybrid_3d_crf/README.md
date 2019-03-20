@@ -3,7 +3,23 @@
 
 ---
 
-<div class="summary"><a href="0318"><h2>hybrid_3d_crf / 0318</h2></a><p>Created 19 Mar 2019, 13:57:12
+<div class="summary"><a href="0319"><h2>hybrid_3d_crf / 0319</h2></a><p>Created 20 Mar 2019, 13:22:35
+</p><a href="0319"><img src="0319/0/7/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+24 nets
+
+**ari**: min 0.0000. max 0.8385. mean 0.6622.  ([best net](0319/0/8))
+
+**miou**: min 0.0646. max 0.6520. mean 0.5155.  ([best net](0319/0/7))
+
+**accuracy**: min 0.4522. max 0.9401. mean 0.8377.  ([best net](0319/0/7))
+
+**n_params**: min 691951.0000. max 691951.0000. mean 691951.0000.  ([best net](0319/0/23))
+
+---
+
+<div class="summary"><a href="0318"><h2>hybrid_3d_crf / 0318</h2></a><p>Created 20 Mar 2019, 13:22:34
 </p><a href="0318"><img src="0318/0/19/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -19,7 +35,7 @@
 
 ---
 
-<div class="summary"><a href="0316"><h2>hybrid_3d_crf / 0316</h2></a><p>Created 19 Mar 2019, 13:57:11
+<div class="summary"><a href="0316"><h2>hybrid_3d_crf / 0316</h2></a><p>Created 20 Mar 2019, 13:22:32
 </p><a href="0316"><img src="0316/0/2/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -35,7 +51,7 @@
 
 ---
 
-<div class="summary"><a href="0312"><h2>hybrid_3d_crf / 0312</h2></a><p>Created 19 Mar 2019, 13:57:11
+<div class="summary"><a href="0312"><h2>hybrid_3d_crf / 0312</h2></a><p>Created 20 Mar 2019, 13:22:31
 </p><a href="0312"><img src="0312/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 

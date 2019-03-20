@@ -3,23 +3,23 @@
 
 ---
 
-<div class="summary"><a href="hybrid_3d_crf"><h2>hybrid_3d_crf</h2></a><p>Created 19 Mar 2019, 13:57:12
-</p><a href="hybrid_3d_crf"><img src="hybrid_3d_crf/0318/0/19/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+<div class="summary"><a href="hybrid_3d_crf"><h2>hybrid_3d_crf</h2></a><p>Created 20 Mar 2019, 13:22:35
+</p><a href="hybrid_3d_crf"><img src="hybrid_3d_crf/0319/0/7/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
-45 nets
+69 nets
 
-**ari**: min 0.8335. max 0.8388. mean 0.8360.  ([best net](hybrid_3d_crf/0318/0/17))
+**ari**: min 0.0000. max 0.8388. mean 0.7755.  ([best net](hybrid_3d_crf/0318/0/17))
 
-**miou**: min 0.6302. max 0.6507. mean 0.6458.  ([best net](hybrid_3d_crf/0318/0/19))
+**miou**: min 0.0646. max 0.6520. mean 0.6005.  ([best net](hybrid_3d_crf/0319/0/7))
 
-**accuracy**: min 0.9382. max 0.9406. mean 0.9392.  ([best net](hybrid_3d_crf/0318/0/17))
+**accuracy**: min 0.4522. max 0.9406. mean 0.9039.  ([best net](hybrid_3d_crf/0318/0/17))
 
-**n_params**: min 99439.0000. max 691951.0000. mean 678784.0667.  ([best net](hybrid_3d_crf/0316/0/2))
+**n_params**: min 99439.0000. max 691951.0000. mean 683363.8696.  ([best net](hybrid_3d_crf/0316/0/2))
 
 ---
 
-<div class="summary"><a href="random_2d_ed_dense"><h2>random_2d_ed_dense</h2></a><p>Created 19 Mar 2019, 13:57:11
+<div class="summary"><a href="random_2d_ed_dense"><h2>random_2d_ed_dense</h2></a><p>Created 20 Mar 2019, 13:22:31
 </p><a href="random_2d_ed_dense"><img src="random_2d_ed_dense/0306/13/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -35,7 +35,7 @@
 
 ---
 
-<div class="summary"><a href="random_2d_ed"><h2>random_2d_ed</h2></a><p>Created 19 Mar 2019, 13:57:11
+<div class="summary"><a href="random_2d_ed"><h2>random_2d_ed</h2></a><p>Created 20 Mar 2019, 13:22:30
 </p><a href="random_2d_ed"><img src="random_2d_ed/0310/5/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
