@@ -3,7 +3,7 @@
 
 ---
 
-<div class="summary"><a href="10"><h2>random_2d_ed / 0306 / 10</h2></a><p>Created 20 Mar 2019, 13:22:30
+<div class="summary"><a href="10"><h2>random_2d_ed / 0306 / 10</h2></a><p>Created 08 Apr 2019, 16:23:18
 </p><a href="10"><img src="10/media/summary.png" align="center"></a><p>
 <i>Click for more details</i>
 </p></div>

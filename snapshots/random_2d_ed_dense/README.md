@@ -3,7 +3,23 @@
 
 ---
 
-<div class="summary"><a href="0306"><h2>random_2d_ed_dense / 0306</h2></a><p>Created 20 Mar 2019, 13:22:31
+<div class="summary"><a href="0408"><h2>random_2d_ed_dense / 0408</h2></a><p>Created 08 Apr 2019, 16:23:19
+</p><a href="0408"><img src="0408/0/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+</p></div>
+
+3 nets
+
+**ari**: min 0.6634. max 0.7508. mean 0.7194.  ([best net](0408/0/0))
+
+**miou**: min 0.2663. max 0.4087. mean 0.3447.  ([best net](0408/0/0))
+
+**accuracy**: min 0.8709. max 0.8983. mean 0.8872.  ([best net](0408/1/0))
+
+**n_params**: min 198864.0000. max 8237315.0000. mean 2878347.6667.  ([best net](0408/1/0))
+
+---
+
+<div class="summary"><a href="0306"><h2>random_2d_ed_dense / 0306</h2></a><p>Created 08 Apr 2019, 16:23:18
 </p><a href="0306"><img src="0306/13/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
