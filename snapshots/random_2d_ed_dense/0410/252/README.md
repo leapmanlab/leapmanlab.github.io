@@ -1,0 +1,26 @@
+
+[Back](..)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home](https://leapmanlab.github.io/snapshots)
+
+---
+
+<div class="summary"><a href="1"><h2>random_2d_ed_dense / 0410 / 252 / 1</h2></a><p>Created 12 Apr 2019, 15:10:49
+</p><a href="1"><img src="1/media/summary.png" align="center"></a><p>
+<i>Click for more details</i>
+</p></div>
+
+**ari**: 0.8216. **miou**: 0.5111. **accuracy**: 0.9333. **n_params**: 4005266.0000. 
+
+---
+
+<div class="summary"><a href="0"><h2>random_2d_ed_dense / 0410 / 252 / 0</h2></a><p>Created 12 Apr 2019, 15:10:48
+</p><a href="0"><img src="0/media/summary.png" align="center"></a><p>
+<i>Click for more details</i>
+</p></div>
+
+**ari**: 0.8136. **miou**: 0.4600. **accuracy**: 0.9304. **n_params**: 4005266.0000. 
+
+---
+
+[Back](..)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Home](https://leapmanlab.github.io/snapshots)
+
+---

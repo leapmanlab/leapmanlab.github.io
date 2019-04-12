@@ -1,0 +1,1 @@
+{"leaf": true, "dir": "snapshots/random_2d_ed_dense/0410/27/1", "n_nets": 1, "name": "RandomUnet2D_27_0", "ari": [0.144597589969635], "miou": [0.09911835193634033], "accuracy": [0.42280423641204834], "n_params": [2112798], "n_iterations": 8800}

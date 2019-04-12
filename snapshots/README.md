@@ -3,7 +3,7 @@
 
 ---
 
-<div class="summary"><a href="hybrid_3d_crf"><h2>hybrid_3d_crf</h2></a><p>Created 08 Apr 2019, 16:23:22
+<div class="summary"><a href="hybrid_3d_crf"><h2>hybrid_3d_crf</h2></a><p>Created 12 Apr 2019, 15:12:38
 </p><a href="hybrid_3d_crf"><img src="hybrid_3d_crf/0319/0/7/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -19,23 +19,23 @@
 
 ---
 
-<div class="summary"><a href="random_2d_ed_dense"><h2>random_2d_ed_dense</h2></a><p>Created 08 Apr 2019, 16:23:19
-</p><a href="random_2d_ed_dense"><img src="random_2d_ed_dense/0408/0/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+<div class="summary"><a href="random_2d_ed_dense"><h2>random_2d_ed_dense</h2></a><p>Created 12 Apr 2019, 15:11:03
+</p><a href="random_2d_ed_dense"><img src="random_2d_ed_dense/0410/0/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
-7 nets
+161 nets
 
-**ari**: min 0.2643. max 0.7797. mean 0.6397.  ([best net](random_2d_ed_dense/0306/13))
+**ari**: min -0.0107. max 0.8300. mean 0.5233.  ([best net](random_2d_ed_dense/0410/0/1))
 
-**miou**: min 0.0002. max 0.4087. mean 0.2776.  ([best net](random_2d_ed_dense/0408/0/0))
+**miou**: min 0.0002. max 0.6110. mean 0.2858.  ([best net](random_2d_ed_dense/0410/0/1))
 
-**accuracy**: min 0.0009. max 0.9153. mean 0.7621.  ([best net](random_2d_ed_dense/0306/13))
+**accuracy**: min 0.0009. max 0.9378. mean 0.7261.  ([best net](random_2d_ed_dense/0410/0/0))
 
-**n_params**: min 198864.0000. max 8237315.0000. mean 3166679.7143.  ([best net](random_2d_ed_dense/0408/1/0))
+**n_params**: min 52600.0000. max 49701896.0000. mean 4908946.8820.  ([best net](random_2d_ed_dense/0410/227/1))
 
 ---
 
-<div class="summary"><a href="random_2d_ed"><h2>random_2d_ed</h2></a><p>Created 08 Apr 2019, 16:23:18
+<div class="summary"><a href="random_2d_ed"><h2>random_2d_ed</h2></a><p>Created 12 Apr 2019, 15:10:12
 </p><a href="random_2d_ed"><img src="random_2d_ed/0310/5/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 

@@ -3,23 +3,23 @@
 
 ---
 
-<div class="summary"><a href="0408"><h2>random_2d_ed_dense / 0408</h2></a><p>Created 08 Apr 2019, 16:23:19
-</p><a href="0408"><img src="0408/0/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+<div class="summary"><a href="0410"><h2>random_2d_ed_dense / 0410</h2></a><p>Created 12 Apr 2019, 15:11:03
+</p><a href="0410"><img src="0410/0/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
-3 nets
+157 nets
 
-**ari**: min 0.6634. max 0.7508. mean 0.7194.  ([best net](0408/0/0))
+**ari**: min -0.0107. max 0.8300. mean 0.5218.  ([best net](0410/0/1))
 
-**miou**: min 0.2663. max 0.4087. mean 0.3447.  ([best net](0408/0/0))
+**miou**: min 0.0101. max 0.6110. mean 0.2873.  ([best net](0410/0/1))
 
-**accuracy**: min 0.8709. max 0.8983. mean 0.8872.  ([best net](0408/1/0))
+**accuracy**: min 0.0480. max 0.9378. mean 0.7275.  ([best net](0410/0/0))
 
-**n_params**: min 198864.0000. max 8237315.0000. mean 2878347.6667.  ([best net](0408/1/0))
+**n_params**: min 52600.0000. max 49701896.0000. mean 4947826.3248.  ([best net](0410/227/1))
 
 ---
 
-<div class="summary"><a href="0306"><h2>random_2d_ed_dense / 0306</h2></a><p>Created 08 Apr 2019, 16:23:18
+<div class="summary"><a href="0306"><h2>random_2d_ed_dense / 0306</h2></a><p>Created 12 Apr 2019, 15:10:12
 </p><a href="0306"><img src="0306/13/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
