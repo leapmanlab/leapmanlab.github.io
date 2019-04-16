@@ -3,7 +3,7 @@
 
 ---
 
-<div class="summary"><a href="0310"><h2>random_2d_ed / 0310</h2></a><p>Created 12 Apr 2019, 15:10:12
+<div class="summary"><a href="0310"><h2>random_2d_ed / 0310</h2></a><p>Created 16 Apr 2019, 17:08:23
 </p><a href="0310"><img src="0310/5/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -19,7 +19,7 @@
 
 ---
 
-<div class="summary"><a href="0306"><h2>random_2d_ed / 0306</h2></a><p>Created 12 Apr 2019, 15:10:12
+<div class="summary"><a href="0306"><h2>random_2d_ed / 0306</h2></a><p>Created 16 Apr 2019, 17:08:23
 </p><a href="0306"><img src="0306/10/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
