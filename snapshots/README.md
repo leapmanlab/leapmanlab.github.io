@@ -3,7 +3,7 @@
 
 ---
 
-<div class="summary"><a href="hybrid_3d_crf"><h2>hybrid_3d_crf</h2></a><p>Created 16 Apr 2019, 17:08:47
+<div class="summary"><a href="hybrid_3d_crf"><h2>hybrid_3d_crf</h2></a><p>Created 18 Apr 2019, 16:41:09
 </p><a href="hybrid_3d_crf"><img src="hybrid_3d_crf/0319/0/7/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -19,23 +19,23 @@
 
 ---
 
-<div class="summary"><a href="random_hybrid_3d"><h2>random_hybrid_3d</h2></a><p>Created 16 Apr 2019, 17:08:39
-</p><a href="random_hybrid_3d"><img src="random_hybrid_3d/0416/2/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+<div class="summary"><a href="random_hybrid_3d"><h2>random_hybrid_3d</h2></a><p>Created 18 Apr 2019, 16:41:08
+</p><a href="random_hybrid_3d"><img src="random_hybrid_3d/0416/129/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
-141 nets
+597 nets
 
-**ari**: min -0.0031. max 0.8460. mean 0.7415.  ([best net](random_hybrid_3d/0416/69/0))
+**ari**: min -0.0108. max 0.8460. mean 0.7311.  ([best net](random_hybrid_3d/0416/69/0))
 
-**miou**: min 0.0656. max 0.6577. mean 0.4361.  ([best net](random_hybrid_3d/0416/2/0))
+**miou**: min 0.0391. max 0.6639. mean 0.4215.  ([best net](random_hybrid_3d/0416/129/0))
 
-**accuracy**: min 0.4476. max 0.9447. mean 0.8916.  ([best net](random_hybrid_3d/0416/69/0))
+**accuracy**: min 0.1585. max 0.9447. mean 0.8847.  ([best net](random_hybrid_3d/0416/69/0))
 
-**n_params**: min 7847.0000. max 58516442.0000. mean 5449013.1631.  ([best net](random_hybrid_3d/0416/36/1))
+**n_params**: min 4263.0000. max 82797454.0000. mean 4521981.1256.  ([best net](random_hybrid_3d/0416/294/0))
 
 ---
 
-<div class="summary"><a href="random_2d_ed_dense"><h2>random_2d_ed_dense</h2></a><p>Created 16 Apr 2019, 17:08:33
+<div class="summary"><a href="random_2d_ed_dense"><h2>random_2d_ed_dense</h2></a><p>Created 18 Apr 2019, 16:40:59
 </p><a href="random_2d_ed_dense"><img src="random_2d_ed_dense/0410/0/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -51,7 +51,7 @@
 
 ---
 
-<div class="summary"><a href="random_2d_ed"><h2>random_2d_ed</h2></a><p>Created 16 Apr 2019, 17:08:23
+<div class="summary"><a href="random_2d_ed"><h2>random_2d_ed</h2></a><p>Created 18 Apr 2019, 16:40:57
 </p><a href="random_2d_ed"><img src="random_2d_ed/0310/5/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 

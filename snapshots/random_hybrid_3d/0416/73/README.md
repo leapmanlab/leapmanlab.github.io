@@ -3,7 +3,16 @@
 
 ---
 
-<div class="summary"><a href="0"><h2>random_hybrid_3d / 0416 / 73 / 0</h2></a><p>Created 16 Apr 2019, 17:08:38
+<div class="summary"><a href="1"><h2>random_hybrid_3d / 0416 / 73 / 1</h2></a><p>Created 18 Apr 2019, 16:41:02
+</p><a href="1"><img src="1/media/summary.png" align="center"></a><p>
+<i>Click for more details</i>
+</p></div>
+
+**ari**: 0.8417. **miou**: 0.4637. **accuracy**: 0.9372. **n_params**: 29349.0000. 
+
+---
+
+<div class="summary"><a href="0"><h2>random_hybrid_3d / 0416 / 73 / 0</h2></a><p>Created 18 Apr 2019, 16:41:02
 </p><a href="0"><img src="0/media/summary.png" align="center"></a><p>
 <i>Click for more details</i>
 </p></div>

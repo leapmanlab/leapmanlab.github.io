@@ -1,0 +1,1 @@
+{"leaf": true, "dir": "snapshots/random_hybrid_3d/0416/227/1", "n_nets": 1, "name": "Hybrid3DCRF_227_1", "ari": [0.8384616374969482], "miou": [0.4160056710243225], "accuracy": [0.934857964515686], "n_params": [847567], "n_iterations": 368}
