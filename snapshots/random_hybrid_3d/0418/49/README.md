@@ -3,12 +3,12 @@
 
 ---
 
-<div class="summary"><a href="0"><h2>random_hybrid_3d / 0418 / 49 / 0</h2></a><p>Created 20 Apr 2019, 00:17:24
+<div class="summary"><a href="0"><h2>random_hybrid_3d / 0418 / 49 / 0</h2></a><p>Created 25 Apr 2019, 13:51:04
 </p><a href="0"><img src="0/media/summary.png" align="center"></a><p>
 <i>Click for more details</i>
 </p></div>
 
-**ari**: 0.8292. **miou**: 0.6367. **accuracy**: 0.9372. **n_params**: 712749.0000. 
+**ari**: 0.8295. **miou**: 0.6214. **accuracy**: 0.9367. **n_params**: 712749.0000. 
 
 ---
 
