@@ -3,15 +3,15 @@
 
 ---
 
-<div class="summary"><a href="0424"><h2>random_hybrid_3d / 0424</h2></a><p>Created 25 Apr 2019, 13:51:11
+<div class="summary"><a href="0424"><h2>random_hybrid_3d / 0424</h2></a><p>Created 25 Apr 2019, 14:02:58
 </p><a href="0424"><img src="0424/9/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
 74 nets
 
-**ari**: min -0.0000. max 0.8315. mean 0.8046.  ([best net](0424/16/0))
+**ari**: min -0.0000. max 0.8315. mean 0.8045.  ([best net](0424/16/0))
 
-**miou**: min 0.0678. max 0.6323. mean 0.5705.  ([best net](0424/9/0))
+**miou**: min 0.0678. max 0.6323. mean 0.5704.  ([best net](0424/9/0))
 
 **accuracy**: min 0.4743. max 0.9381. mean 0.9242.  ([best net](0424/16/0))
 
@@ -19,7 +19,7 @@
 
 ---
 
-<div class="summary"><a href="0418"><h2>random_hybrid_3d / 0418</h2></a><p>Created 25 Apr 2019, 13:51:06
+<div class="summary"><a href="0418"><h2>random_hybrid_3d / 0418</h2></a><p>Created 25 Apr 2019, 14:02:57
 </p><a href="0418"><img src="0418/27/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -35,7 +35,7 @@
 
 ---
 
-<div class="summary"><a href="0416"><h2>random_hybrid_3d / 0416</h2></a><p>Created 25 Apr 2019, 13:50:59
+<div class="summary"><a href="0416"><h2>random_hybrid_3d / 0416</h2></a><p>Created 25 Apr 2019, 14:02:55
 </p><a href="0416"><img src="0416/129/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
