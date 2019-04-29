@@ -3,7 +3,7 @@
 
 ---
 
-<div class="summary"><a href="hybrid_3d_crf"><h2>hybrid_3d_crf</h2></a><p>Created 25 Apr 2019, 14:03:01
+<div class="summary"><a href="hybrid_3d_crf"><h2>hybrid_3d_crf</h2></a><p>Created 29 Apr 2019, 14:49:55
 </p><a href="hybrid_3d_crf"><img src="hybrid_3d_crf/0319/0/7/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -19,23 +19,23 @@
 
 ---
 
-<div class="summary"><a href="random_hybrid_3d"><h2>random_hybrid_3d</h2></a><p>Created 25 Apr 2019, 14:02:58
+<div class="summary"><a href="random_hybrid_3d"><h2>random_hybrid_3d</h2></a><p>Created 29 Apr 2019, 14:49:49
 </p><a href="random_hybrid_3d"><img src="random_hybrid_3d/0416/129/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
-788 nets
+972 nets
 
-**ari**: min -0.0108. max 0.8460. mean 0.7521.  ([best net](random_hybrid_3d/0416/69/0))
+**ari**: min -0.0108. max 0.8460. mean 0.7649.  ([best net](random_hybrid_3d/0416/69/0))
 
-**miou**: min 0.0391. max 0.6639. mean 0.4623.  ([best net](random_hybrid_3d/0416/129/0))
+**miou**: min 0.0391. max 0.6639. mean 0.4861.  ([best net](random_hybrid_3d/0416/129/0))
 
-**accuracy**: min 0.1585. max 0.9447. mean 0.8960.  ([best net](random_hybrid_3d/0416/69/0))
+**accuracy**: min 0.1585. max 0.9447. mean 0.9028.  ([best net](random_hybrid_3d/0416/69/0))
 
-**n_params**: min 4263.0000. max 82797454.0000. mean 4632930.1992.  ([best net](random_hybrid_3d/0416/294/0))
+**n_params**: min 3591.0000. max 97048527.0000. mean 4908681.0360.  ([best net](random_hybrid_3d/0424/74/1))
 
 ---
 
-<div class="summary"><a href="random_2d_ed_dense"><h2>random_2d_ed_dense</h2></a><p>Created 25 Apr 2019, 14:02:46
+<div class="summary"><a href="random_2d_ed_dense"><h2>random_2d_ed_dense</h2></a><p>Created 29 Apr 2019, 14:47:43
 </p><a href="random_2d_ed_dense"><img src="random_2d_ed_dense/0410/0/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -51,7 +51,7 @@
 
 ---
 
-<div class="summary"><a href="random_2d_ed"><h2>random_2d_ed</h2></a><p>Created 25 Apr 2019, 14:02:43
+<div class="summary"><a href="random_2d_ed"><h2>random_2d_ed</h2></a><p>Created 29 Apr 2019, 14:47:01
 </p><a href="random_2d_ed"><img src="random_2d_ed/0310/5/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 

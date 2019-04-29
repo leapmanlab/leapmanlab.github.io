@@ -1,6 +1,6 @@
 # Hybrid3DCRF_5_0
 
-### Step 47840 (April 25 2019, 13:36:27)
+### Step 55200 (April 25 2019, 16:56:24)
 
 [_Back_](..)
 
@@ -16,7 +16,7 @@
 
 ---
 
-## Performance statistics, step 47840
+## Performance statistics, step 55200
 
 <div class="images"><a href="media/accuracy.svg"><img class="mini" src="media/accuracy.svg" align="center"></a><p>accuracy.svg. <i>Click to enlarge</i></p></div>
 <div class="images"><a href="media/adj_rand_idx.svg"><img class="mini" src="media/adj_rand_idx.svg" align="center"></a><p>adj_rand_idx.svg. <i>Click to enlarge</i></p></div>
@@ -31,7 +31,7 @@
 
 <div class="images"><a href="media/train-data.png"><img class="mini" src="media/train-data.png" align="center"></a><p>train-data.png. <i>Click to enlarge</i></p></div>
 <div class="images"><a href="media/train-label.png"><img class="mini" src="media/train-label.png" align="center"></a><p>train-label.png. <i>Click to enlarge</i></p></div>
-<div class="images"><a href="media/segmentation_47840.png"><img class="mini" src="media/segmentation_47840.png" align="center"></a><p>segmentation_47840.png. <i>Click to enlarge</i></p></div>
+<div class="images"><a href="media/segmentation_55200.png"><img class="mini" src="media/segmentation_55200.png" align="center"></a><p>segmentation_55200.png. <i>Click to enlarge</i></p></div>
 
 ---
 
