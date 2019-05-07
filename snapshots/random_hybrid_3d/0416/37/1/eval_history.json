@@ -1,1 +1,0 @@
-[{"accuracy": 0.9416348338127136, "adj_rand_idx": 0.8393717408180237, "loss": 136290.90625, "mean_iou": 0.5271466374397278, "global_step": 368, "name": "Hybrid3DCRF_37_1", "param_seed": 417, "last_eval_time": 1555445807.5345297, "n_trainable_params": 14827241}]
