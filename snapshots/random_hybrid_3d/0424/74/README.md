@@ -3,21 +3,21 @@
 
 ---
 
-<div class="summary"><a href="1"><h2>random_hybrid_3d / 0424 / 74 / 1</h2></a><p>Created 29 Apr 2019, 14:49:44
+<div class="summary"><a href="1"><h2>random_hybrid_3d / 0424 / 74 / 1</h2></a><p>Created 07 May 2019, 10:53:19
 </p><a href="1"><img src="1/media/summary.png" align="center"></a><p>
 <i>Click for more details</i>
 </p></div>
 
-**ari**: 0.8209. **miou**: 0.5334. **accuracy**: 0.9338. **n_params**: 97048527.0000. 
+**ari**: 0.8261. **miou**: 0.6133. **accuracy**: 0.9362. **n_params**: 97048527.0000. 
 
 ---
 
-<div class="summary"><a href="0"><h2>random_hybrid_3d / 0424 / 74 / 0</h2></a><p>Created 29 Apr 2019, 14:49:44
+<div class="summary"><a href="0"><h2>random_hybrid_3d / 0424 / 74 / 0</h2></a><p>Created 07 May 2019, 10:53:19
 </p><a href="0"><img src="0/media/summary.png" align="center"></a><p>
 <i>Click for more details</i>
 </p></div>
 
-**ari**: 0.8313. **miou**: 0.6235. **accuracy**: 0.9378. **n_params**: 97046028.0000. 
+**ari**: 0.8317. **miou**: 0.6239. **accuracy**: 0.9381. **n_params**: 97046028.0000. 
 
 ---
 

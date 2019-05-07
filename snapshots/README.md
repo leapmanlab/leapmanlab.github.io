@@ -3,7 +3,7 @@
 
 ---
 
-<div class="summary"><a href="hybrid_3d_crf"><h2>hybrid_3d_crf</h2></a><p>Created 29 Apr 2019, 14:49:55
+<div class="summary"><a href="hybrid_3d_crf"><h2>hybrid_3d_crf</h2></a><p>Created 07 May 2019, 10:53:38
 </p><a href="hybrid_3d_crf"><img src="hybrid_3d_crf/0319/0/7/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
@@ -19,39 +19,39 @@
 
 ---
 
-<div class="summary"><a href="random_hybrid_3d"><h2>random_hybrid_3d</h2></a><p>Created 29 Apr 2019, 14:49:49
+<div class="summary"><a href="random_hybrid_3d"><h2>random_hybrid_3d</h2></a><p>Created 07 May 2019, 10:53:32
 </p><a href="random_hybrid_3d"><img src="random_hybrid_3d/0416/129/0/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
-972 nets
+1309 nets
 
-**ari**: min -0.0108. max 0.8460. mean 0.7649.  ([best net](random_hybrid_3d/0416/69/0))
+**ari**: min -0.0108. max 0.8460. mean 0.7786.  ([best net](random_hybrid_3d/0416/69/0))
 
-**miou**: min 0.0391. max 0.6639. mean 0.4861.  ([best net](random_hybrid_3d/0416/129/0))
+**miou**: min 0.0391. max 0.6639. mean 0.5102.  ([best net](random_hybrid_3d/0416/129/0))
 
-**accuracy**: min 0.1585. max 0.9447. mean 0.9028.  ([best net](random_hybrid_3d/0416/69/0))
+**accuracy**: min 0.1585. max 0.9447. mean 0.9101.  ([best net](random_hybrid_3d/0416/69/0))
 
-**n_params**: min 3591.0000. max 97048527.0000. mean 4908681.0360.  ([best net](random_hybrid_3d/0424/74/1))
+**n_params**: min 3591.0000. max 97048527.0000. mean 4589036.3193.  ([best net](random_hybrid_3d/0424/74/1))
 
 ---
 
-<div class="summary"><a href="random_2d_ed_dense"><h2>random_2d_ed_dense</h2></a><p>Created 29 Apr 2019, 14:47:43
-</p><a href="random_2d_ed_dense"><img src="random_2d_ed_dense/0410/0/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
+<div class="summary"><a href="random_2d_ed_dense"><h2>random_2d_ed_dense</h2></a><p>Created 07 May 2019, 10:52:52
+</p><a href="random_2d_ed_dense"><img src="random_2d_ed_dense/0503/163/1/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 
-161 nets
+350 nets
 
-**ari**: min -0.0107. max 0.8300. mean 0.5233.  ([best net](random_2d_ed_dense/0410/0/1))
+**ari**: min -0.0107. max 0.8300. mean 0.5113.  ([best net](random_2d_ed_dense/0410/0/1))
 
-**miou**: min 0.0002. max 0.6110. mean 0.2858.  ([best net](random_2d_ed_dense/0410/0/1))
+**miou**: min 0.0002. max 0.6382. mean 0.3046.  ([best net](random_2d_ed_dense/0503/163/1))
 
-**accuracy**: min 0.0009. max 0.9378. mean 0.7261.  ([best net](random_2d_ed_dense/0410/0/0))
+**accuracy**: min 0.0009. max 0.9378. mean 0.7131.  ([best net](random_2d_ed_dense/0410/0/0))
 
-**n_params**: min 52600.0000. max 49701896.0000. mean 4908946.8820.  ([best net](random_2d_ed_dense/0410/227/1))
+**n_params**: min 52581.0000. max 49701896.0000. mean 5148613.5571.  ([best net](random_2d_ed_dense/0410/227/1))
 
 ---
 
-<div class="summary"><a href="random_2d_ed"><h2>random_2d_ed</h2></a><p>Created 29 Apr 2019, 14:47:01
+<div class="summary"><a href="random_2d_ed"><h2>random_2d_ed</h2></a><p>Created 07 May 2019, 10:52:40
 </p><a href="random_2d_ed"><img src="random_2d_ed/0310/5/media/summary.png" align="center"></a><p><i>Click image for more details</i>
 </p></div>
 

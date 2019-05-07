@@ -1,1 +1,1 @@
-{"leaf": true, "dir": "snapshots/random_hybrid_3d/0424/107/1", "n_nets": 1, "name": "Hybrid3DCRF_107_1", "ari": [0.8292003273963928], "miou": [0.6178573966026306], "accuracy": [0.9369033575057983], "n_params": [3355511], "n_iterations": 49680}
+{"leaf": true, "dir": "snapshots/random_hybrid_3d/0424/107/1", "n_nets": 1, "name": "Hybrid3DCRF_107_1", "ari": [0.8291471004486084], "miou": [0.6196323037147522], "accuracy": [0.9372397661209106], "n_params": [3355511], "n_iterations": 55200}
