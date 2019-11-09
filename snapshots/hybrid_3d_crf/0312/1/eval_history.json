@@ -1,0 +1,1 @@
+[{"accuracy": 0.9382292032241821, "adj_rand_idx": 0.8347771763801575, "loss": 161711.234375, "mean_iou": 0.6353241801261902, "global_step": 1728, "name": "Hybrid3D_Mar122019_011054", "param_seed": 244876637, "last_eval_time": 1552369385.0583377, "n_trainable_params": 99439}]

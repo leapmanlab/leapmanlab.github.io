@@ -1,1 +1,0 @@
-{"leaf": true, "dir": "snapshots/random_2d_ed/1210/37/0", "n_nets": 1, "name": "RandomUnet2D_37_1", "ari": [0.8110060691833496], "miou": [0.45237335562705994], "accuracy": [0.9294044375419617], "n_params": [16892864], "n_iterations": 36000}
