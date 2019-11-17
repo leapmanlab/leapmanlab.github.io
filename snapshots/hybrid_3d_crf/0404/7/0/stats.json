@@ -1,1 +1,0 @@
-{"leaf": true, "dir": "snapshots/hybrid_3d_crf/0404/7/0", "n_nets": 1, "name": "Hybrid3DCRF_7_3", "ari": [0.827618420124054], "miou": [0.63406902551651], "accuracy": [0.9362620115280151], "n_params": [1743930], "n_iterations": 44160}

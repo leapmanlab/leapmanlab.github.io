@@ -1,1 +1,0 @@
-[{"accuracy": 0.8810787200927734, "adj_rand_idx": 0.6688928008079529, "loss": 166780.609375, "mean_iou": 0.24031686782836914, "global_step": 576, "name": "UnetSep272019_005456", "param_seed": 1390553989, "last_eval_time": 1569560654.383252, "n_trainable_params": 34085575}]
