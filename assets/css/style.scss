@@ -10,7 +10,15 @@ img.mini { }
   margin: 0 auto;
   text-align: left;
 }
-
+a:link {
+	color: blue;
+}
+a:visited {
+	color: purple;
+}
+a:hover {
+	color: red;
+}
 div.thumbnail { }
 
 .thumbnail p {
@@ -22,3 +30,5 @@ div.thumbnail { }
   width: 100%;
   text-align: left;
 }
+
+
