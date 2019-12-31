@@ -9,7 +9,7 @@
 
 ## Data
 
-[All data from (Guay et al., 2019)](https://www.dropbox.com/s/68yclbraqq1diza/platelet_data_1219.zip) (180 MB)
+[Download ZIP](https://www.dropbox.com/s/68yclbraqq1diza/platelet_data_1219.zip) (180 MB)
 
 ## Examples
 
