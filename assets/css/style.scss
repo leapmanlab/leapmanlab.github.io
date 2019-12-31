@@ -34,6 +34,8 @@ div.thumbnail { }
 .main-content {
 	background-color: #fbfbfb;
 	border-width: 1px;
+	border-top-style: none;
+	border-bottom-style: none;
 	border-left-style: solid;
 	border-right-style: solid;
 	h1, h2, h3, h4 {
