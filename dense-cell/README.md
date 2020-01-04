@@ -15,11 +15,15 @@ A hub for the paper, data, and code associated with the (Guay et al., 2019) pape
 
 [Download ZIP](https://www.dropbox.com/s/68yclbraqq1diza/platelet_data_1219.zip) (180 MB)
 
+---
+
 # Examples
 
 Examples of training and using neural nets for segmenting 3D biomedical SEM images
 
-### Setup
+---
+
+## Setup
 
 #### Requirements
 
