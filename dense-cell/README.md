@@ -44,8 +44,9 @@ ipython kernel install --user --name=leapmanlab
 
 You should now be able to run example notebooks! Each folder within _examples_ contains a separate, self-contained example.
 
+---
 
-### Example 1: Training a U-Net
+## Example 1: Training a U-Net
 
 Training a U-Net from (Ronneberger et al., 2015) [PDF](https://arxiv.org/pdf/1505.04597.pdf) for platelet segmentation.
 
