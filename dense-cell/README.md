@@ -13,4 +13,50 @@
 
 ## Examples
 
-**TODO**
+Examples of training and using neural nets for segmenting 3D biomedical SEM images
+
+### Setup
+
+#### Requirements
+
+This setup was tested on Ubuntu 18.04 with an NVIDIA GTX 1080, using Python 3.6 and TensorFlow 1.15. Information for installing TensorFlow 1.15 with GPU support can be found at [https://www.tensorflow.org/install/gpu](https://www.tensorflow.org/install/gpu).
+
+#### Clone repo
+
+To get all examples, we recommend using `git` to clone our example repo. Zipped source code for each example can also be found in the example descriptions below.
+
+```bash
+git clone https://github.com/leapmanlab/examples
+cd examples
+```
+
+#### Python setup
+
+We recommend using a Python virtual environment. Install packages from _examples/requirements.txt_.
+
+```bash
+python3 -m venv leapmanlab
+source leapmanlab/bin/activate
+pip3 install -r requirements.txt
+# Add a jupyter kernel for the venv
+ipython kernel install --user --name=leapmanlab
+```
+
+You should now be able to run example notebooks! Each folder within _examples_ contains a separate, self-contained example.
+
+
+### Example 1: Training a U-Net
+
+Training a U-Net from (Ronneberger et al., 2015) [PDF](https://arxiv.org/pdf/1505.04597.pdf) for platelet segmentation.
+
+If you cloned the repo above, have the venv active, and are in the _examples_ root directory, you can view the Example 1 notebook locally with
+
+```bash
+cd unet
+jupyter notebook example1_train_unet.ipynb
+```
+
+[View Notebook](example1_train_unet.html)
+
+[Download Source](path/to/src.zip)
+
