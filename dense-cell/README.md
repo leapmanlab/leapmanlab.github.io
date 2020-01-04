@@ -49,14 +49,14 @@ You should now be able to run example notebooks! Each folder within _examples_ c
 
 Training a U-Net from (Ronneberger et al., 2015) [PDF](https://arxiv.org/pdf/1505.04597.pdf) for platelet segmentation.
 
+[View Notebook](example1_train_unet.html)
+
 If you cloned the repo above, have the venv active, and are in the _examples_ root directory, you can view the Example 1 notebook locally with
 
 ```bash
 cd unet
 jupyter notebook example1_train_unet.ipynb
 ```
-
-[View Notebook](example1_train_unet.html)
 
 [Download Source](path/to/src.zip)
 
