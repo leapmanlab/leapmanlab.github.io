@@ -1,7 +1,7 @@
 
 # Dense cellular segmentation using 2D-3D neural network ensembles for electron microscopy
 
-A hub for the paper, data, and code associated with the (Guay et al., 2019) paper by LCIMB, NIBIB.
+A hub for the paper, data, and code associated with the (Guay et al., 2019) paper by [LCIMB, NIBIB](https://www.nibib.nih.gov/labs-at-nibib/laboratory-cellular-imaging-and-macromolecular-biophysics-lcimb).
 
 ### Abstract
 
