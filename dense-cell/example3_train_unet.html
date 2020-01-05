@@ -2,7 +2,7 @@
 <html>
 <head><meta charset="utf-8" />
 
-<title>example1_train_unet</title>
+<title>example3_train_unet</title>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
@@ -13077,7 +13077,7 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Example-1:-U-Net-training">Example 1: U-Net training<a class="anchor-link" href="#Example-1:-U-Net-training">&#182;</a></h1><p>In this example, we build the original U-Net <a href="https://arxiv.org/pdf/1505.04597.pdf">(Ronneberger et al., 2016)</a> in TensorFlow and train it to segment our platelet data into 7 classes. See (Guay et al., 2019) for more details.</p>
+<h1 id="Example-3:-U-Net-training">Example 3: U-Net training<a class="anchor-link" href="#Example-3:-U-Net-training">&#182;</a></h1><p>In this example, we build the original U-Net <a href="https://arxiv.org/pdf/1505.04597.pdf">(Ronneberger et al., 2016)</a> in TensorFlow and train it to segment our platelet data into 7 classes. See (Guay et al., 2019) for more details.</p>
 
 </div>
 </div>
@@ -13105,12 +13105,12 @@ div#notebook {
 <span class="kn">import</span> <span class="nn">tensorflow</span> <span class="k">as</span> <span class="nn">tf</span>
 
 <span class="c1"># Utilities for this example, abstracting away a messy in-lab codebase</span>
-<span class="kn">from</span> <span class="nn">src.demos</span> <span class="k">import</span> <span class="n">demo_data</span><span class="p">,</span> <span class="n">demo_segmentation</span>
-<span class="kn">from</span> <span class="nn">src.download</span> <span class="k">import</span> <span class="n">download_if_missing</span>
-<span class="kn">from</span> <span class="nn">src.initialize_instance</span> <span class="k">import</span> <span class="n">initialize_instance</span>
-<span class="kn">from</span> <span class="nn">src.create_network</span> <span class="k">import</span> <span class="n">create_network</span>
-<span class="kn">from</span> <span class="nn">src.train_and_eval</span> <span class="k">import</span> <span class="n">train_and_eval</span>
-<span class="kn">from</span> <span class="nn">src.segment</span> <span class="k">import</span> <span class="n">segment</span>
+<span class="kn">from</span> <span class="nn">src.demos</span> <span class="kn">import</span> <span class="n">demo_data</span><span class="p">,</span> <span class="n">demo_segmentation</span>
+<span class="kn">from</span> <span class="nn">src.download</span> <span class="kn">import</span> <span class="n">download_data_if_missing</span>
+<span class="kn">from</span> <span class="nn">src.initialize_instance</span> <span class="kn">import</span> <span class="n">initialize_instance</span>
+<span class="kn">from</span> <span class="nn">src.create_network</span> <span class="kn">import</span> <span class="n">create_network</span>
+<span class="kn">from</span> <span class="nn">src.train_and_eval</span> <span class="kn">import</span> <span class="n">train_and_eval</span>
+<span class="kn">from</span> <span class="nn">src.segment</span> <span class="kn">import</span> <span class="n">segment</span>
 
 <span class="n">tf</span><span class="o">.</span><span class="n">logging</span><span class="o">.</span><span class="n">set_verbosity</span><span class="p">(</span><span class="n">tf</span><span class="o">.</span><span class="n">logging</span><span class="o">.</span><span class="n">INFO</span><span class="p">)</span>
 <span class="n">logger_level</span> <span class="o">=</span> <span class="n">logging</span><span class="o">.</span><span class="n">INFO</span>
@@ -13152,8 +13152,8 @@ div#notebook {
 <div class="prompt input_prompt">In&nbsp;[2]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">download_dir</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">expanduser</span><span class="p">(</span><span class="s1">&#39;~/examples/unet/data&#39;</span><span class="p">)</span>
-<span class="n">output_dir</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">expanduser</span><span class="p">(</span><span class="s1">&#39;~/examples/unet/output&#39;</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">download_dir</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">expanduser</span><span class="p">(</span><span class="s1">&#39;~/examples/data&#39;</span><span class="p">)</span>
+<span class="n">output_dir</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">expanduser</span><span class="p">(</span><span class="s1">&#39;~/examples/example3/output&#39;</span><span class="p">)</span>
 </pre></div>
 
     </div>
@@ -13174,7 +13174,7 @@ div#notebook {
 <div class="prompt input_prompt">In&nbsp;[3]:</div>
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">download_if_missing</span><span class="p">(</span><span class="n">download_dir</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">download_data_if_missing</span><span class="p">(</span><span class="n">download_dir</span><span class="p">)</span>
 
 <span class="c1"># Dir containing train/eval/test images</span>
 <span class="n">data_dir</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">download_dir</span><span class="p">,</span> <span class="s1">&#39;platelet_data&#39;</span><span class="p">)</span>
@@ -13362,7 +13362,7 @@ Finished
     <span class="s1">&#39;log_gamma2&#39;</span><span class="p">:</span> <span class="o">-</span><span class="mi">5</span><span class="p">,</span>           <span class="c1"># log10 of L2 regularization on weights (ignored if &lt; -10)</span>
     <span class="s1">&#39;log_gamma1&#39;</span><span class="p">:</span> <span class="o">-</span><span class="mi">11</span><span class="p">,</span>          <span class="c1"># log10 of L1 regularization on weights (ignored if &lt; -10)</span>
     <span class="s1">&#39;padding_type&#39;</span><span class="p">:</span> <span class="s1">&#39;valid&#39;</span><span class="p">,</span>    <span class="c1"># Either &#39;valid&#39; or &#39;same&#39;. Original U-Net used valid</span>
-    <span class="s1">&#39;pooling_type&#39;</span><span class="p">:</span> <span class="s1">&#39;maxpool&#39;</span><span class="p">,</span>  <span class="c1"># Either &#39;maxpool&#39; or &#39;conv&#39;. Original U-Net used maxpool</span>
+    <span class="s1">&#39;pooling_type&#39;</span><span class="p">:</span> <span class="s1">&#39;maxpool&#39;</span>   <span class="c1"># Either &#39;maxpool&#39; or &#39;conv&#39;. Original U-Net used maxpool</span>
 <span class="p">}</span>
 
 <span class="c1"># Optimization settings (ADAM optimizer: https://arxiv.org/pdf/1412.6980.pdf)</span>
@@ -13449,7 +13449,7 @@ settings dicts for the training and evaluation processes.</p>
 </div>
 </div>
 </div>
-<div class="cell border-box-sizing code_cell rendered">
+<div class="cell border-box-sizing code_cell rendered celltag_remove_output">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
 <div class="inner_cell">
@@ -13470,7 +13470,7 @@ settings dicts for the training and evaluation processes.</p>
 </div>
 </div>
 </div>
-<div class="cell border-box-sizing code_cell rendered">
+<div class="cell border-box-sizing code_cell rendered celltag_remove_output">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
 <div class="inner_cell">

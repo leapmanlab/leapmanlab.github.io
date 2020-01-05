@@ -24,7 +24,13 @@ A hub for the paper, data, and code associated with the (Guay et al., 2019) pape
 
 # Examples
 
-Examples of training and using neural nets for segmenting 3D biomedical SEM images
+Examples of training and using neural nets for segmenting 3D biomedical SEM images.
+
+* [Example 1: Try 2D-3D+3x3x3](example1_try_2d3d.html): Download trained 2D-3D+3x3x3 nets, use them to segment downloaded platelet data.
+
+* [Example 2: Train 2D-3D+3x3x3](example2_train_2d3d.html): Download platelet data, train a 2D-3D+3x3x3 net to segment it.
+
+* [Example 3: Train 2D U-Net](example3_train_unet.html): Download platelet data, train a 2D U-Net from (Ronneberger et al., 2015) to segment it. 
 
 ---
 
@@ -60,18 +66,54 @@ You should now be able to run example notebooks! Each folder within _examples_ c
 
 ---
 
-## Example 1: Training a U-Net
+## Example 1: Try out a 2D-3D+3x3x3 net
 
-Training a U-Net from (Ronneberger et al., 2015) [PDF](https://arxiv.org/pdf/1505.04597.pdf) for platelet segmentation.
+Download the top four trained 2D-3D+3x3x3 instances from (Guay et al., 2019) and the platelet SBF-SEM dataset, and use one or more to segment the data.
+
+[View Notebook](example1_try_2d3d.html)
+
+From the _examples_ directory, with the venv active, you can run the Example 1 notebook locally with:
+
+```bash
+cd example1
+jupyter notebook example1_try_2d3d.ipynb
+```
+
+[Download Example 1 Source](https://www.dropbox.com/s/tmpeg1oofk2zxjv/example1_0105.zip?dl=1)
+
+---
+
+## Example 2: Train a 2D-3D+3x3x3 net
+
+Train a 2D-3D+3x3x3 net on the (Guay et al., 2019) platelet SBF-SEM dataset, and try out
+the trained network for segmenting new data.
+
+[View Notebook](example2_train_2d3d.html)
+
+From the _examples_ directory, with the venv active, you can run the Example 2 notebook locally with:
+
+```bash
+cd example2
+jupyter notebook example2_train_2d3d.ipynb
+```
+
+[Download Example 2 Source](https://www.dropbox.com/s/wq6tfzfrabg2k8b/example2_0105.zip?dl=1)
+
+
+---
+
+## Example 3: Train a 2D U-Net
+
+Train the original 2D U-Net from (Ronneberger et al., 2015) [PDF](https://arxiv.org/pdf/1505.04597.pdf) on the (Guay et al., 2019) platelet SBF-SEM dataset, and try out the trained network for segmenting new data.
 
 [View Notebook](example1_train_unet.html)
 
-If you cloned the repo above, have the venv active, and are in the _examples_ root directory, you can view the Example 1 notebook locally with
+From the _examples_ directory, with the venv active, you can run the Example 3 notebook locally with:
 
 ```bash
-cd unet
-jupyter notebook example1_train_unet.ipynb
+cd example3
+jupyter notebook example3_train_unet.ipynb
 ```
 
-[Download Source](https://www.dropbox.com/s/gtrm8p1lmxdosz4/example1_0103.zip?dl=1)
+[Download Example 3 Source](https://www.dropbox.com/s/0toqhb6tbsny01y/example3_0105.zip?dl=1)
 
