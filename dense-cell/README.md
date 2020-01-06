@@ -6,7 +6,7 @@
 <p><i>Click to enlarge</i></p>
 </div>
 
-A hub for the paper, data, and code associated with the (Guay et al., 2019) paper by [LCIMB, NIBIB](https://www.nibib.nih.gov/labs-at-nibib/laboratory-cellular-imaging-and-macromolecular-biophysics-lcimb).
+A hub for the paper, data, and code associated with the [(Guay et al., 2019) paper](https://biorxiv.org/cgi/content/short/2020.01.05.895003v1) by [LCIMB, NIBIB](https://www.nibib.nih.gov/labs-at-nibib/laboratory-cellular-imaging-and-macromolecular-biophysics-lcimb).
 
 ### Abstract
 
@@ -14,7 +14,7 @@ A hub for the paper, data, and code associated with the (Guay et al., 2019) pape
 
 ### Full text
 
-[Read on Biorxiv](https://www.biorxiv.org/content/addactuallinkhere)
+[Read on Biorxiv](https://biorxiv.org/cgi/content/short/2020.01.05.895003v1)
 
 ### Data
 
