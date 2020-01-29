@@ -339,12 +339,148 @@
                 <section data-background="linear-gradient(#32629780, #65666a0a)">
                     <h2>Trust</h2>
 
-                    CARE paper discusses parametric voxel distribution prediction and quantifying ensemble disagreement.
+<!--                    CARE paper discusses parametric voxel distribution prediction and quantifying ensemble disagreement.-->
 
-                    (Xue et al., 2019) uses a Bayesian CNN to quantify CNN prediction uncertainty.
+<!--                    (Xue et al., 2019) uses a Bayesian CNN to quantify CNN prediction uncertainty.-->
 
-                    Anything else?
+<!--                    Anything else?-->
                 </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### Can content-aware methods be trusted?
+
+                        - **Bottom line**: **No**. Not always, not right now.
+
+                        - Neural network image restoration may fail subtly on new data or anomalous structures.
+
+                        - Long term, work on network interpretability will probably make results more trustworthy.
+
+                        - For now, validate like you would validate a human, not an algorithm.
+                    </textarea>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/trust1.png" alt="Network trust example: word restoration">
+
+                    <br/>
+                    <small><a href="https://pdfs.semanticscholar.org/0398/b175a01c68b08272f2cf998837a1650eb946.pdf">(Belthangady et al., 2019)</a>. Demonstration of the pitfalls of data-driven image restoration. An image of the word "Witenagemot" is restored by U-Nets trained on different datasets. Each network produces a visually-plausible answer, but only the one trained on the right dataset produces a correct answer.</small>
+                </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### Model interpretability
+
+                        - Approach 1: **model interpretability**.
+
+                        - How does a network reach its prediction? What image features most contribute to it?
+
+                        - Seminal paper: (Olah et al., 2018) [[link](https://distill.pub/2018/building-blocks/)] for natural image classification.
+
+                        - No rock-solid solutions yet, research is ongoing.
+                    </textarea>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+
+                    <iframe class="stretch" data-src="https://distill.pub/2018/building-blocks/"></iframe>
+
+                </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### Confidence prediction
+
+                        - Approach 2: **predicting network confidence**.
+
+                        - Instead of predicting a single pixel value, predict a per-pixel parametric statistical model.
+
+                        - [(Weigert et al., 2018)](https://www.biorxiv.org/content/biorxiv/early/2018/07/03/236463.full.pdf) tries predicting mean μ and std σ of Laplace distributions per pixel.
+
+                        - Goal: Low σ = high prediction confidence?
+                    </textarea>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/trust2.png" alt="Quantifying network confidence by predicting probability distributions">
+
+                    <br/>
+                    <small><a href="https://www.biorxiv.org/content/biorxiv/early/2018/07/03/236463.full.pdf">(Weigert et al., 2018)</a>. Predicting per-pixel probability distributions allows one to build pseudo-confidence intervals for network predictions. Here, even when ground-truth values differ from predictions, they fall within the predicted confidence interval. Still no guarantees the learned probability distributions converge to anything physical.</small>
+                </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### Ensemble agreement
+
+                        - Approach 3: **measuring ensemble disagreement**.
+
+                        - Ensemble: Collection of statistical models (neural nets or otherwise).
+
+                        - Train multiple instances of the same model from initial conditions.
+
+                        - Measure how well the models agree on a prediction.
+
+                    </textarea>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/trust3.png" alt="Using ensemble disagreement to measure prediction confidence">
+
+                    <br/>
+                    <small><a href="https://www.biorxiv.org/content/biorxiv/early/2018/07/03/236463.full.pdf">(Weigert et al., 2018)</a>. Using ensemble disagreement to measure prediction confidence.</small>
+                </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### Bayesian neural networks
+
+                        - More sophisticated approach: **Bayesian CNNs**.
+
+                        - Learn probability distributions for weights to quantify _model uncertainty_.
+
+                        - Predict probability distributions for restored pixels to quantify _data uncertainty_.
+
+                        - See ([Xue et al., 2019](https://www.osapublishing.org/DirectPDFAccess/DF2983E0-90AF-0DDB-EBACECC4047414E8_412113/optica-6-5-618.pdf)) for an application to phase imaging microscopy.
+                    </textarea>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/trust4.png" alt="Quantifying network confidence with bayesian neural network ensembles">
+
+                    <br/>
+                    <small><a href="https://www.osapublishing.org/DirectPDFAccess/DF2983E0-90AF-0DDB-EBACECC4047414E8_412113/optica-6-5-618.pdf">(Xue et al., 2019)</a>. The authors use ensembles of Bayesian CNNs to quantify uncertainty relative to the data and relative to the model.</small>
+                </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### Conclusion
+
+                        - Content-aware computation lets microscopists cheat physical limits of sample acquisition.
+
+                        - This enables scientific experiments that are impossible otherwise.
+
+                        - Results cannot be entirely trusted, may fail in subtle ways, trustworthiness will probably improve.
+
+                        - **Question**: What do you do today when the problem you want to solve requires content-aware tools?
+                    </textarea>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <h1>Thank you!</h1>
+                </section>
+
 
 
     		</div>
