@@ -1,45 +1,365 @@
 <!doctype html>
 <html lang="">
 	<head>
-		<title>An Introduction to Content-Aware Computation for Optical Microscopy</title>
+		<title>Content-Aware Computation for Optical Microscopy</title>
 		<meta charset="utf-8">
         <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
 
         
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/reveal.min.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/theme/white.min.css">
+        <link type="text/css" rel="stylesheet" href="index.css">
 
 
     </head>
 
     <body>
 
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/js/reveal.min.js"></script>
-
     	<div class="reveal">
     		<div class="slides">
-    			<section>
-    				<h3>An Introduction to Content-Aware Computation for Optical Microscopy</h4>
+
+
+    			<section data-background="linear-gradient(#32629780, #65666a0a)">
+    				<h3>Content-Aware Computation for Optical Microscopy</h3>
+                    <hr/>
+                    <br/>
+                    NIH.AI Workshop: Optical Microscopy
+                    <br/><br/>
     				Matthew Guay, NIH/NIBIB
     			</section>
-    			<section>
-				    <h3>Content-aware computation</h3>
-                    <ul>
-                        <li>Using deep neural networks for image processing and computer vision.</li>
-
-                        <li><b>Image processing</b>: Image normalization, denoising, superresolution.</li>
-
-                        <li><b>Computer vision</b>: Object detection, segmentation, tracking.</li>
-                    </ul>
 
 
-    			</section>
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### Content-aware computation
+
+                        - Currently, convolutional neural networks (CNNs) for image restoration and computer vision.
+
+                        - **Image restoration**: Image denoising, spatial and spectral deconvolution, superresolution, registration, and more!
+
+                        - ** Computer vision**: Object detection and segmentation.
+                    </textarea>
+                </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### The big picture
+
+                        - **Current applications**: What problems are solved today?
+
+                        - **Computational tools**: What algorithms drive solutions?
+
+                        - **Trust**: Can we rely on data-driven methods?
+                    </textarea>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <h2>Current applications</h2>
+                </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### Image denoising
+
+                        - Photon budgets trade off between depth, intensity, and spatial and temporal resolution.
+
+                        - **Main idea**: Cheat the trade-off by restoring image features from low intensity acquisitions.
+
+                        - Seminal paper: Content-Aware Image Restoration: Pushing the Limits of Fluorescence Microscopy (Weigert et al., 2018) [[PDF](https://www.biorxiv.org/content/biorxiv/early/2018/07/03/236463.full.pdf)]
+
+                    </textarea>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/care_flatworm.png" alt="CARE network restoring a low-SNR flatworm image">
+
+                    <br/>
+
+                    <small><a href="https://www.biorxiv.org/content/biorxiv/early/2018/07/03/236463.full.pdf">(Weigert et al., 2018)</a>. Restoring flatworm stained nuclei from low SNR images.</small>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/zoom_flatworm1.png" alt="Comparison of flatworm noisy data, CARE restoration, and ground truth">
+
+                    <br/>
+
+                    <small><a href="https://www.biorxiv.org/content/biorxiv/early/2018/07/03/236463.full.pdf">(Weigert et al., 2018)</a>. Medium-zoom comparison between a low-SNR flatworm image, CARE restoration, and high-SNR ground truth.</small>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/zoom_flatworm2.png" alt="Comparison of flatworm noisy data, CARE restoration, and ground truth">
+
+                    <br/>
+
+                    <small><a href="https://www.biorxiv.org/content/biorxiv/early/2018/07/03/236463.full.pdf">(Weigert et al., 2018)</a>. High-zoom comparison between a low-SNR flatworm image, CARE restoration, and high-SNR ground truth.</small>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/care_beetle.png" alt="CARE network restoring a low-SNR beetle embryo image">
+
+                    <br/>
+
+                    <small><a href="https://www.biorxiv.org/content/biorxiv/early/2018/07/03/236463.full.pdf">(Weigert et al., 2018)</a>. Restoring red flour beetle embryo stained nuclei from low SNR images.</small>
+                </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### Image superresolution
+
+                        - **Main idea**: Improve image resolution beyond raw acquisition limits.
+
+                        - Resolution artifacts may be due to diffraction limits, hardware limits, sparse axial sampling, others?
+
+                        - Learn statistical superresolution models from synthetic data and alternate superresolution techniques (STORM, PALM).
+                    </textarea>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/superres1.png" alt="Diffraction-limited structure enhancement: rat INS-1 cell 1">
+
+                    <br/>
+
+                    <small><a href="https://www.biorxiv.org/content/biorxiv/early/2018/07/03/236463.full.pdf">(Weigert et al., 2018)</a>. CARE enhancement of diffraction-limited secretory granules and microtubules in rat INS-1 cells.</small>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/superres2.png" alt="Diffraction-limited structure enhancement: rat INS-1 cell 2">
+
+                    <br/>
+
+                    <small><a href="https://www.biorxiv.org/content/biorxiv/early/2018/07/03/236463.full.pdf">(Weigert et al., 2018)</a>. CARE enhancement of diffraction-limited secretory granules and microtubules in rat INS-1 cells.</small>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/superres4.png" alt="Superresolution to correct axial anisotropy in a zebrafish retina image">
+
+                    <br/>
+
+                    <small><a href="https://www.biorxiv.org/content/biorxiv/early/2018/07/03/236463.full.pdf">(Weigert et al., 2018)</a>. CARE superresolution to correct axial anisotropy in a zebrafish retina image.</small>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/superres3.png" alt="Additional superresolution examples">
+
+                    <br/>
+                    <small>Additional superresolution examples from the <a href="https://pdfs.semanticscholar.org/0398/b175a01c68b08272f2cf998837a1650eb946.pdf">(Belthangady et al., 2019)</a> review paper.</small>
+                </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### From image restoration to computer vision
+
+                        - Image restoration: Learn a statistical model to infer a high-quality image from low quality.
+
+                        - **Computer vision**: Parse the structural content of an image into constituent objects.
+
+                        - Classic techniques (thresholding, watershedding) work in many cases.
+
+                        - CNNs may improve results in challenging cases, allow novel applications.
+                    </textarea>
+                </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### Image segmentation
+
+                        - **Instance segmentation**: Each distinct object gets a unique label.
+
+                        <img class="stretch" src="img/ex_instance.png" alt="Instance segmentation demo">
+
+                    </textarea>
+                </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### Image segmentation
+
+                        - **Semantic segmentation**: Each "type" of object gets a label, label each pixel.
+
+                        <img class="stretch" src="img/ex_semantic.png" alt="Semantic segmentation demo">
+
+                        <small>Examples adapted from (von Chamier et al., 2019) [[PDF](https://portlandpress.com/biochemsoctrans/article-pdf/47/4/1029/850822/bst-2018-0391c.pdf)] </small>
+                    </textarea>
+                </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### Application: blood cell segmentation
+
+                        - One CNN to segment red blood cells (RBC), another to diagnose malaria presence from segmented cells.
+
+                        <img class="strootch" src="img/malaria.png" alt="Segmentation of red blood cells for malaria detection">
+
+                        <small>(Rajaraman et al., 2018) [[PDF](https://peerj.com/articles/4568.pdf)]. RBC slide, its segmentation, and an overlay. </small>
+                    </textarea>
+                </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### Application: label-free fluorescence imaging
+
+                        - Train a CNN to predict fluorescence targets from bright-field images
+
+                        - Advantage: Predict multiple fluorescence labels at once when that is impractical physically.
+
+                        - Basically, semantic segmentation with fluorescence-derived class labels.
+                    </textarea>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/labelfree1.png" alt="Label-free fluorescence imaging: training">
+
+                    <br/>
+                    <small>(Ounkomol et al., 2018)[<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6212323/pdf/nihms-1501928.pdf">PDF</a>]. Label-free prediction model training on a fluorescence target.</small>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/labelfree2.png" alt="Label-free fluorescence imaging: prediction">
+
+                    <br/>
+                    <small><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6212323/pdf/nihms-1501928.pdf">(Ounkomol et al., 2018)</a>. Multi-target prediction across a time series by combining individually-trained networks.</small>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <h2>Computational tools</h2>
+                </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### Convolutional neural networks
+
+                        - **Main idea**: Learn convolutional features from image data to solve a classification task.
+
+                        - Sequential convolution operations + nonlinearities (ReLU) + pooling: learn abstract image-scale features to solve, e.g., classification problems.
+
+                        - Idea existed since the 90's, resurgence since the 2012 Alexnet results for natural image classification (Krizhevsky et al., 2012) [[PDF](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)]
+                    </textarea>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/cnn1.png" alt="Example of a CNN architecture">
+
+                    <br/>
+                    <small><a href="https://web.stanford.edu/class/cs231a/lectures/intro_cnn.pdf">Source</a>. Example of a small CNN architecture. Convolutional features are learned and transformed into classification predictions about image content.</small>
+                </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### U-Nets
+
+                        - Vanilla CNNs provide coarse classification. What about dense problems? (Segmentation, restoration, etc.)
+
+                        - **U-Net**: Use convolutional encoder + decoder with skip connections for _image-to-image translation_.
+
+                        - Design pattern applies to all restoration and segmentation problems mentioned here.
+
+                        - Seminal paper: (Ronneberger et al., 2015) [[PDF](https://arxiv.org/pdf/1505.04597.pdf)]
+                    </textarea>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/unet.png" alt="Example of a U-Net architecture">
+
+                    <br/>
+                    <small><a href="https://arxiv.org/pdf/1505.04597.pdf">(Ronneberger et al., 2015)</a>. Diagram of the original U-Net architecture.</small>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/unet2.png" alt="Segmentation with U-Net">
+
+                    <br/>
+                    <small><a href="https://arxiv.org/pdf/1505.04597.pdf">(Ronneberger et al., 2015)</a>. Image segmentation example with the U-Net. Blue input tiles provide spatial context for yellow output tiles. Large images can be segmented tile by tile.</small>
+                </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### Generative Adversarial Networks
+
+                        - Simultaneously train two networks, a generator (e.g. U-Net) and discriminator.
+
+                        - Generator trained to perform a task (e.g. image-to-image translation).
+
+                        - Discriminator trained to distinguish generator output from real training samples.
+
+                        - When successful, GAN generators produce more realistic output than without adversarial training.
+                    </textarea>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/gancomparison.png" alt="Comparison of image-to-image translation networks">
+
+                    <br/>
+                    <small><a href="https://pdfs.semanticscholar.org/0398/b175a01c68b08272f2cf998837a1650eb946.pdf">(Belthangady et al., 2019)</a>. Comparison of image-to-image translation networks. A U-Net builds on an encoder-decoder by adding skip connections between convolution blocks. A GAN builds on a generator by forcing its output to be indistinguishable from training samples.</small>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <h3>Example: <a href="https://www.thispersondoesnotexist.com">thispersondoesnotexist.com</a></h3>
+
+                    <iframe class="stretch" data-src="https://thispersondoesnotexist.com"></iframe>
+
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/superres3.png" alt="Additional superresolution examples">
+
+                    <br/>
+                    <small><a href="https://pdfs.semanticscholar.org/0398/b175a01c68b08272f2cf998837a1650eb946.pdf">(Belthangady et al., 2019)</a>. Two superresolution approaches use GANs to force (fast) trainable network outputs to be indistinguishable from (slow) ground truth high-resolution computations.</small>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <h2>Trust</h2>
+
+                    CARE paper discusses parametric voxel distribution prediction and quantifying ensemble disagreement.
+
+                    (Xue et al., 2019) uses a Bayesian CNN to quantify CNN prediction uncertainty.
+
+                    Anything else?
+                </section>
+
+
     		</div>
     	</div>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/js/reveal.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/markdown/marked.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/markdown/markdown.js"></script>
 
         
         <script type="text/javascript">
             Reveal.initialize({
+                // Factor of the display size that should remain empty around the content
+                margin: 0.03,
+
                 // Display controls in the bottom right corner
                 controls: true,
 
@@ -50,7 +370,7 @@
                 defaultTiming: 90,
 
                 // Display the page number of the current slide
-                slideNumber: false,
+                slideNumber: true,
 
                 // Push each slide change to the browser history
                 history: false,
