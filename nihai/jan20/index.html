@@ -160,7 +160,7 @@
 
                 <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
                     <textarea data-template>
-                        ### From image restoration to computer vision
+                        ### Computer vision
 
                         - Image restoration: Learn a statistical model to infer a high-quality image from low quality.
 
@@ -175,7 +175,7 @@
 
                 <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
                     <textarea data-template>
-                        ### Image segmentation
+                        ### Image segmentation - instance
 
                         - **Instance segmentation**: Each distinct object gets a unique label.
 
@@ -187,7 +187,7 @@
 
                 <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
                     <textarea data-template>
-                        ### Image segmentation
+                        ### Image segmentation - semantic
 
                         - **Semantic segmentation**: Each "type" of object gets a label, label each pixel.
 
@@ -268,13 +268,73 @@
 
                 <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
                     <textarea data-template>
+                        ### Convolution for images
+
+                        - Idea: Slide a little window along an image, do some computation in each window.
+
+                        - The computation: dot product between a window-sized **kernel** and the image.
+
+                        - Example: Gaussian blurring convolves a Gaussian kernel with an image.
+
+                        - CNNs learn kernels. Learned kernels are features, convolution output is a **feature map**.
+
+                    </textarea>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/conv_animation.gif" alt="Example of a 2D convolution operation">
+
+                    <br/>
+                    <small><a href="https://commons.wikimedia.org/wiki/File:3D_Convolution_Animation.gif">Source</a>. 2D convolution example. A sharpening kernel is applied to an "image".</small>
+                </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### Activation functions
+
+                        - Linear transforms like convolutions are followed by a nonlinear **activation function**.
+
+                        - Examples: **ReLU** is `$\max(0, x)$`, sigmoid is `$1/\left(1+e^{-x}\right)$`.
+
+                        - Networks with nonlinearities are more expressive: a sequence of linear transforms is just another linear transform.
+                    </textarea>
+                </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
+                        ### Spatial pooling
+
+                        - Downsample an image or feature map to produce a "zoomed-out" view.
+
+                        - Convolution ops applied to downsampled data find patterns across larger spatial scales.
+
+                        - **Max pooling**: replace 2x2 pixel block with the single largest value.
+
+                        - Mean pooling: replace 2x2 pixel block with the average block value.
+                    </textarea>
+                </section>
+
+
+                <section data-background="linear-gradient(#32629780, #65666a0a)">
+                    <img class="stretch" src="img/conv_viz.jpg" alt="Visualizing layers in a simple CNN">
+
+                    <br/>
+                    <small><a href="http://cs231n.github.io/convolutional-networks/">Source</a>. Visualization of layers inside a small image classification CNN.</small>
+                </section>
+
+
+                <section data-markdown data-background="linear-gradient(#32629780, #65666a0a)">
+                    <textarea data-template>
                         ### U-Nets
 
-                        - Vanilla CNNs provide coarse classification. What about dense problems? (Segmentation, restoration, etc.)
+                        - Vanilla CNNs provide spatially-coarse classification.
+
+                        - What about spatially-dense image problems? (Segmentation, restoration, etc.)
 
                         - **U-Net**: Use convolutional encoder + decoder with skip connections for _image-to-image translation_.
-
-                        - Design pattern applies to all restoration and segmentation problems mentioned here.
 
                         - Seminal paper: (Ronneberger et al., 2015) [[PDF](https://arxiv.org/pdf/1505.04597.pdf)]
                     </textarea>
@@ -489,10 +549,17 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/js/reveal.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/markdown/marked.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/markdown/markdown.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/math/math.js"></script>
 
         
         <script type="text/javascript">
             Reveal.initialize({
+
+                math: {
+                    mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js',
+                    config: 'TeX-AMS_HTML-full'
+                },
+
                 // Factor of the display size that should remain empty around the content
                 margin: 0.03,
 
