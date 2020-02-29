@@ -1,9 +1,9 @@
 
 # Dense cellular segmentation using 2D-3D neural network ensembles for electron microscopy
 
-<div>
-<a href="fig1.png"><img src="fig1_thumb.png" align="center"></a>
-<a href="fig3.png"><img src="fig3_thumb.png" align="center"></a>
+<div style="text-align: center">
+<a href="fig1.png"><img style="margin-bottom: 30px;"src="fig1_thumb.png"></a>
+<a href="fig3.png"><img src="fig3_thumb.png"></a>
 <p><i>Click to enlarge</i></p>
 </div>
 
