@@ -1,21 +1,21 @@
 
 # Dense cellular segmentation using 2D-3D neural network ensembles for electron microscopy
 
+A hub for the paper, data, and code associated with the [(Guay et al., 2019) paper](https://biorxiv.org/cgi/content/short/2020.01.05.895003v1) by [LCIMB, NIBIB](https://www.nibib.nih.gov/labs-at-nibib/laboratory-cellular-imaging-and-macromolecular-biophysics-lcimb).
+
+### Full text
+
+[Read on Biorxiv](https://biorxiv.org/cgi/content/short/2020.01.05.895003v1)
+
 <div style="text-align: center">
 <a href="fig1.png"><img style="margin-bottom: 30px;" src="fig1_thumb.png"></a>
 <a href="fig3.png"><img src="fig3_thumb.png"></a>
 <p style="margin-bottom: 15px;"><i>Click to enlarge</i></p>
 </div>
 
-A hub for the paper, data, and code associated with the [(Guay et al., 2019) paper](https://biorxiv.org/cgi/content/short/2020.01.05.895003v1) by [LCIMB, NIBIB](https://www.nibib.nih.gov/labs-at-nibib/laboratory-cellular-imaging-and-macromolecular-biophysics-lcimb).
-
 ### Abstract
 
 > Modern biological electron microscopy produces nanoscale images from biological samples of unprecedented volume, and researchers now face the problem of making use of the data. Image segmentation has played a fundamental role in EM image analysis for decades, but challenges from biological EM have spurred interest and rapid advances in computer vision for automating the segmentation process. In this paper, we demonstrate dense cellular segmentation as a method for generating rich, 3D models of tissues and their constituent cells and organelles from scanning electron microscopy images. We describe how to use ensembles of 2D-3D neural networks to compute dense cellular segmentations of cells and organelles inside two human platelet tissue samples. We conclude by discussing ongoing challenges for realizing practical dense cellular segmentation algorithms.
-
-### Full text
-
-[Read on Biorxiv](https://biorxiv.org/cgi/content/short/2020.01.05.895003v1)
 
 ### Data
 
