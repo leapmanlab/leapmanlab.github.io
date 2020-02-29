@@ -2,9 +2,9 @@
 # Dense cellular segmentation using 2D-3D neural network ensembles for electron microscopy
 
 <div style="text-align: center">
-<a href="fig1.png"><img style="margin-bottom: 30px;"src="fig1_thumb.png"></a>
+<a href="fig1.png"><img style="margin-bottom: 30px;" src="fig1_thumb.png"></a>
 <a href="fig3.png"><img src="fig3_thumb.png"></a>
-<p><i>Click to enlarge</i></p>
+<p style="margin-bottom: 15px;"><i>Click to enlarge</i></p>
 </div>
 
 A hub for the paper, data, and code associated with the [(Guay et al., 2019) paper](https://biorxiv.org/cgi/content/short/2020.01.05.895003v1) by [LCIMB, NIBIB](https://www.nibib.nih.gov/labs-at-nibib/laboratory-cellular-imaging-and-macromolecular-biophysics-lcimb).
