@@ -7,6 +7,8 @@ A hub for the paper, data, and code associated with the [(Guay et al., 2019) pap
 
 [Read on Biorxiv](https://biorxiv.org/cgi/content/short/2020.01.05.895003v1)
 
+---
+
 <div style="text-align: center">
 <a href="fig1.png"><img style="margin-bottom: 30px;" src="fig1_thumb.png"></a>
 <a href="fig3.png"><img src="fig3_thumb.png"></a>
