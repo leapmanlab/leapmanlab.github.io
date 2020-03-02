@@ -5,7 +5,7 @@ A hub for the paper, data, and code associated with the [(Guay et al., 2019) pap
 
 ### Full text
 
-[Read on Biorxiv](https://biorxiv.org/cgi/content/short/2020.01.05.895003v1)
+[Read on Biorxiv](https://biorxiv.org/cgi/content/short/2020.01.05.895003v2)
 
 ---
 
