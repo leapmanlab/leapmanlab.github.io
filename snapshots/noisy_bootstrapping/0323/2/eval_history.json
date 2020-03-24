@@ -1,0 +1,1 @@
+[{"accuracy": 0.8601107597351074, "adj_rand_idx": 0.5972788333892822, "loss": 350828.4375, "mean_iou": 0.2295628935098648, "global_step": 216, "name": "Mixed3DMar232020_150943", "param_seed": 1645, "last_eval_time": 1584991710.9802012, "n_trainable_params": 10283406}]
