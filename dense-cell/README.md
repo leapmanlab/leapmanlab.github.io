@@ -13,7 +13,7 @@ A hub for the paper, data, and code associated with the [(Guay et al., 2019) pap
 <a href="fig1.png"><img src="fig1_thumb.jpg"></a>
 <p style="margin-top: -10px; margin-bottom: 15px;"><i>Click to enlarge</i></p>
 <a href="fig2.png"><img src="fig2_thumb.jpg"></a>
-<p style="margin-bottom: 15px;"><i>Click to enlarge</i></p>
+<p style="margin-top: -10px; margin-bottom: 15px;"><i>Click to enlarge</i></p>
 <iframe width="800" height="450" src="https://www.youtube.com/embed/ch9uEl9FbNI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
