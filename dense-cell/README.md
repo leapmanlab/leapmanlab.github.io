@@ -1,18 +1,18 @@
 
 # Dense cellular segmentation using 2D-3D neural network ensembles for electron microscopy
 
-A hub for the paper, data, and code associated with the [(Guay et al., 2019) paper](https://biorxiv.org/cgi/content/short/2020.01.05.895003v1) by [LCIMB, NIBIB](https://www.nibib.nih.gov/labs-at-nibib/laboratory-cellular-imaging-and-macromolecular-biophysics-lcimb).
+A hub for the paper, data, and code associated with the [(Guay et al., 2019) paper](https://biorxiv.org/cgi/content/short/2020.01.05.895003v3) by [LCIMB, NIBIB](https://www.nibib.nih.gov/labs-at-nibib/laboratory-cellular-imaging-and-macromolecular-biophysics-lcimb).
 
 ### Full text
 
-[Read on Biorxiv](https://biorxiv.org/cgi/content/short/2020.01.05.895003v2)
+[Read on Biorxiv](https://biorxiv.org/cgi/content/short/2020.01.05.895003v3)
 
 ---
 
 <div style="text-align: center">
-<a href="fig1.png"><img style="margin-bottom: 5px;" src="fig1_thumb.jpg"></a>
+<a href="fig1.png"><img src="fig1_thumb.jpg"></a>
 <p style="margin-bottom: 15px;"><i>Click to enlarge</i></p>
-<a href="fig2.png"><img style="margin-bottom: 5px;" src="fig2_thumb.jpg"></a>
+<a href="fig2.png"><img src="fig2_thumb.jpg"></a>
 <p style="margin-bottom: 15px;"><i>Click to enlarge</i></p>
 <iframe width="800" height="450" src="https://www.youtube.com/embed/ch9uEl9FbNI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
