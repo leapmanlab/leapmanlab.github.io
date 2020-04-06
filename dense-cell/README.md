@@ -62,7 +62,7 @@ cd examples
 
 #### Python setup
 
-We recommend using a Python virtual environment. Install packages from _examples/requirements.txt_.
+We recommend using a Python virtual environment (venv). Install packages from _examples/requirements.txt_.
 
 ```bash
 python3 -m venv leapmanlab
