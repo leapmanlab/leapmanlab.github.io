@@ -27,6 +27,8 @@ A hub for the paper, data, and code associated with the [(Guay et al., 2020) pap
 
 # Data
 
+The EM image datasets, manually-created ground-truth segmentation labels, and the training error weighting array used in the (Guay et al., 2020) paper are freely available for download to facilitate replication of our results.
+
 [Download ZIP](https://www.dropbox.com/s/68yclbraqq1diza/platelet_data_1219.zip) (180 MB)
 
 ---
