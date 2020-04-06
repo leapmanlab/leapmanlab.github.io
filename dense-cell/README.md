@@ -1,5 +1,5 @@
 
-# Dense cellular segmentation using 2D-3D neural network ensembles for electron microscopy
+# Dense cellular segmentation for EM using 2D-3D neural network ensembles
 
 ### Abstract
 
