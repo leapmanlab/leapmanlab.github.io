@@ -23,7 +23,9 @@ A hub for the paper, data, and code associated with the [(Guay et al., 2020) pap
     </div>
 </div>
 
-### Data
+---
+
+# Data
 
 [Download ZIP](https://www.dropbox.com/s/68yclbraqq1diza/platelet_data_1219.zip) (180 MB)
 
