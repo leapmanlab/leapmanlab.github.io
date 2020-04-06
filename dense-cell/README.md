@@ -15,7 +15,7 @@ A hub for the paper, data, and code associated with the [(Guay et al., 2020) pap
 <a href="fig2.png"><img src="fig2_thumb.jpg"></a>
 <p style="margin-top: -10px; margin-bottom: 15px;"><i>Click to enlarge</i></p>
     <div style="aspect-ratio">
-    <iframe width="400" height="200" frameborder="0" src="https://www.youtube.com/embed/ch9uEl9FbNI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="400" height="200" src="https://www.youtube.com/embed/ch9uEl9FbNI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 
