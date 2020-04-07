@@ -49,11 +49,14 @@ Examples of training and using neural nets for segmenting 3D biomedical SEM imag
 
 #### Requirements
 
-This setup was tested on Ubuntu 18.04 with an NVIDIA GTX 1080, using Python 3.6 and TensorFlow 1.15. Information for installing TensorFlow 1.15 with GPU support can be found at [https://www.tensorflow.org/install/gpu](https://www.tensorflow.org/install/gpu).
+This setup was tested on Ubuntu 18.04 with an NVIDIA GTX 1080, using Python 3.6 and TensorFlow 1.15. Information for installing TensorFlow with GPU support can be found at [https://www.tensorflow.org/install/gpu](https://www.tensorflow.org/install/gpu).
+
+The example repo uses Jupyter notebooks to present example applications. See [jupyter.org/install](https://jupyter.org/install) for Jupyter notebook installation instructions.
+
 
 #### Clone repo
 
-To get all examples, we recommend using `git` to clone our example repo. Zipped source code for each example can also be found in the example descriptions below.
+To get all examples, we recommend using `git` to clone our example repo. Zipped source code for individual examples can also be found in the example descriptions below.
 
 ```bash
 git clone https://github.com/leapmanlab/examples
@@ -69,11 +72,13 @@ python3 -m venv leapmanlab
 source leapmanlab/bin/activate
 pip3 install --upgrade pip
 pip3 install -r requirements.txt
-# Add a jupyter kernel for the venv
+# Add a jupyter kernel for the venv.
+# 'ipython' should point to whichever ipython was bundled with
+# your Jupyter notebook install. 
 ipython kernel install --user --name=leapmanlab
 ```
 
-You should now be able to run example notebooks! Each folder within _examples_ contains a separate, self-contained example.
+You should now be able to run example notebooks. Each folder within _examples_ contains a separate, self-contained example.
 
 ---
 
