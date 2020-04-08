@@ -72,10 +72,7 @@ python3 -m venv leapmanlab
 source leapmanlab/bin/activate
 pip3 install --upgrade pip
 pip3 install -r requirements.txt
-# Add a jupyter kernel for the venv.
-# 'ipython' should point to whichever ipython was bundled with
-# your Jupyter notebook install. 
-ipython kernel install --user --name=leapmanlab
+python3 -m ipykernel install --user --name=leapmanlab
 ```
 
 You should now be able to run example notebooks. Each folder within _examples_ contains a separate, self-contained example.
