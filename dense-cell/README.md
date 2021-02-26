@@ -7,9 +7,9 @@
 
 A hub for the paper, data, and code associated with the [(Guay et al., 2020) paper](https://biorxiv.org/cgi/content/short/2020.01.05.895003v4) by [LCIMB, NIBIB](https://www.nibib.nih.gov/labs-at-nibib/laboratory-cellular-imaging-and-macromolecular-biophysics-lcimb).
 
-### Full text
+### Publication
 
-[Read on Biorxiv](https://biorxiv.org/cgi/content/short/2020.01.05.895003v4)
+[Read the full text from Scientific Reports](https://www.nature.com/articles/s41598-021-81590-0)
 
 ---
 
