@@ -5,7 +5,7 @@
 
 >  Cell biologists can now build 3D models from segmentations of electron microscopy (EM) images, but accurate manual segmentation of densely-packed organelles across gigavoxel image volumes is infeasible. Here, we introduce 2D-3D neural network ensembles that produce dense cellular segmentations at scale, with accuracy levels that outperform baseline methods and approach those of human annotators.
 
-A hub for the paper, data, and code associated with the [(Guay et al., 2020) paper](https://biorxiv.org/cgi/content/short/2020.01.05.895003v4) by [LCIMB, NIBIB](https://www.nibib.nih.gov/labs-at-nibib/laboratory-cellular-imaging-and-macromolecular-biophysics-lcimb).
+A hub for the paper, data, and code associated with the [(Guay et al., 2021) paper](https://biorxiv.org/cgi/content/short/2020.01.05.895003v4) by [LCIMB, NIBIB](https://www.nibib.nih.gov/labs-at-nibib/laboratory-cellular-imaging-and-macromolecular-biophysics-lcimb).
 
 ### Publication
 
@@ -27,7 +27,7 @@ A hub for the paper, data, and code associated with the [(Guay et al., 2020) pap
 
 # Data
 
-The EM image datasets, manually-created ground-truth segmentation labels, and the training error weighting array used in the [(Guay et al., 2020) paper](https://biorxiv.org/cgi/content/short/2020.01.05.895003v4) paper are freely available for download to facilitate replication of our results.
+The EM image datasets, manually-created ground-truth segmentation labels, and the training error weighting array used in the [(Guay et al., 2021) paper](https://biorxiv.org/cgi/content/short/2020.01.05.895003v4) paper are freely available for download to facilitate replication of our results.
 
 [Download ZIP](https://www.dropbox.com/s/68yclbraqq1diza/platelet_data_1219.zip) (180 MB)
 
